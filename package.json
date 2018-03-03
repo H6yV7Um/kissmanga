@@ -1,0 +1,22 @@
+{
+  "name": "hakuneko-kissmanga",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manga-download/kissmanga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manga-download/kissmanga/issues"
+  },
+  "homepage": "https://github.com/manga-download/kissmanga#readme",
+  "dependencies": {
+    "hakuneko": "^0.2.81"
+  }
+}
