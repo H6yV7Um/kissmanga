@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/manga-download/kissmanga#readme",
   "dependencies": {
-    "hakuneko": "^0.2.81"
+    "hakuneko": ""
   }
 }
