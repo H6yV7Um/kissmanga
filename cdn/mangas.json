@@ -1,5 +1,77 @@
 [
   {
+    "id": "Xianxia-Shijie-2",
+    "title": "Xianxia Shijie"
+  },
+  {
+    "id": "Tales-of-Demons-and-Gods",
+    "title": "Tales of Demons and Gods"
+  },
+  {
+    "id": "Cherry-Tomato",
+    "title": "Cherry Tomato"
+  },
+  {
+    "id": "Dakara-Miyoko-Desu",
+    "title": "Dakara Miyoko Desu"
+  },
+  {
+    "id": "My-Pet-Dog-Is-a-God",
+    "title": "My Pet Dog Is a God"
+  },
+  {
+    "id": "Bobobo-bo-Bo-Bobo",
+    "title": "Bobobo-bo Bo-Bobo"
+  },
+  {
+    "id": "Mousou-Telepathy",
+    "title": "Mousou Telepathy"
+  },
+  {
+    "id": "Jigokuraku--KAKU-Yuuji-",
+    "title": "Jigokuraku (KAKU Yuuji)"
+  },
+  {
+    "id": "Sasori",
+    "title": "Sasori"
+  },
+  {
+    "id": "Shudan",
+    "title": "Shudan!"
+  },
+  {
+    "id": "Otokojuku-Gaiden-Date-Omito",
+    "title": "Otokojuku Gaiden - Date Omito"
+  },
+  {
+    "id": "QED",
+    "title": "QED"
+  },
+  {
+    "id": "Manuke-na-FPS-Player-ga-Isekai-e-Ochita-Baai",
+    "title": "Manuke na FPS Player ga Isekai e Ochita Baai"
+  },
+  {
+    "id": "Tenkuu-Shinpan",
+    "title": "Tenkuu Shinpan"
+  },
+  {
+    "id": "Sora-no-Kanata-no",
+    "title": "Sora no Kanata no!"
+  },
+  {
+    "id": "Setsuna-Graffiti",
+    "title": "Setsuna Graffiti"
+  },
+  {
+    "id": "Jaku-chara-Tomozaki-kun",
+    "title": "Jaku-chara Tomozaki-kun"
+  },
+  {
+    "id": "Puchimasu",
+    "title": "Puchimasu!"
+  },
+  {
     "id": "Hakaima-Sadamitsu",
     "title": "Hakaima Sadamitsu"
   },
@@ -128,14 +200,6 @@
     "title": "Ao no Flag"
   },
   {
-    "id": "unOrdinary",
-    "title": "unOrdinary"
-  },
-  {
-    "id": "Hakoiri-Drops",
-    "title": "Hakoiri Drops"
-  },
-  {
     "id": "Please-don-t-bully-me-Nagatoro",
     "title": "Please don't bully me, Nagatoro"
   },
@@ -180,10 +244,6 @@
     "title": "Ansatsu Kyoushitsu Spin-off Koro-sense Q!"
   },
   {
-    "id": "Xianxia-Shijie-2",
-    "title": "Xianxia Shijie"
-  },
-  {
     "id": "Emiya-san-Chi-no-Kyou-no-Gohan",
     "title": "Emiya-san Chi no Kyou no Gohan"
   },
@@ -198,6 +258,46 @@
   {
     "id": "Shirokuma-Tensei",
     "title": "Shirokuma Tensei"
+  },
+  {
+    "id": "Udon-no-Kuni-no-Kiniro-Kemari",
+    "title": "Udon no Kuni no Kiniro Kemari"
+  },
+  {
+    "id": "Chuuko-demo-Koi-ga-Shitai",
+    "title": "Chuuko demo Koi ga Shitai!"
+  },
+  {
+    "id": "Tabi-to-Michizure",
+    "title": "Tabi to Michizure"
+  },
+  {
+    "id": "Boyfriend-Of-The-Dead",
+    "title": "Boyfriend Of The Dead"
+  },
+  {
+    "id": "I-Shall-Seal-the-Heavens",
+    "title": "I Shall Seal the Heavens"
+  },
+  {
+    "id": "God-of-Martial-Arts",
+    "title": "God of Martial Arts"
+  },
+  {
+    "id": "Dagashi-Kashi",
+    "title": "Dagashi Kashi"
+  },
+  {
+    "id": "Brawling-Go",
+    "title": "Brawling Go"
+  },
+  {
+    "id": "Slow-Start-TOKUMI-Yuiko",
+    "title": "Slow Start (TOKUMI Yuiko)"
+  },
+  {
+    "id": "Dakara-Miyoko-Desu",
+    "title": "Dakara Miyoko Desu"
   },
   {
     "id": "Amano-Megumi-wa-Suki-Darake",
@@ -224,16 +324,8 @@
     "title": "Secret Order"
   },
   {
-    "id": "Mousou-Telepathy",
-    "title": "Mousou Telepathy"
-  },
-  {
     "id": "High-School-DxD",
     "title": "High-School DxD"
-  },
-  {
-    "id": "Manuke-na-FPS-Player-ga-Isekai-e-Ochita-Baai",
-    "title": "Manuke na FPS Player ga Isekai e Ochita Baai"
   },
   {
     "id": "Tsubaki-sama-didn-t-bloom-yet",
@@ -278,6 +370,34 @@
   {
     "id": "Prince-of-Prince",
     "title": "Prince of Prince"
+  },
+  {
+    "id": "Hoshino-Me-o-Tsubutte",
+    "title": "Hoshino, Me o Tsubutte."
+  },
+  {
+    "id": "Fire-Emblem-Heroes-Daily-Lives-of-the-Heroes",
+    "title": "Fire Emblem Heroes Daily Lives of the Heroes"
+  },
+  {
+    "id": "Siscon-Ani-to-Brocon-Imouto-ga-Shoujiki-ni-Nattara",
+    "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara"
+  },
+  {
+    "id": "Noblesse",
+    "title": "Noblesse (Manhwa)"
+  },
+  {
+    "id": "My-ID-is-Gangnam-Beauty",
+    "title": "My ID is Gangnam Beauty"
+  },
+  {
+    "id": "Tobaku-Datenroku-Kaiji-One-Poker-Hen",
+    "title": "Tobaku Datenroku Kaiji - One Poker Hen"
+  },
+  {
+    "id": "Bread-Butter",
+    "title": "Bread & Butter"
   },
   {
     "id": "Hoshino-Me-o-Tsubutte",
@@ -400,8 +520,20 @@
     "title": "Summer Time Render"
   },
   {
-    "id": "Goumon-Tournament",
-    "title": "Goumon Tournament"
+    "id": "Infection",
+    "title": "Infection"
+  },
+  {
+    "id": "Baka-and-Boing",
+    "title": "Baka and Boing"
+  },
+  {
+    "id": "Sozai-Saishuka-no-Isekai-Ryokouki",
+    "title": "Sozai Saishuka no Isekai Ryokouki"
+  },
+  {
+    "id": "Mata-Kataomou",
+    "title": "Mata, Kataomou"
   },
   {
     "id": "Troll-Trap",
@@ -468,18 +600,6 @@
     "title": "Kimetsu no Yaiba"
   },
   {
-    "id": "Weak-5000-Year-Old-Vegan-Dragon",
-    "title": "Weak 5000-Year Old Vegan Dragon"
-  },
-  {
-    "id": "Danchigai",
-    "title": "Danchigai"
-  },
-  {
-    "id": "Hanebado",
-    "title": "Hanebado!"
-  },
-  {
     "id": "Omaera-Zenin-Mendokusai",
     "title": "Omaera Zenin Mendokusai!"
   },
@@ -538,66 +658,6 @@
   {
     "id": "Tsubaki-chou-Lonely-Planet",
     "title": "Tsubaki-chou Lonely Planet"
-  },
-  {
-    "id": "Meido-no-Koi-wa-Enma-Shidai",
-    "title": "Meido no Koi wa Enma Shidai!"
-  },
-  {
-    "id": "Cosplay-Animal",
-    "title": "Cosplay Animal"
-  },
-  {
-    "id": "Tokyo-DTED",
-    "title": "Tokyo DTED"
-  },
-  {
-    "id": "Haruka-17",
-    "title": "Haruka 17"
-  },
-  {
-    "id": "Neo-Maou-Dante",
-    "title": "Neo Maou Dante"
-  },
-  {
-    "id": "Elf-san-wa-Yaserarenai",
-    "title": "Elf-san wa Yaserarenai."
-  },
-  {
-    "id": "Family-Size",
-    "title": "Family Size"
-  },
-  {
-    "id": "Dacha-s-Kitchen",
-    "title": "Dacha's Kitchen"
-  },
-  {
-    "id": "Lovely-Again-Today",
-    "title": "Lovely Again Today"
-  },
-  {
-    "id": "Seirei-Gensouki-Konna-Sekai-de-Deaeta-Kimi-ni-MINAZUKI-Futago-",
-    "title": "Seirei Gensouki - Konna Sekai de Deaeta Kimi ni (MINAZUKI Futago)"
-  },
-  {
-    "id": "Getsuyoubi-no-Tawawa",
-    "title": "Getsuyoubi no Tawawa"
-  },
-  {
-    "id": "Xingchen-Bian",
-    "title": "Xingchen Bian"
-  },
-  {
-    "id": "The-Devil-King-Is-Bored",
-    "title": "The Devil King Is Bored"
-  },
-  {
-    "id": "Okusan",
-    "title": "Okusan"
-  },
-  {
-    "id": "Rokudou-no-Onna-tachi",
-    "title": "Rokudou no Onna-tachi"
   },
   {
     "id": "Meido-no-Koi-wa-Enma-Shidai",
@@ -740,26 +800,6 @@
     "title": "Onepunch-Man"
   },
   {
-    "id": "Lime-Odyssey-The-Chronicles-of-ORTA",
-    "title": "Lime Odyssey: The Chronicles of ORTA"
-  },
-  {
-    "id": "Ouji-sama-Nante-Iranai",
-    "title": "Ouji-sama Nante Iranai"
-  },
-  {
-    "id": "Soukaku-Kankei-",
-    "title": "Soukaku Kankei."
-  },
-  {
-    "id": "Betterman",
-    "title": "Betterman"
-  },
-  {
-    "id": "Keppeki-Danshi-Aoyama-kun",
-    "title": "Keppeki Danshi! Aoyama-kun"
-  },
-  {
     "id": "Full-Marks-Hidden-Marriage",
     "title": "Full Marks Hidden Marriage"
   },
@@ -798,6 +838,50 @@
   {
     "id": "Psychometrer-Eiji",
     "title": "Psychometrer Eiji"
+  },
+  {
+    "id": "Da-Zhu-Zai",
+    "title": "Da Zhu Zai"
+  },
+  {
+    "id": "The-Scholar-s-Reincarnation",
+    "title": "The Scholar's Reincarnation"
+  },
+  {
+    "id": "Shuukan-Shounen-Hachi",
+    "title": "Shuukan Shounen Hachi"
+  },
+  {
+    "id": "ReLIFE",
+    "title": "ReLIFE"
+  },
+  {
+    "id": "Flirt-with-a-Prince",
+    "title": "Flirt with a Prince"
+  },
+  {
+    "id": "Leaf-and-Bell",
+    "title": "Leaf and Bell"
+  },
+  {
+    "id": "Tenshi-to-Akuto",
+    "title": "Tenshi to Akuto!!"
+  },
+  {
+    "id": "Kirakira-Precure-a-la-Mode",
+    "title": "Kirakira Precure à la Mode"
+  },
+  {
+    "id": "Kuroshitsuji",
+    "title": "Kuroshitsuji"
+  },
+  {
+    "id": "Baby-Steps",
+    "title": "Baby Steps"
+  },
+  {
+    "id": "Jagaaaaaan",
+    "title": "Jagaaaaaan"
   },
   {
     "id": "Kobayashi-san-Chi-no-Maid-Dragon",
@@ -878,6 +962,42 @@
   {
     "id": "helvetica",
     "title": "helvetica"
+  },
+  {
+    "id": "Neko-Musume-Michikusa-Nikki",
+    "title": "Neko Musume Michikusa Nikki"
+  },
+  {
+    "id": "I-m-a-Loser",
+    "title": "I'm a Loser"
+  },
+  {
+    "id": "Raisekamika",
+    "title": "Raisekamika"
+  },
+  {
+    "id": "Saguri-chan-Tankentai",
+    "title": "Saguri-chan Tankentai"
+  },
+  {
+    "id": "Bungo-Stray-Dogs",
+    "title": "Bungo Stray Dogs"
+  },
+  {
+    "id": "Cheese-in-the-Trap",
+    "title": "Cheese in the Trap"
+  },
+  {
+    "id": "Lookism",
+    "title": "Lookism"
+  },
+  {
+    "id": "Normal-Class-8",
+    "title": "Normal Class 8"
+  },
+  {
+    "id": "My-Dear-Cold-Blooded-King",
+    "title": "My Dear Cold-Blooded King"
   },
   {
     "id": "Neko-Musume-Michikusa-Nikki",
@@ -1000,8 +1120,16 @@
     "title": "Renai Kaidan Sayoko-san"
   },
   {
-    "id": "Tales-of-Demons-and-Gods",
-    "title": "Tales of Demons and Gods"
+    "id": "Masamune-kun-no-Revenge",
+    "title": "Masamune-kun no Revenge"
+  },
+  {
+    "id": "Maou-jou-de-Oyasumi",
+    "title": "Maou-jou de Oyasumi"
+  },
+  {
+    "id": "Butterfly-Storage",
+    "title": "Butterfly Storage"
   },
   {
     "id": "This-Doesn-t-Feel-Like-Me",
@@ -1072,34 +1200,6 @@
     "title": "Miseinen dakedo Kodomo ja Nai"
   },
   {
-    "id": "Karate-Shoukoushi-Kohinata-Minoru",
-    "title": "Karate Shoukoushi Kohinata Minoru"
-  },
-  {
-    "id": "Hajime-chan-ga-Ichiban",
-    "title": "Hajime-chan ga Ichiban!"
-  },
-  {
-    "id": "Gun-x-Clover",
-    "title": "Gun x Clover"
-  },
-  {
-    "id": "Youkai-Watch-Wakuwaku-Nyanderful-Days",
-    "title": "Youkai Watch - Wakuwaku Nyanderful Days"
-  },
-  {
-    "id": "Shitsuji-tachi-no-Chinmoku-SAKURADA-Hina",
-    "title": "Shitsuji-tachi no Chinmoku (SAKURADA Hina)"
-  },
-  {
-    "id": "Risouteki-Boyfriend",
-    "title": "Risouteki Boyfriend"
-  },
-  {
-    "id": "Hardcore-Leveling-Warrior",
-    "title": "Hardcore Leveling Warrior"
-  },
-  {
     "id": "Hadacamera",
     "title": "Hadacamera"
   },
@@ -1146,58 +1246,6 @@
   {
     "id": "Tejina-Senpai",
     "title": "Tejina Senpai"
-  },
-  {
-    "id": "Boku-wa-Beatles",
-    "title": "Boku wa Beatles"
-  },
-  {
-    "id": "Siren-s-Lament",
-    "title": "Siren's Lament"
-  },
-  {
-    "id": "Kaguya-sama-wa-Kokurasetai-Tensai-tachi-no-Renai-Zunousen",
-    "title": "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
-  },
-  {
-    "id": "Aono-kun-ni-Sawaritai-kara-Shinitai",
-    "title": "Aono-kun ni Sawaritai kara Shinitai"
-  },
-  {
-    "id": "Beauty-Bunny",
-    "title": "Beauty Bunny"
-  },
-  {
-    "id": "Aoba-kun-ni-Kikitai-Koto",
-    "title": "Aoba-kun ni Kikitai Koto"
-  },
-  {
-    "id": "Beageruta",
-    "title": "Beageruta"
-  },
-  {
-    "id": "Gozen-0-ji-Kiss-Shi-ni-Kite-yo",
-    "title": "Gozen 0-ji, Kiss Shi ni Kite yo"
-  },
-  {
-    "id": "Boku-to-Kimi-no-Taisetsu-na-Hanashi",
-    "title": "Boku to Kimi no Taisetsu na Hanashi"
-  },
-  {
-    "id": "Museum-The-Serial-Killer-Is-Laughing-in-the-Rain",
-    "title": "Museum - \"The Serial Killer Is Laughing in the Rain\""
-  },
-  {
-    "id": "Kigurumi-Boueitai",
-    "title": "Kigurumi Boueitai"
-  },
-  {
-    "id": "Moujuusei-Shounen-Shoujo",
-    "title": "Moujuusei Shounen Shoujo"
-  },
-  {
-    "id": "Gintama",
-    "title": "Gintama"
   },
   {
     "id": "Boku-wa-Beatles",
@@ -1352,10 +1400,6 @@
     "title": "Sheriff Evans' Lies"
   },
   {
-    "id": "Haikyuu",
-    "title": "Haikyuu!!"
-  },
-  {
     "id": "Zero-The-Man-of-the-Creation",
     "title": "Zero - The Man of the Creation"
   },
@@ -1398,6 +1442,50 @@
   {
     "id": "Sailor-Fuku-to-Juusensha",
     "title": "Sailor Fuku to Juusensha"
+  },
+  {
+    "id": "Isekai-Izakaya-Nobu",
+    "title": "Isekai Izakaya \"Nobu\""
+  },
+  {
+    "id": "Kimi-ga-Shinanai-Hi-no-Gohan",
+    "title": "Kimi ga Shinanai Hi no Gohan"
+  },
+  {
+    "id": "Kasane",
+    "title": "Kasane"
+  },
+  {
+    "id": "Black-Clover",
+    "title": "Black Clover"
+  },
+  {
+    "id": "Ojisama-to-Neko",
+    "title": "Ojisama to Neko"
+  },
+  {
+    "id": "I-Don-t-Want-This-Kind-of-Hero",
+    "title": "I Don't Want This Kind of Hero"
+  },
+  {
+    "id": "The-Gamer",
+    "title": "The Gamer"
+  },
+  {
+    "id": "Cupid-s-Chocolates",
+    "title": "Cupid's Chocolates"
+  },
+  {
+    "id": "Dr-Stone",
+    "title": "Dr. Stone"
+  },
+  {
+    "id": "One-Piece",
+    "title": "One Piece"
+  },
+  {
+    "id": "Nano-List",
+    "title": "Nano List"
   },
   {
     "id": "Athena-Complex",
@@ -1512,6 +1600,30 @@
     "title": "Kusumi-kun, Kuuki Yometemasu ka?"
   },
   {
+    "id": "The-Magic-Chef-of-Ice-and-Fire-2",
+    "title": "The Magic Chef of Ice and Fire 2"
+  },
+  {
+    "id": "Tang-Yin",
+    "title": "Tang Yin"
+  },
+  {
+    "id": "Toaru-Kagaku-no-Railgun-Gaiden-Astral-Body",
+    "title": "Toaru Kagaku no Railgun Gaiden: Astral Body"
+  },
+  {
+    "id": "Zannen-Jokanbu-Black-General-san",
+    "title": "Zannen Jokanbu Black General-san"
+  },
+  {
+    "id": "Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-Toshite-Rachirareta-Ken",
+    "title": "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Rachirareta Ken"
+  },
+  {
+    "id": "Kusumi-kun-Kuuki-Yometemasu-ka",
+    "title": "Kusumi-kun, Kuuki Yometemasu ka?"
+  },
+  {
     "id": "Ragnac-Crimson",
     "title": "Ragna Crimson"
   },
@@ -1600,6 +1712,18 @@
     "title": "Toaru Majutsu no Kinsho Mokuroku Gaiden - To Aru Kagaku no Ippou Tsuukou"
   },
   {
+    "id": "Majonna-Mikamoto-Rei-Extra-Works",
+    "title": "Majonna - Mikamoto Rei Extra Works"
+  },
+  {
+    "id": "Aho-Girl",
+    "title": "Aho Girl"
+  },
+  {
+    "id": "Koiiji",
+    "title": "Koiiji"
+  },
+  {
     "id": "Hibari-no-Asa",
     "title": "Hibari no Asa"
   },
@@ -1652,20 +1776,12 @@
     "title": "Umareru Seibetsu wo Machigaeta!"
   },
   {
-    "id": "To-You-The-Immortal",
-    "title": "To You, The Immortal"
-  },
-  {
     "id": "Ano-Musume-ni-Kiss-to-Shirayuri-o",
     "title": "Ano Musume ni Kiss to Shirayuri o"
   },
   {
     "id": "Between-Smooth-and-Rough",
     "title": "Between Smooth and Rough"
-  },
-  {
-    "id": "Ojojojo",
-    "title": "Ojojojo"
   },
   {
     "id": "Chong-Sheng-Resurrection",
@@ -1682,10 +1798,6 @@
   {
     "id": "Ane-Log-Moyako-Neesan-no-Tomaranai-Monologue",
     "title": "Ane Log - Moyako Neesan no Tomaranai Monologue"
-  },
-  {
-    "id": "Tanaka-The-Wizard",
-    "title": "Tanaka The Wizard"
   },
   {
     "id": "Innocent-Devil",
@@ -1732,20 +1844,12 @@
     "title": "Komi-san wa Komyushou Desu."
   },
   {
-    "id": "QED",
-    "title": "QED"
-  },
-  {
     "id": "Robot-x-Laserbeam",
     "title": "Robot x Laserbeam"
   },
   {
     "id": "Daiya-no-A-Act-II",
     "title": "Daiya no A - Act II"
-  },
-  {
-    "id": "Tenkuu-Shinpan",
-    "title": "Tenkuu Shinpan"
   },
   {
     "id": "Hare-Kon",
@@ -1798,6 +1902,10 @@
   {
     "id": "Overlord",
     "title": "Overlord"
+  },
+  {
+    "id": "Goblin-Slayer",
+    "title": "Goblin Slayer"
   },
   {
     "id": "Seikai-no-Monshou-YONEMURA-Kouichirou",
@@ -1876,10 +1984,6 @@
     "title": "The New Gate"
   },
   {
-    "id": "Grand-Blue",
-    "title": "Grand Blue"
-  },
-  {
     "id": "Daikousha-Nagi",
     "title": "Daikousha Nagi"
   },
@@ -1888,28 +1992,12 @@
     "title": "Tantei Gakuen Q"
   },
   {
-    "id": "Jigokuraku--KAKU-Yuuji-",
-    "title": "Jigokuraku (KAKU Yuuji)"
-  },
-  {
     "id": "Super-Doctor-K",
     "title": "Super Doctor K"
   },
   {
     "id": "Ai-ga-Areba-Ii-no-Da",
     "title": "Ai ga Areba Ii no Da"
-  },
-  {
-    "id": "Kainushi-Juujin-to-Pet-Joshikousei",
-    "title": "Kainushi Juujin to Pet Joshikousei"
-  },
-  {
-    "id": "Okusama-wa-Joshi-Kousei",
-    "title": "Okusama wa Joshi Kousei"
-  },
-  {
-    "id": "Sadomi-the-Sadist-Girl-Strikes-Back",
-    "title": "Sadomi the Sadist Girl Strikes Back"
   },
   {
     "id": "Ai-Container",
@@ -1986,18 +2074,6 @@
   {
     "id": "Shinohayu-The-Dawn-of-Age",
     "title": "Shinohayu - The Dawn of Age"
-  },
-  {
-    "id": "Ashi-Girl",
-    "title": "Ashi-Girl"
-  },
-  {
-    "id": "Sengoku-Blood-Bara-no-Keiyaku",
-    "title": "Sengoku Blood - Bara no Keiyaku"
-  },
-  {
-    "id": "Thunderbolt-Fantasy",
-    "title": "Thunderbolt Fantasy"
   },
   {
     "id": "Ashi-Girl",
@@ -2200,18 +2276,6 @@
     "title": "Yari no Yuusha no Yarinaoshi"
   },
   {
-    "id": "Saiki-Kusuo-no-Psi-Nan",
-    "title": "Saiki Kusuo no Psi Nan"
-  },
-  {
-    "id": "Happy-if-You-Died",
-    "title": "Happy if You Died"
-  },
-  {
-    "id": "Yari-no-Yuusha-no-Yarinaoshi",
-    "title": "Yari no Yuusha no Yarinaoshi"
-  },
-  {
     "id": "Fenrir-nee-san-to-Boku",
     "title": "Fenriru Nesan to Boku"
   },
@@ -2234,10 +2298,6 @@
   {
     "id": "Tong-Season-3",
     "title": "Tong Season 3"
-  },
-  {
-    "id": "Samenai-Machi-no-Kissaten",
-    "title": "Samenai Machi no Kissaten"
   },
   {
     "id": "Dansan-Joshi",
@@ -2310,10 +2370,6 @@
   {
     "id": "Machida-kun-no-Sekai",
     "title": "Machida-kun no Sekai"
-  },
-  {
-    "id": "Hakaima-Sadamitsu",
-    "title": "Hakaima Sadamitsu"
   },
   {
     "id": "Gaikotsu-Kishi-sama-Tadaima-Isekai-e-o-Dekake-chuu",
@@ -2400,6 +2456,22 @@
     "title": "Aharen-san wa Hakarenai"
   },
   {
+    "id": "Shinizokonai-Agape",
+    "title": "Shinizokonai Agape"
+  },
+  {
+    "id": "Koukyuu-Days-Shichisei-Kuni-Monogatari",
+    "title": "Koukyuu Days - Shichisei Kuni Monogatari"
+  },
+  {
+    "id": "I-Ren",
+    "title": "I-Ren"
+  },
+  {
+    "id": "House-of-Bokwonga",
+    "title": "House of Bokwonga"
+  },
+  {
     "id": "Kanna-to-Decchi",
     "title": "Kanna to Decchi"
   },
@@ -2458,10 +2530,6 @@
   {
     "id": "Judge",
     "title": "Judge"
-  },
-  {
-    "id": "Jiang-Ye",
-    "title": "Jiang Ye"
   },
   {
     "id": "Majo-kun-to-Watashi",
@@ -2600,10 +2668,6 @@
     "title": "Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Mao mo Taoseru Kamo Shirenai."
   },
   {
-    "id": "Uchi-no-Musume-no-Tame-Naraba-Ore-wa-Moshikashitara-Mao-mo-Taoseru-Kamo-Shirenai-",
-    "title": "Uchi no Musume no Tame Naraba, Ore wa Moshikashitara Mao mo Taoseru Kamo Shirenai."
-  },
-  {
     "id": "Suki-Desu-Suzuki-Kun",
     "title": "Suki Desu Suzuki Kun"
   },
@@ -2680,10 +2744,6 @@
     "title": "Suicide Island"
   },
   {
-    "id": "Puchimasu",
-    "title": "Puchimasu!"
-  },
-  {
     "id": "Sora-Yori-Takaku-MIYASHITA-Akira",
     "title": "Sora Yori Takaku (MIYASHITA Akira)"
   },
@@ -2710,10 +2770,6 @@
   {
     "id": "Iwangimyeon-Dahong",
     "title": "Iwangimyeon Dahong"
-  },
-  {
-    "id": "Otokojuku-Gaiden-Date-Omito",
-    "title": "Otokojuku Gaiden - Date Omito"
   },
   {
     "id": "Cat-s-Eye",
@@ -2782,22 +2838,6 @@
   {
     "id": "Teen-Mom",
     "title": "Teen Mom"
-  },
-  {
-    "id": "Risou-no-Himo-Seikatsu",
-    "title": "Risou no Himo Seikatsu"
-  },
-  {
-    "id": "Hosaka-sensei-no-Ai-no-Muchi",
-    "title": "Hosaka-sensei no Ai no Muchi"
-  },
-  {
-    "id": "Tsuyokute-New-Saga",
-    "title": "Tsuyokute New Saga"
-  },
-  {
-    "id": "Assassin-s-Pride",
-    "title": "Assassin's Pride"
   },
   {
     "id": "Risou-no-Himo-Seikatsu",
@@ -2888,10 +2928,6 @@
     "title": "Nanashi no Asterism"
   },
   {
-    "id": "Sasori",
-    "title": "Sasori"
-  },
-  {
     "id": "Koketsu-Dining",
     "title": "Koketsu Dining"
   },
@@ -2944,10 +2980,6 @@
     "title": "Marry Me!"
   },
   {
-    "id": "Sora-no-Kanata-no",
-    "title": "Sora no Kanata no!"
-  },
-  {
     "id": "Shinrei-Tantei-Yakumo-2009",
     "title": "Shinrei Tantei Yakumo"
   },
@@ -2994,10 +3026,6 @@
   {
     "id": "Kuzu-to-Megane-to-Bungakushojo",
     "title": "Kuzu to Megane to Bungakushojo"
-  },
-  {
-    "id": "Ousamatachi-no-Viking",
-    "title": "Ousamatachi no Viking"
   },
   {
     "id": "Ousamatachi-no-Viking",
@@ -3128,10 +3156,6 @@
     "title": "Isekai Elf no Dorei-chan"
   },
   {
-    "id": "Bobobo-bo-Bo-Bobo",
-    "title": "Bobobo-bo Bo-Bobo"
-  },
-  {
     "id": "7-Jikanme-no-Onpu",
     "title": "7 Jikanme no Onpu"
   },
@@ -3194,10 +3218,6 @@
   {
     "id": "Megami-ryou-no-Ryoubo-kun",
     "title": "Megami-ryou no Ryoubo-kun."
-  },
-  {
-    "id": "Tian-Mei-De-Yao-Hen",
-    "title": "Tian Mei De Yao Hen"
   },
   {
     "id": "Tian-Mei-De-Yao-Hen",
@@ -3276,10 +3296,6 @@
     "title": "Doll Change"
   },
   {
-    "id": "Setsuna-Graffiti",
-    "title": "Setsuna Graffiti"
-  },
-  {
     "id": "Ore-to-Kawazu-san-no-Isekai-Hourouki",
     "title": "Ore to Kawazu-san no Isekai Hourouki"
   },
@@ -3322,10 +3338,6 @@
   {
     "id": "Ozanari-Dungeon",
     "title": "Ozanari Dungeon"
-  },
-  {
-    "id": "Jaku-chara-Tomozaki-kun",
-    "title": "Jaku-chara Tomozaki-kun"
   },
   {
     "id": "Kangoku-Jikken",
@@ -4604,10 +4616,6 @@
     "title": "Paru Paru"
   },
   {
-    "id": "Cherry-Tomato",
-    "title": "Cherry Tomato"
-  },
-  {
     "id": "Parasite-B",
     "title": "Parasite B"
   },
@@ -4756,10 +4764,6 @@
     "title": "Cutie Mutie"
   },
   {
-    "id": "Shudan",
-    "title": "Shudan!"
-  },
-  {
     "id": "Futari-no-Jikan--Onio-",
     "title": "Futari no Jikan (Onio)"
   },
@@ -4834,10 +4838,6 @@
   {
     "id": "Saiyaku-wa-Boku-o-Suki-Sugiru",
     "title": "Saiyaku wa Boku o Suki Sugiru"
-  },
-  {
-    "id": "My-Pet-Dog-Is-a-God",
-    "title": "My Pet Dog Is a God"
   },
   {
     "id": "Braids-Case-of-the-Braid-Killer",
