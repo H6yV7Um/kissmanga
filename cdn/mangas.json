@@ -1,5 +1,145 @@
 [
   {
+    "id": "Baka-to-Test-to-Shoukanjyuu",
+    "title": "Baka to Test to Shoukanjyuu"
+  },
+  {
+    "id": "Paranoia-Cage",
+    "title": "Paranoia Cage"
+  },
+  {
+    "id": "Aruite-Ippo--",
+    "title": "Aruite Ippo!!"
+  },
+  {
+    "id": "Madowanai-Hoshi",
+    "title": "Madowanai Hoshi"
+  },
+  {
+    "id": "Swweeet",
+    "title": "Swweeet"
+  },
+  {
+    "id": "Gisho-Getter-Robo-Darkness",
+    "title": "Gisho Getter Robo Darkness"
+  },
+  {
+    "id": "Minamoto-kun-Monogatari",
+    "title": "Minamoto-kun Monogatari"
+  },
+  {
+    "id": "Fukigen-na-Mononokean",
+    "title": "Fukigen na Mononokean"
+  },
+  {
+    "id": "Bokutachi-wa-Benkyou-ga-Dekinai",
+    "title": "Bokutachi wa Benkyou ga Dekinai"
+  },
+  {
+    "id": "Yowamushi-Pedal",
+    "title": "Yowamushi Pedal"
+  },
+  {
+    "id": "Break-The-World",
+    "title": "Break The World"
+  },
+  {
+    "id": "A-Dimwitted-Monk-fell-from-Heaven",
+    "title": "A \"Dimwitted\" Monk fell from Heaven"
+  },
+  {
+    "id": "The-Devil-King-Is-Bored",
+    "title": "The Devil King Is Bored"
+  },
+  {
+    "id": "DARLING-in-the-FRANXX",
+    "title": "DARLING in the FRANXX"
+  },
+  {
+    "id": "The-Fiancees-Live-Together",
+    "title": "The Fiancées Live Together"
+  },
+  {
+    "id": "Fantasista",
+    "title": "Fantasista"
+  },
+  {
+    "id": "Youkai-Banchou",
+    "title": "Youkai Banchou"
+  },
+  {
+    "id": "Xingchen-Bian",
+    "title": "Xingchen Bian"
+  },
+  {
+    "id": "Eko-Eko-Azaraku",
+    "title": "Eko Eko Azaraku"
+  },
+  {
+    "id": "Hakase-to-Suraimu-chan",
+    "title": "Hakase to Suraimu-chan"
+  },
+  {
+    "id": "Spirit-Blade-Mountain",
+    "title": "Spirit Blade Mountain"
+  },
+  {
+    "id": "Jingai-no-Yome-to-ichaicha-suru-Anthology-Comic",
+    "title": "Jingai no Yome to ichaicha suru - Anthology Comic"
+  },
+  {
+    "id": "Unbalance-Triangle",
+    "title": "Unbalance Triangle"
+  },
+  {
+    "id": "Siscon-Ani-to-Brocon-Imouto-ga-Shoujiki-ni-Nattara",
+    "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara"
+  },
+  {
+    "id": "Volcanic-Age",
+    "title": "Volcanic Age"
+  },
+  {
+    "id": "Renai-Kaidan-Sayoko-san",
+    "title": "Renai Kaidan Sayoko-san"
+  },
+  {
+    "id": "Dead-Sorcerer-s-City",
+    "title": "Dead Sorcerer's City"
+  },
+  {
+    "id": "Koiiro-Devil",
+    "title": "Koiiro Devil"
+  },
+  {
+    "id": "Koichirakashite",
+    "title": "Koichirakashite"
+  },
+  {
+    "id": "A-Thousand-Years-Ninetails",
+    "title": "A Thousand Years Ninetails"
+  },
+  {
+    "id": "The-Scholar-s-Reincarnation",
+    "title": "The Scholar's Reincarnation"
+  },
+  {
+    "id": "Seshiji-o-Pin--to-Shikakou-Kyougi-Dance-bu-e-Youkoso",
+    "title": "Seshiji o Pin! to - Shikakou Kyougi Dance-bu e Youkoso"
+  },
+  {
+    "id": "Netoge-no-Yome-wa-Onnanoko-ja-Nai-to-Omotta",
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+  },
+  {
+    "id": "Himekishi-ga-Classmate",
+    "title": "Himekishi ga Classmate!"
+  },
+  {
+    "id": "Ubau-Mono-Ubawareru-Mono",
+    "title": "Ubau Mono Ubawareru Mono"
+  },
+  {
     "id": "Tenkuu-Shinpan",
     "title": "Tenkuu Shinpan"
   },
@@ -36,20 +176,128 @@
     "title": "Orenchi no Maid-san"
   },
   {
-    "id": "Break-The-World",
-    "title": "Break The World"
-  },
-  {
-    "id": "Fantasista",
-    "title": "Fantasista"
-  },
-  {
     "id": "Demon-King",
     "title": "Demon King"
   },
   {
-    "id": "Minamoto-kun-Monogatari",
-    "title": "Minamoto-kun Monogatari"
+    "id": "Shingeki-no-Kyojin-Before-the-Fall",
+    "title": "Shingeki no Kyojin - Before the Fall"
+  },
+  {
+    "id": "Sword-Art-Online-Progressive",
+    "title": "Sword Art Online: Progressive"
+  },
+  {
+    "id": "Dacha-s-Kitchen",
+    "title": "Dacha's Kitchen"
+  },
+  {
+    "id": "Tomonen",
+    "title": "Tomonen"
+  },
+  {
+    "id": "Biotop",
+    "title": "Biotop"
+  },
+  {
+    "id": "Spirit-Blade-Mountain",
+    "title": "Spirit Blade Mountain"
+  },
+  {
+    "id": "Jingai-no-Yome-to-ichaicha-suru-Anthology-Comic",
+    "title": "Jingai no Yome to ichaicha suru - Anthology Comic"
+  },
+  {
+    "id": "Unbalance-Triangle",
+    "title": "Unbalance Triangle"
+  },
+  {
+    "id": "Siscon-Ani-to-Brocon-Imouto-ga-Shoujiki-ni-Nattara",
+    "title": "Siscon Ani to Brocon Imouto ga Shoujiki ni Nattara"
+  },
+  {
+    "id": "Volcanic-Age",
+    "title": "Volcanic Age"
+  },
+  {
+    "id": "Renai-Kaidan-Sayoko-san",
+    "title": "Renai Kaidan Sayoko-san"
+  },
+  {
+    "id": "Dead-Sorcerer-s-City",
+    "title": "Dead Sorcerer's City"
+  },
+  {
+    "id": "Koiiro-Devil",
+    "title": "Koiiro Devil"
+  },
+  {
+    "id": "Koichirakashite",
+    "title": "Koichirakashite"
+  },
+  {
+    "id": "A-Thousand-Years-Ninetails",
+    "title": "A Thousand Years Ninetails"
+  },
+  {
+    "id": "The-Scholar-s-Reincarnation",
+    "title": "The Scholar's Reincarnation"
+  },
+  {
+    "id": "Seshiji-o-Pin--to-Shikakou-Kyougi-Dance-bu-e-Youkoso",
+    "title": "Seshiji o Pin! to - Shikakou Kyougi Dance-bu e Youkoso"
+  },
+  {
+    "id": "Netoge-no-Yome-wa-Onnanoko-ja-Nai-to-Omotta",
+    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
+  },
+  {
+    "id": "Himekishi-ga-Classmate",
+    "title": "Himekishi ga Classmate!"
+  },
+  {
+    "id": "Ubau-Mono-Ubawareru-Mono",
+    "title": "Ubau Mono Ubawareru Mono"
+  },
+  {
+    "id": "Tenkuu-Shinpan",
+    "title": "Tenkuu Shinpan"
+  },
+  {
+    "id": "Cupid-s-Chocolates",
+    "title": "Cupid's Chocolates"
+  },
+  {
+    "id": "ReLIFE",
+    "title": "ReLIFE"
+  },
+  {
+    "id": "GIGANT",
+    "title": "GIGANT"
+  },
+  {
+    "id": "Enen-no-Shouboutai",
+    "title": "Enen no Shouboutai"
+  },
+  {
+    "id": "Dakara-Miyoko-Desu",
+    "title": "Dakara Miyoko Desu"
+  },
+  {
+    "id": "Yankee-Wa-Isekai-De-Seirei-Ni-Aisaremasu",
+    "title": "Yankee Wa Isekai De Seirei Ni Aisaremasu."
+  },
+  {
+    "id": "Please-don-t-bully-me-Nagatoro",
+    "title": "Please don't bully me, Nagatoro"
+  },
+  {
+    "id": "Orenchi-no-Maid-san",
+    "title": "Orenchi no Maid-san"
+  },
+  {
+    "id": "Demon-King",
+    "title": "Demon King"
   },
   {
     "id": "Shingeki-no-Kyojin-Before-the-Fall",
@@ -152,38 +400,6 @@
     "title": "She is a Vampire!"
   },
   {
-    "id": "Paranoia-Cage",
-    "title": "Paranoia Cage"
-  },
-  {
-    "id": "Miss-Kitty-and-Her-Bodyguards",
-    "title": "Miss Kitty and Her Bodyguards"
-  },
-  {
-    "id": "Opapagoto",
-    "title": "Opapagoto"
-  },
-  {
-    "id": "Isekai-Elf-no-Dorei-chan",
-    "title": "Isekai Elf no Dorei-chan"
-  },
-  {
-    "id": "Gal-Gohan",
-    "title": "Gal Gohan"
-  },
-  {
-    "id": "Boku-Dake-Shitteru-Ichinomiya-san",
-    "title": "Boku Dake Shitteru Ichinomiya-san"
-  },
-  {
-    "id": "Ichijou-Kaname-to-wa-Kakawaranai",
-    "title": "Ichijou Kaname to wa Kakawaranai"
-  },
-  {
-    "id": "Mai-Ball",
-    "title": "Mai Ball!"
-  },
-  {
     "id": "Atom-The-Beginning",
     "title": "Atom - The Beginning"
   },
@@ -198,6 +414,18 @@
   {
     "id": "Happy-Sugar-Life",
     "title": "Happy Sugar Life"
+  },
+  {
+    "id": "Akebi-chan-no-Sailor-Fuku",
+    "title": "Akebi-chan no Sailor Fuku"
+  },
+  {
+    "id": "Gakkou-Gurashi",
+    "title": "Gakkou Gurashi!"
+  },
+  {
+    "id": "Between-Smooth-and-Rough",
+    "title": "Between Smooth and Rough"
   },
   {
     "id": "Koi-Inu",
@@ -230,10 +458,6 @@
   {
     "id": "Yong-Heng-Zhi-Zun",
     "title": "Yong Heng Zhi Zun"
-  },
-  {
-    "id": "Hakase-to-Suraimu-chan",
-    "title": "Hakase to Suraimu-chan"
   },
   {
     "id": "Perfect-Half",
@@ -376,114 +600,6 @@
     "title": "Sayonara Watashi no Cramer"
   },
   {
-    "id": "Dansai-Bunri-no-Crime-Edge",
-    "title": "Dansai Bunri no Crime Edge"
-  },
-  {
-    "id": "Sunny",
-    "title": "Sunny"
-  },
-  {
-    "id": "Soul-Eater-Not",
-    "title": "Soul Eater Not!"
-  },
-  {
-    "id": "Kaguya-sama-wa-Kokurasetai-Tensai-tachi-no-Renai-Zunousen",
-    "title": "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
-  },
-  {
-    "id": "Unhappy",
-    "title": "Unhappy"
-  },
-  {
-    "id": "Shikkoku-no-Ten",
-    "title": "Shikkoku no Ten"
-  },
-  {
-    "id": "You--re-So-Noisy--Please-Give-Me-a-Peace-of-Mind",
-    "title": "You're So Noisy! Please Give Me a Peace of Mind"
-  },
-  {
-    "id": "Ozland",
-    "title": "Ozland"
-  },
-  {
-    "id": "Kumamiko-Girl-Meets-Bear",
-    "title": "Kumamiko - Girl Meets Bear"
-  },
-  {
-    "id": "Suki-Desu-Suzuki-Kun",
-    "title": "Suki Desu Suzuki Kun"
-  },
-  {
-    "id": "Shoujo-Shounen-Gakkyuudan",
-    "title": "Shoujo Shounen Gakkyuudan"
-  },
-  {
-    "id": "Choujin-Koukousei-tachi-wa-Isekai-demo-Yoyuu-de-Ikinuku-you-desu",
-    "title": "Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!"
-  },
-  {
-    "id": "Dawn-of-the-Frozen-Wastelands",
-    "title": "Dawn of the Frozen Wastelands"
-  },
-  {
-    "id": "Samenai-Machi-no-Kissaten",
-    "title": "Samenai Machi no Kissaten"
-  },
-  {
-    "id": "Kannagi",
-    "title": "Kannagi"
-  },
-  {
-    "id": "Sen-to-Man",
-    "title": "Sen to Man"
-  },
-  {
-    "id": "Kanojo-to-Kanojo-no-Neko",
-    "title": "Kanojo to Kanojo no Neko"
-  },
-  {
-    "id": "7th-Garden",
-    "title": "7th Garden"
-  },
-  {
-    "id": "Sayonara-Watashi-no-Cramer",
-    "title": "Sayonara Watashi no Cramer"
-  },
-  {
-    "id": "Dansai-Bunri-no-Crime-Edge",
-    "title": "Dansai Bunri no Crime Edge"
-  },
-  {
-    "id": "Sunny",
-    "title": "Sunny"
-  },
-  {
-    "id": "Soul-Eater-Not",
-    "title": "Soul Eater Not!"
-  },
-  {
-    "id": "Kaguya-sama-wa-Kokurasetai-Tensai-tachi-no-Renai-Zunousen",
-    "title": "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
-  },
-  {
-    "id": "Unhappy",
-    "title": "Unhappy"
-  },
-  {
-    "id": "Shikkoku-no-Ten",
-    "title": "Shikkoku no Ten"
-  },
-  {
-    "id": "Haikyuu",
-    "title": "Haikyuu!!"
-  },
-  {
-    "id": "Hoshino-Me-o-Tsubutte",
-    "title": "Hoshino, Me o Tsubutte."
-  },
-  {
     "id": "Moekare-wa-orenji-iro",
     "title": "Moekare wa orenji-iro"
   },
@@ -600,6 +716,30 @@
     "title": "Dokgo 2"
   },
   {
+    "id": "Only-Sense-Online",
+    "title": "Only Sense Online"
+  },
+  {
+    "id": "Otakare-Fujo-Kano",
+    "title": "Otakare Fujo Kano"
+  },
+  {
+    "id": "Zero-Point-Idol",
+    "title": "Zero Point Idol"
+  },
+  {
+    "id": "Alice-or-Alice",
+    "title": "Alice or Alice"
+  },
+  {
+    "id": "Battle-Through-The-Heavens",
+    "title": "Battle Through The Heavens"
+  },
+  {
+    "id": "Ghost-Love",
+    "title": "Ghost Love"
+  },
+  {
     "id": "Death-Field",
     "title": "Death Field"
   },
@@ -658,82 +798,6 @@
   {
     "id": "Toaru-Ossan-no-VRMMO-Katsudouki",
     "title": "Toaru Ossan no VRMMO Katsudouki"
-  },
-  {
-    "id": "Sora-Yori-Takaku-MIYASHITA-Akira",
-    "title": "Sora Yori Takaku (MIYASHITA Akira)"
-  },
-  {
-    "id": "Daiya-no-A-Act-II",
-    "title": "Daiya no A - Act II"
-  },
-  {
-    "id": "Shinozaki-san-Ki-o-Ota-Shika-ni",
-    "title": "Shinozaki-san Ki o Ota Shika ni!"
-  },
-  {
-    "id": "Musashi-kun-to-Murayama-san-Tsukkiate-Mita",
-    "title": "Musashi-kun to Murayama-san Tsukkiate Mita"
-  },
-  {
-    "id": "Boku-no-Hero-Academia",
-    "title": "Boku no Hero Academia"
-  },
-  {
-    "id": "Shuukan-Shounen-Hachi",
-    "title": "Shuukan Shounen Hachi"
-  },
-  {
-    "id": "Kuromachi",
-    "title": "Kuromachi"
-  },
-  {
-    "id": "Hunter-x-Hunter",
-    "title": "Hunter x Hunter"
-  },
-  {
-    "id": "Poison-Girl",
-    "title": "Poison Girl"
-  },
-  {
-    "id": "Dr-Stone",
-    "title": "Dr. Stone"
-  },
-  {
-    "id": "The-Gamer",
-    "title": "The Gamer"
-  },
-  {
-    "id": "Tamen-De-Gushi",
-    "title": "Tamen De Gushi"
-  },
-  {
-    "id": "I-Don-t-Want-This-Kind-of-Hero",
-    "title": "I Don't Want This Kind of Hero"
-  },
-  {
-    "id": "Ajin",
-    "title": "Ajin"
-  },
-  {
-    "id": "Fuuka",
-    "title": "Fuuka"
-  },
-  {
-    "id": "Amaama-to-Inazuma",
-    "title": "Amaama to Inazuma"
-  },
-  {
-    "id": "Black-Clover",
-    "title": "Black Clover"
-  },
-  {
-    "id": "Boyfriend-Of-The-Dead",
-    "title": "Boyfriend Of The Dead"
-  },
-  {
-    "id": "One-Piece",
-    "title": "One Piece"
   },
   {
     "id": "Thunderbolt-Fantasy",
@@ -800,6 +864,38 @@
     "title": "Akaten Hero!"
   },
   {
+    "id": "Kaidan-Nikki",
+    "title": "Kaidan Nikki"
+  },
+  {
+    "id": "Mahou-Tsukai-no-Deshi-ga-Warau-Toki",
+    "title": "Mahou Tsukai no Deshi ga Warau Toki."
+  },
+  {
+    "id": "Gangsta",
+    "title": "Gangsta"
+  },
+  {
+    "id": "Tsuki-no-Toiki-Ai-no-Kizu",
+    "title": "Tsuki no Toiki Ai no Kizu"
+  },
+  {
+    "id": "Majo-no-Ie-Ellen-no-Nikki",
+    "title": "Majo no Ie: Ellen no Nikki"
+  },
+  {
+    "id": "Coppelion",
+    "title": "Coppelion"
+  },
+  {
+    "id": "Colorful-Macchiato-Mahou-Shoujo-wa-Tatakawanai",
+    "title": "Colorful Macchiato! - Mahou Shoujo wa Tatakawanai."
+  },
+  {
+    "id": "Issak",
+    "title": "Issak"
+  },
+  {
     "id": "Shinjuku-Swan",
     "title": "Shinjuku Swan"
   },
@@ -818,10 +914,6 @@
   {
     "id": "Mairimashita-Iruma-kun",
     "title": "Mairimashita! Iruma-kun"
-  },
-  {
-    "id": "Spirit-Blade-Mountain",
-    "title": "Spirit Blade Mountain"
   },
   {
     "id": "Go-Toubun-no-Hanayome",
@@ -856,8 +948,132 @@
     "title": "Terra ForMars"
   },
   {
-    "id": "Volcanic-Age",
-    "title": "Volcanic Age"
+    "id": "Re-Monster",
+    "title": "Re:Monster"
+  },
+  {
+    "id": "BOZEBEATS",
+    "title": "BOZEBEATS"
+  },
+  {
+    "id": "Ore-ga-Ojou-sama-Gakkou-ni-Shomin-Sample-Toshite-Rachirareta-Ken",
+    "title": "Ore ga Ojou-sama Gakkou ni \"Shomin Sample\" Toshite Rachirareta Ken"
+  },
+  {
+    "id": "Yuan-Zun",
+    "title": "Yuan Zun"
+  },
+  {
+    "id": "Komi-san-wa-Komyushou-Desu",
+    "title": "Komi-san wa Komyushou Desu."
+  },
+  {
+    "id": "Ojiichan-shinanai",
+    "title": "Ojiichan shinanai"
+  },
+  {
+    "id": "Goumon-Tournament",
+    "title": "Goumon Tournament"
+  },
+  {
+    "id": "Hokenshitsu-no-Shinigami",
+    "title": "Hokenshitsu no Shinigami"
+  },
+  {
+    "id": "Yurukyan",
+    "title": "Yurukyan"
+  },
+  {
+    "id": "Under-PRIN",
+    "title": "Under PRIN"
+  },
+  {
+    "id": "Karate-Shoukoushi-Kohinata-Minoru",
+    "title": "Karate Shoukoushi Kohinata Minoru"
+  },
+  {
+    "id": "Maou-ga-Yadoya-wo-yatte-Inu",
+    "title": "Maou ga Yadoya wo yatte Inu."
+  },
+  {
+    "id": "Kuutei-Dragons",
+    "title": "Kuutei Dragons"
+  },
+  {
+    "id": "Gangsta",
+    "title": "Gangsta"
+  },
+  {
+    "id": "Tsuki-no-Toiki-Ai-no-Kizu",
+    "title": "Tsuki no Toiki Ai no Kizu"
+  },
+  {
+    "id": "Majo-no-Ie-Ellen-no-Nikki",
+    "title": "Majo no Ie: Ellen no Nikki"
+  },
+  {
+    "id": "Coppelion",
+    "title": "Coppelion"
+  },
+  {
+    "id": "Colorful-Macchiato-Mahou-Shoujo-wa-Tatakawanai",
+    "title": "Colorful Macchiato! - Mahou Shoujo wa Tatakawanai."
+  },
+  {
+    "id": "Issak",
+    "title": "Issak"
+  },
+  {
+    "id": "Shinjuku-Swan",
+    "title": "Shinjuku Swan"
+  },
+  {
+    "id": "Crows-Zero-II-Suzuran-x-Houen",
+    "title": "Crows Zero II: Suzuran x Houen"
+  },
+  {
+    "id": "Yuunagi-Marbled",
+    "title": "Yuunagi Marbled"
+  },
+  {
+    "id": "Someday--We--039-ll-Get-There",
+    "title": "Someday, We'll Get There"
+  },
+  {
+    "id": "Mairimashita-Iruma-kun",
+    "title": "Mairimashita! Iruma-kun"
+  },
+  {
+    "id": "Go-Toubun-no-Hanayome",
+    "title": "Go-Toubun no Hanayome"
+  },
+  {
+    "id": "Life-of-a-Lily",
+    "title": "Life of a Lily"
+  },
+  {
+    "id": "Ore-ga-Heroine-o-Tasukesugite-Sekai-ga-Little-Mokushiroku",
+    "title": "Ore ga Heroine o Tasukesugite Sekai ga Little Mokushiroku!?"
+  },
+  {
+    "id": "Hoozuki-san-Chi-no-Aneki-Imouto",
+    "title": "Hoozuki-san Chi no Aneki + Imouto"
+  },
+  {
+    "id": "Boku-wa-Hajikko-ga-Suki",
+    "title": "Boku wa Hajikko ga Suki"
+  },
+  {
+    "id": "Tokyo-Game",
+    "title": "Tokyo Game"
+  },
+  {
+    "id": "Karakai-Jouzu-no-Moto-Takagi-san",
+    "title": "Karakai Jouzu no (Moto) Takagi-san"
+  },
+  {
+    "id": "Terra-ForMars",
+    "title": "Terra ForMars"
   },
   {
     "id": "Re-Monster",
@@ -984,30 +1200,6 @@
     "title": "Aoba-kun ni Kikitai Koto"
   },
   {
-    "id": "TO-Y",
-    "title": "TO-Y"
-  },
-  {
-    "id": "Watashi-wa-Tensai-o-Katte-Iru",
-    "title": "Watashi wa Tensai o Katte Iru."
-  },
-  {
-    "id": "Imori-201",
-    "title": "Imori 201"
-  },
-  {
-    "id": "Kokuei-no-Junk",
-    "title": "Kokuei no Junk"
-  },
-  {
-    "id": "Hinomaru-Zumou",
-    "title": "Hinomaru Zumou"
-  },
-  {
-    "id": "unOrdinary",
-    "title": "unOrdinary"
-  },
-  {
     "id": "Soul-Contract",
     "title": "Soul Contract"
   },
@@ -1044,10 +1236,6 @@
     "title": "Otome Danshi ni Koisuru Otome"
   },
   {
-    "id": "Yowamushi-Pedal",
-    "title": "Yowamushi Pedal"
-  },
-  {
     "id": "007-Series",
     "title": "007 Series"
   },
@@ -1058,10 +1246,6 @@
   {
     "id": "Saikyou-Mahoushi-no-Inton-Keikaku",
     "title": "Saikyou Mahoushi no Inton Keikaku"
-  },
-  {
-    "id": "Netoge-no-Yome-wa-Onnanoko-ja-Nai-to-Omotta",
-    "title": "Netoge no Yome wa Onnanoko ja Nai to Omotta?"
   },
   {
     "id": "Betterman",
@@ -1132,10 +1316,6 @@
     "title": "Manuke na FPS Player ga Isekai e Ochita Baai"
   },
   {
-    "id": "Tenkuu-Shinpan",
-    "title": "Tenkuu Shinpan"
-  },
-  {
     "id": "Sora-no-Kanata-no",
     "title": "Sora no Kanata no!"
   },
@@ -1200,64 +1380,24 @@
     "title": "Thermae Romae"
   },
   {
-    "id": "Puchimasu",
-    "title": "Puchimasu!"
-  },
-  {
-    "id": "Hakaima-Sadamitsu",
-    "title": "Hakaima Sadamitsu"
-  },
-  {
-    "id": "Sekai-no-Owari-no-Encore",
-    "title": "Sekai no Owari no Encore"
-  },
-  {
-    "id": "Grand-Blue",
-    "title": "Grand Blue"
-  },
-  {
-    "id": "Shingeki-no-Kyojin",
-    "title": "Shingeki no Kyojin"
-  },
-  {
-    "id": "Oshiete-Gyaruko-chan",
-    "title": "Oshiete! Gyaruko-chan"
-  },
-  {
-    "id": "Jiang-Ye",
-    "title": "Jiang Ye"
-  },
-  {
-    "id": "Runway-de-Waratte",
-    "title": "Runway de Waratte"
-  },
-  {
-    "id": "Seitokai-Yakuindomo",
-    "title": "Seitokai Yakuindomo"
-  },
-  {
-    "id": "19-Tian",
-    "title": "19 Tian"
-  },
-  {
-    "id": "Rakujitsu-no-Pathos",
-    "title": "Rakujitsu no Pathos"
-  },
-  {
-    "id": "Koi-wa-Amaagari-no-You-ni",
-    "title": "Koi wa Amaagari no You ni"
-  },
-  {
-    "id": "Thermae-Romae",
-    "title": "Thermae Romae"
-  },
-  {
     "id": "Takunomi",
     "title": "Takunomi."
   },
   {
     "id": "Tetsuwan-Birdy-II",
     "title": "Tetsuwan Birdy (II)"
+  },
+  {
+    "id": "Moyashimon",
+    "title": "Moyashimon"
+  },
+  {
+    "id": "Queen-s-Quality",
+    "title": "Queen's Quality"
+  },
+  {
+    "id": "Honkai-Impact-3-Violet-Sea-Story",
+    "title": "Honkai Impact 3 - Violet Sea Story"
   },
   {
     "id": "Moyashimon",
@@ -1400,104 +1540,64 @@
     "title": "Boku no Tonari ni Ankoku Hakaishin ga Imasu"
   },
   {
+    "id": "Akatsuki-Otokojuku",
+    "title": "Akatsuki!! Otokojuku"
+  },
+  {
+    "id": "Yeonae-Hyeokmyeong",
+    "title": "Yeonae Hyeokmyeong"
+  },
+  {
+    "id": "Prince-of-Prince",
+    "title": "Prince of Prince"
+  },
+  {
+    "id": "Fire-Emblem-Heroes-Daily-Lives-of-the-Heroes",
+    "title": "Fire Emblem Heroes Daily Lives of the Heroes"
+  },
+  {
+    "id": "Noblesse",
+    "title": "Noblesse (Manhwa)"
+  },
+  {
+    "id": "Tobaku-Datenroku-Kaiji-One-Poker-Hen",
+    "title": "Tobaku Datenroku Kaiji - One Poker Hen"
+  },
+  {
+    "id": "Bread-Butter",
+    "title": "Bread & Butter"
+  },
+  {
+    "id": "Monster-Musume-no-Oisha-san",
+    "title": "Monster Musume no Oisha-san"
+  },
+  {
+    "id": "Ren-ai-Harem-Game-Shuuryou-no-Oshirase-ga-kuru-Koro-ni",
+    "title": "Ren'ai Harem Game Shuuryou no Oshirase ga kuru Koro ni"
+  },
+  {
+    "id": "Feng-Qiu-Huang",
+    "title": "Feng Qiu Huang"
+  },
+  {
+    "id": "Tokisaka-san-wa-Boku-to-Chikyuu-ni-Kibishisugiru",
+    "title": "Tokisaka-san wa Boku to Chikyuu ni Kibishisugiru."
+  },
+  {
+    "id": "Bite-Me",
+    "title": "Bite Me"
+  },
+  {
+    "id": "Moto-Saikyou-no-Kenshi-wa-Isekai-Mahou-ni-Akogareru",
+    "title": "Moto Saikyou no Kenshi wa, Isekai Mahou ni Akogareru"
+  },
+  {
+    "id": "Yongbi",
+    "title": "Yongbi"
+  },
+  {
     "id": "No-Guns-Life",
     "title": "No Guns Life"
-  },
-  {
-    "id": "Seshiji-o-Pin--to-Shikakou-Kyougi-Dance-bu-e-Youkoso",
-    "title": "Seshiji o Pin! to - Shikakou Kyougi Dance-bu e Youkoso"
-  },
-  {
-    "id": "Ookami-heika-no-Hanayome",
-    "title": "Ookami-heika no Hanayome"
-  },
-  {
-    "id": "Zankyou",
-    "title": "Zankyou"
-  },
-  {
-    "id": "Isekai-Tensei-Soudouki",
-    "title": "Isekai Tensei Soudouki"
-  },
-  {
-    "id": "Rain",
-    "title": "Rain"
-  },
-  {
-    "id": "IDOLM-STER-Cinderella-Girls-Cinderella-Girls-Gekijou",
-    "title": "IDOLM@STER - Cinderella Girls - Cinderella Girls Gekijou"
-  },
-  {
-    "id": "Now-Loading",
-    "title": "Now Loading!"
-  },
-  {
-    "id": "ENT-Ore-no-Kagi-ga-Hazusareta-K-Noukai",
-    "title": "ENT. - Ore no Kagi ga Hazusareta K Noukai"
-  },
-  {
-    "id": "Summer-Time-Render",
-    "title": "Summer Time Render"
-  },
-  {
-    "id": "Infection",
-    "title": "Infection"
-  },
-  {
-    "id": "Baka-and-Boing",
-    "title": "Baka and Boing"
-  },
-  {
-    "id": "Sozai-Saishuka-no-Isekai-Ryokouki",
-    "title": "Sozai Saishuka no Isekai Ryokouki"
-  },
-  {
-    "id": "Mata-Kataomou",
-    "title": "Mata, Kataomou"
-  },
-  {
-    "id": "Sakazuki-san-Chi-no-Gikyoudai",
-    "title": "Sakazuki-san Chi no Gikyoudai"
-  },
-  {
-    "id": "Hero-I-Quit-A-Long-Time-Ago",
-    "title": "Hero? I Quit A Long Time Ago."
-  },
-  {
-    "id": "Soukyuu-Boys",
-    "title": "Soukyuu Boys"
-  },
-  {
-    "id": "Nanatsu-no-Taizai",
-    "title": "Nanatsu no Taizai"
-  },
-  {
-    "id": "Love-is-a-cherry-color",
-    "title": "Love is a cherry color"
-  },
-  {
-    "id": "She-is-a-Beauty",
-    "title": "She is a Beauty"
-  },
-  {
-    "id": "Boku-no-Heya-ga-Dungeon-no-Kyuukeijo-ni-Natteshimatta-Ken",
-    "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken"
-  },
-  {
-    "id": "Class-ga-Isekai-Shoukan-sareta-Naka-Ore-dake-Nokotta-n-desu-ga",
-    "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga"
-  },
-  {
-    "id": "Kumo-Desu-ga--Nani-ka",
-    "title": "Kumo Desu ga, Nani ka?"
-  },
-  {
-    "id": "Oh-Lord-Jesus",
-    "title": "Oh! Lord Jesus"
-  },
-  {
-    "id": "Tower-of-God",
-    "title": "Tower of God"
   },
   {
     "id": "Kimetsu-no-Yaiba",
@@ -1600,28 +1700,8 @@
     "title": "Seirei Gensouki - Konna Sekai de Deaeta Kimi ni (MINAZUKI Futago)"
   },
   {
-    "id": "Elf-san-wa-Yaserarenai",
-    "title": "Elf-san wa Yaserarenai."
-  },
-  {
-    "id": "Family-Size",
-    "title": "Family Size"
-  },
-  {
-    "id": "Lovely-Again-Today",
-    "title": "Lovely Again Today"
-  },
-  {
-    "id": "Seirei-Gensouki-Konna-Sekai-de-Deaeta-Kimi-ni-MINAZUKI-Futago-",
-    "title": "Seirei Gensouki - Konna Sekai de Deaeta Kimi ni (MINAZUKI Futago)"
-  },
-  {
     "id": "Getsuyoubi-no-Tawawa",
     "title": "Getsuyoubi no Tawawa"
-  },
-  {
-    "id": "The-Devil-King-Is-Bored",
-    "title": "The Devil King Is Bored"
   },
   {
     "id": "Okusan",
@@ -1672,16 +1752,8 @@
     "title": "All Day Jo Ayoung"
   },
   {
-    "id": "The-Fiancees-Live-Together",
-    "title": "The Fiancées Live Together"
-  },
-  {
     "id": "Xian-Ni",
     "title": "Xian Ni"
-  },
-  {
-    "id": "Unbalance-Triangle",
-    "title": "Unbalance Triangle"
   },
   {
     "id": "Made-in-Abyss",
@@ -1728,8 +1800,68 @@
     "title": "Ore ga... Yuri!?"
   },
   {
-    "id": "Youkai-Banchou",
-    "title": "Youkai Banchou"
+    "id": "I-Will-Wait-For-You-In-The-Next-Life",
+    "title": "I Will Wait For You In The Next Life"
+  },
+  {
+    "id": "Route-End",
+    "title": "Route End"
+  },
+  {
+    "id": "Nidome-no-Jinsei-wo-Isekai-de",
+    "title": "Nidome no Jinsei wo Isekai de"
+  },
+  {
+    "id": "All-Day-Jo-Ayoung",
+    "title": "All Day Jo Ayoung"
+  },
+  {
+    "id": "Xian-Ni",
+    "title": "Xian Ni"
+  },
+  {
+    "id": "Made-in-Abyss",
+    "title": "Made in Abyss"
+  },
+  {
+    "id": "Onepunch-Man",
+    "title": "Onepunch-Man"
+  },
+  {
+    "id": "Lime-Odyssey-The-Chronicles-of-ORTA",
+    "title": "Lime Odyssey: The Chronicles of ORTA"
+  },
+  {
+    "id": "Ouji-sama-Nante-Iranai",
+    "title": "Ouji-sama Nante Iranai"
+  },
+  {
+    "id": "Soukaku-Kankei-",
+    "title": "Soukaku Kankei."
+  },
+  {
+    "id": "Keppeki-Danshi-Aoyama-kun",
+    "title": "Keppeki Danshi! Aoyama-kun"
+  },
+  {
+    "id": "Full-Marks-Hidden-Marriage",
+    "title": "Full Marks Hidden Marriage"
+  },
+  {
+    "id": "Kamitachi-ni-Hirowareta-Otoko",
+    "title": "Kamitachi ni Hirowareta Otoko"
+  },
+  {
+    "id": "Idol-na-Kanojo-to-Wotaku-na-Boku-to",
+    "title": "Idol na Kanojo to Wotaku na Boku to"
+  },
+  {
+    "id": "Hakase-no-Kimagure-Homunculus",
+    "title": "Hakase no Kimagure Homunculus"
+  },
+  {
+    "id": "Ore-ga----Yuri--",
+    "title": "Ore ga... Yuri!?"
   },
   {
     "id": "Psychometrer-Eiji",
@@ -1738,10 +1870,6 @@
   {
     "id": "Da-Zhu-Zai",
     "title": "Da Zhu Zai"
-  },
-  {
-    "id": "The-Scholar-s-Reincarnation",
-    "title": "The Scholar's Reincarnation"
   },
   {
     "id": "Flirt-with-a-Prince",
@@ -1800,34 +1928,6 @@
     "title": "Sekai no Aikotoba wa Mizu"
   },
   {
-    "id": "Kobayashi-san-Chi-no-Maid-Dragon",
-    "title": "Kobayashi-san Chi no Maid Dragon"
-  },
-  {
-    "id": "Seirei-Gensouki-Konna-Sekai-de-Deaeta-Kimi-ni",
-    "title": "Seirei Gensouki - Konna Sekai de Deaeta Kimi ni"
-  },
-  {
-    "id": "Nonbiri-VRMMOki",
-    "title": "Nonbiri VRMMOki"
-  },
-  {
-    "id": "Unity-of-Heaven",
-    "title": "Unity of Heaven"
-  },
-  {
-    "id": "Kyou-no-Cerberus",
-    "title": "Kyou no Cerberus"
-  },
-  {
-    "id": "Kanata-no-Astra",
-    "title": "Kanata no Astra"
-  },
-  {
-    "id": "Sekai-no-Aikotoba-wa-Mizu",
-    "title": "Sekai no Aikotoba wa Mizu"
-  },
-  {
     "id": "Ratakia-no-Majo",
     "title": "Ratakia no Majo"
   },
@@ -1842,10 +1942,6 @@
   {
     "id": "Golden-Waltz",
     "title": "Golden Waltz"
-  },
-  {
-    "id": "Bokutachi-wa-Benkyou-ga-Dekinai",
-    "title": "Bokutachi wa Benkyou ga Dekinai"
   },
   {
     "id": "helvetica",
@@ -1888,10 +1984,6 @@
     "title": "Nanba MG5"
   },
   {
-    "id": "Eko-Eko-Azaraku",
-    "title": "Eko Eko Azaraku"
-  },
-  {
     "id": "Yuzumori-san",
     "title": "Yuzumori-san"
   },
@@ -1906,38 +1998,6 @@
   {
     "id": "Himouto-Umaru-chan",
     "title": "Himouto! Umaru-chan"
-  },
-  {
-    "id": "Hatsukoi-Zombie",
-    "title": "Hatsukoi Zombie"
-  },
-  {
-    "id": "Yonakano-Reijini-Haremu-Wo",
-    "title": "Yonakano Reijini Haremu Wo"
-  },
-  {
-    "id": "Harukanaru-Jikuu-no-Naka-de-6",
-    "title": "Harukanaru Jikuu no Naka de 6"
-  },
-  {
-    "id": "Adonis-Next-Door",
-    "title": "Adonis Next Door"
-  },
-  {
-    "id": "Souboutei-Kowasu-Beshi",
-    "title": "Souboutei Kowasu Beshi"
-  },
-  {
-    "id": "Pochi-Kuro",
-    "title": "Pochi Kuro"
-  },
-  {
-    "id": "Masamune-kun-no-Revenge",
-    "title": "Masamune-kun no Revenge"
-  },
-  {
-    "id": "Maou-jou-de-Oyasumi",
-    "title": "Maou-jou de Oyasumi"
   },
   {
     "id": "Butterfly-Storage",
@@ -1998,6 +2058,30 @@
   {
     "id": "Shitsuji-tachi-no-Chinmoku-SAKURADA-Hina",
     "title": "Shitsuji-tachi no Chinmoku (SAKURADA Hina)"
+  },
+  {
+    "id": "Risouteki-Boyfriend",
+    "title": "Risouteki Boyfriend"
+  },
+  {
+    "id": "Hadacamera",
+    "title": "Hadacamera"
+  },
+  {
+    "id": "Ouji-sama-to-Haiiro-no-Hibi",
+    "title": "Ouji-sama to Haiiro no Hibi"
+  },
+  {
+    "id": "Oushitsu-Kyoushi-Haine",
+    "title": "Oushitsu Kyoushi Haine"
+  },
+  {
+    "id": "Fate-Kaleid-Liner-Prisma-Illya-Drei",
+    "title": "Fate/Kaleid Liner Prisma Illya Drei!"
+  },
+  {
+    "id": "Nanairo-Kakumei",
+    "title": "Nanairo Kakumei"
   },
   {
     "id": "Kekkon-Yubiwa-Monogatari",
@@ -2200,14 +2284,6 @@
     "title": "Danberu nan kiro moteru?"
   },
   {
-    "id": "Kobayashi-san-Chi-no-Maid-Dragon-Kanna-no-Nichijou",
-    "title": "Kobayashi-san Chi no Maid Dragon: Kanna no Nichijou"
-  },
-  {
-    "id": "Danberu-nan-kiro-moteru",
-    "title": "Danberu nan kiro moteru?"
-  },
-  {
     "id": "Complex-Age",
     "title": "Complex Age"
   },
@@ -2282,6 +2358,46 @@
   {
     "id": "Primal",
     "title": "Primal"
+  },
+  {
+    "id": "Toshoshitsu-no-Kimi",
+    "title": "Toshoshitsu no Kimi"
+  },
+  {
+    "id": "Onii-chan-is-done-for",
+    "title": "Onii-chan is done for"
+  },
+  {
+    "id": "Be-Blues-Ao-ni-Nare",
+    "title": "Be Blues! - Ao ni Nare"
+  },
+  {
+    "id": "New-Game",
+    "title": "New Game!"
+  },
+  {
+    "id": "MF-Ghost",
+    "title": "MF Ghost"
+  },
+  {
+    "id": "Swap-Swap",
+    "title": "Swap Swap"
+  },
+  {
+    "id": "Toaru-Majutsu-no-Kinsho-Mokuroku-Gaiden-To-Aru-Kagaku-no-Ippou-Tsuukou",
+    "title": "Toaru Majutsu no Kinsho Mokuroku Gaiden - To Aru Kagaku no Ippou Tsuukou"
+  },
+  {
+    "id": "Majonna-Mikamoto-Rei-Extra-Works",
+    "title": "Majonna - Mikamoto Rei Extra Works"
+  },
+  {
+    "id": "Koiiji",
+    "title": "Koiiji"
+  },
+  {
+    "id": "Hibari-no-Asa",
+    "title": "Hibari no Asa"
   },
   {
     "id": "Toshoshitsu-no-Kimi",
@@ -2400,30 +2516,6 @@
     "title": "Innocent Devil"
   },
   {
-    "id": "Chong-Sheng-Resurrection",
-    "title": "Chong Sheng - Resurrection"
-  },
-  {
-    "id": "Days",
-    "title": "Days"
-  },
-  {
-    "id": "Ore-Yome-Ore-no-Yome-ni-Nare-yo",
-    "title": "Ore Yome. - Ore no Yome ni Nare yo"
-  },
-  {
-    "id": "Ane-Log-Moyako-Neesan-no-Tomaranai-Monologue",
-    "title": "Ane Log - Moyako Neesan no Tomaranai Monologue"
-  },
-  {
-    "id": "Tanaka-The-Wizard",
-    "title": "Tanaka The Wizard"
-  },
-  {
-    "id": "Innocent-Devil",
-    "title": "Innocent Devil"
-  },
-  {
     "id": "Hanakaku-The-Last-Girl-Standing",
     "title": "Hanakaku - The Last Girl Standing"
   },
@@ -2508,46 +2600,6 @@
     "title": "Katsute Kami Datta Kemono-tachi e"
   },
   {
-    "id": "Overlord",
-    "title": "Overlord"
-  },
-  {
-    "id": "Goblin-Slayer",
-    "title": "Goblin Slayer"
-  },
-  {
-    "id": "Seikai-no-Monshou-YONEMURA-Kouichirou",
-    "title": "Seikai no Monshou (YONEMURA Kouichirou)"
-  },
-  {
-    "id": "Seesaw-Game",
-    "title": "Seesaw Game"
-  },
-  {
-    "id": "To-Aru-Kagaku-no-Choudenjibou",
-    "title": "To Aru Kagaku no Choudenjibou"
-  },
-  {
-    "id": "Stella-to-Mille-Feuille",
-    "title": "Stella to Mille Feuille"
-  },
-  {
-    "id": "Kyuuketsuki-chan-to-Kouhai-chan",
-    "title": "Kyuuketsuki-chan to Kouhai-chan"
-  },
-  {
-    "id": "Tonari-no-Kyuuketsuki-san",
-    "title": "Tonari no Kyuuketsuki-san"
-  },
-  {
-    "id": "Stella-no-Mahou",
-    "title": "Stella no Mahou"
-  },
-  {
-    "id": "Combat-Continent",
-    "title": "Combat Continent"
-  },
-  {
     "id": "Janki-Hokutosei",
     "title": "Janki Hokutosei"
   },
@@ -2598,6 +2650,38 @@
   {
     "id": "Okusama-wa-Joshi-Kousei",
     "title": "Okusama wa Joshi Kousei"
+  },
+  {
+    "id": "Sadomi-the-Sadist-Girl-Strikes-Back",
+    "title": "Sadomi the Sadist Girl Strikes Back"
+  },
+  {
+    "id": "Ai-Container",
+    "title": "Ai Container"
+  },
+  {
+    "id": "Shoulder-Tackle-Yasuzaki-man",
+    "title": "Shoulder Tackle Yasuzaki-man"
+  },
+  {
+    "id": "Nihao-retro",
+    "title": "Nihao retro"
+  },
+  {
+    "id": "Thousand-Endless-Rains-from-Faraway-Mountains",
+    "title": "Thousand Endless Rains from Faraway Mountains"
+  },
+  {
+    "id": "Kuuchuu-Teien-no-Hitobito",
+    "title": "Kuuchuu Teien no Hitobito"
+  },
+  {
+    "id": "Saint-Seiya-Next-Dimension",
+    "title": "Saint Seiya - Next Dimension"
+  },
+  {
+    "id": "Poputepipikku",
+    "title": "Poputepipikku"
   },
   {
     "id": "Touhou-Sangetsusei-Visionary-Fairies-in-Shrine",
@@ -2874,10 +2958,6 @@
   {
     "id": "Yaonie-jiaozhu-kuai-tang-xia",
     "title": "Yaonie jiaozhu kuai tang xia"
-  },
-  {
-    "id": "A-Dimwitted-Monk-fell-from-Heaven",
-    "title": "A \"Dimwitted\" Monk fell from Heaven"
   },
   {
     "id": "Shinmai-Shimai-no-Futari-Gohan",
@@ -3200,14 +3280,6 @@
     "title": "Comic S - Hayakawa Publishing 70th Anniversary Comic Anthology [Sci-Fi] Edition"
   },
   {
-    "id": "Land",
-    "title": "Land"
-  },
-  {
-    "id": "Comic-S-Hayakawa-Publishing-70th-Anniversary-Comic-Anthology-Sci-Fi-Edition",
-    "title": "Comic S - Hayakawa Publishing 70th Anniversary Comic Anthology [Sci-Fi] Edition"
-  },
-  {
     "id": "End-and-Save",
     "title": "End and Save"
   },
@@ -3314,10 +3386,6 @@
   {
     "id": "Neko-no-Otera-no-Chion-san",
     "title": "Neko no Otera no Chion-san"
-  },
-  {
-    "id": "A-Thousand-Years-Ninetails",
-    "title": "A Thousand Years Ninetails"
   },
   {
     "id": "Murenase-Shiiton-Gakuen",
@@ -3474,10 +3542,6 @@
   {
     "id": "It-s-My-Life",
     "title": "It's My Life"
-  },
-  {
-    "id": "Jingai-no-Yome-to-ichaicha-suru-Anthology-Comic",
-    "title": "Jingai no Yome to ichaicha suru - Anthology Comic"
   },
   {
     "id": "Uchi-no-Musume-ni-Te-o-Dasu-na-Oyako-Heroine-Funtousu",
@@ -3936,6 +4000,54 @@
     "title": "Shoukoku no Altair"
   },
   {
+    "id": "Tsumi-to-Kai",
+    "title": "Tsumi to Kai"
+  },
+  {
+    "id": "Cosplay-Deka",
+    "title": "Cosplay Deka"
+  },
+  {
+    "id": "Joou-no-Hana",
+    "title": "Joou no Hana"
+  },
+  {
+    "id": "Geten-no-Hana",
+    "title": "Geten no Hana"
+  },
+  {
+    "id": "Natsume-Yuujinchou",
+    "title": "Natsume Yuujinchou"
+  },
+  {
+    "id": "The-Idolm-ster-Cinderella-Girls-Wild-Wind-Girl",
+    "title": "The Idolm@ster: Cinderella Girls - Wild Wind Girl"
+  },
+  {
+    "id": "1P-Comic-Dragon-Quest-Monsters--Terry-no-Wonderland",
+    "title": "1P Comic Dragon Quest Monsters: Terry no Wonderland"
+  },
+  {
+    "id": "Mujaki-no-Rakuen-Parallel",
+    "title": "Mujaki no Rakuen Parallel"
+  },
+  {
+    "id": "Shintetsu-no-Agartha",
+    "title": "Shintetsu no Agartha"
+  },
+  {
+    "id": "Chou-Kasoku-Ningen-Leo",
+    "title": "Chou Kasoku Ningen Leo"
+  },
+  {
+    "id": "Girls-Panzer-Ribbon-no-Musha",
+    "title": "Girls & Panzer - Ribbon no Musha"
+  },
+  {
+    "id": "Shoukoku-no-Altair",
+    "title": "Shoukoku no Altair"
+  },
+  {
     "id": "Shoukoku-no-Altair-san",
     "title": "Shoukoku no Altair-san"
   },
@@ -3986,18 +4098,6 @@
   {
     "id": "Madoromi-chan-ga-Iku",
     "title": "Madoromi-chan ga Iku."
-  },
-  {
-    "id": "Violent-Path-Martial-Arts-School",
-    "title": "Violent Path Martial Arts School"
-  },
-  {
-    "id": "Saotome-Girl-Hitakakusu",
-    "title": "Saotome Girl, Hitakakusu"
-  },
-  {
-    "id": "1-2-Prince",
-    "title": "1/2 Prince"
   },
   {
     "id": "Violent-Path-Martial-Arts-School",
@@ -4100,34 +4200,6 @@
     "title": "Kono Subarashii Sekai ni Shukufuku o!"
   },
   {
-    "id": "Shingeki-no-Kyojin-Lost-Girls",
-    "title": "Shingeki no Kyojin - Lost Girls"
-  },
-  {
-    "id": "Musashi-MOTOMIYA-Hiroshi",
-    "title": "Musashi (MOTOMIYA Hiroshi)"
-  },
-  {
-    "id": "Wombs",
-    "title": "Wombs"
-  },
-  {
-    "id": "Yuusha-no-Musume-to-Midoriiro-no-Mahoutsukai",
-    "title": "Yuusha no Musume to Midoriiro no Mahoutsukai"
-  },
-  {
-    "id": "Miracle-Nikki-NPCs-Fantastical-Daily-Lives",
-    "title": "Miracle Nikki NPCs' Fantastical Daily Lives"
-  },
-  {
-    "id": "Labihem-Police",
-    "title": "Labihem Police"
-  },
-  {
-    "id": "Hayachine",
-    "title": "Hayachine!"
-  },
-  {
     "id": "Kono-Koi-ni-Mirai-wa-nai",
     "title": "Kono Koi ni Mirai wa nai"
   },
@@ -4198,6 +4270,18 @@
   {
     "id": "Crab-kiss",
     "title": "Crab kiss"
+  },
+  {
+    "id": "Chat",
+    "title": "Chat"
+  },
+  {
+    "id": "Just-One-Smile-Is-Very-Alluring",
+    "title": "Just One Smile Is Very Alluring"
+  },
+  {
+    "id": "Manabi-Ikiru-wa-Fuufu-no-Tsutome",
+    "title": "Manabi Ikiru wa Fuufu no Tsutome"
   },
   {
     "id": "Toshokan-no-Daimajutsushi",
@@ -4316,12 +4400,32 @@
     "title": "Monster no Goshujin-sama"
   },
   {
-    "id": "Mujirushi-The-Sign-of-Dreams",
-    "title": "Mujirushi - The Sign of Dreams"
+    "id": "Macchi-Shoujo",
+    "title": "Macchi Shoujo"
   },
   {
-    "id": "Tendou-ke-Monogatari",
-    "title": "Tendou-ke Monogatari"
+    "id": "Ugly-Duckling",
+    "title": "Ugly Duckling"
+  },
+  {
+    "id": "Hoshiiro-GirlDrop-Comic-Anthology",
+    "title": "Hoshiiro GirlDrop Comic Anthology"
+  },
+  {
+    "id": "Youkai-no-Oisha-san",
+    "title": "Youkai no Oisha-san"
+  },
+  {
+    "id": "Babel-2-Sei",
+    "title": "Babel 2-Sei"
+  },
+  {
+    "id": "Shishunki-Bitter-Change",
+    "title": "Shishunki Bitter Change"
+  },
+  {
+    "id": "Monster-no-Goshujin-sama",
+    "title": "Monster no Goshujin-sama"
   },
   {
     "id": "Namaikizakari",
@@ -4386,18 +4490,6 @@
   {
     "id": "Aoharu-x-Kikanjuu",
     "title": "Aoharu x Kikanjuu"
-  },
-  {
-    "id": "Kyougaku-Koukou-no-Genjitsu",
-    "title": "Kyougaku Koukou no Genjitsu"
-  },
-  {
-    "id": "Devilchi",
-    "title": "Devilchi"
-  },
-  {
-    "id": "Koisuru-Mitsuba",
-    "title": "Koisuru Mitsuba"
   },
   {
     "id": "Kyougaku-Koukou-no-Genjitsu",
@@ -4538,10 +4630,6 @@
   {
     "id": "Boku-no-Kanojo-ga-Majime-Sugiru-Shojo-Bitch-na-Ken",
     "title": "Boku no Kanojo ga Majime Sugiru Shojo Bitch na Ken"
-  },
-  {
-    "id": "Sleeping-Princess-and-Dreaming-Devil",
-    "title": "Sleeping Princess and Dreaming Devil"
   },
   {
     "id": "Mikado-no-Shihou",
@@ -4954,10 +5042,6 @@
   {
     "id": "Koneko-chan-Kocchi-ni-Oide",
     "title": "Koneko-chan, Kocchi ni Oide"
-  },
-  {
-    "id": "Karneval",
-    "title": "Karneval"
   },
   {
     "id": "Saint-Seiya-Saintia-Shou",
@@ -5738,10 +5822,6 @@
   {
     "id": "Katakoi-no-Nikki-Shoujo",
     "title": "Katakoi no Nikki Shoujo"
-  },
-  {
-    "id": "Dear-Only-You-Don-t-Know",
-    "title": "Dear, Only You Don't Know!"
   },
   {
     "id": "Demon-Seiten",
@@ -6772,10 +6852,6 @@
     "title": "EON"
   },
   {
-    "id": "Senpai-Ima-Kara-Kokurimasu",
-    "title": "Senpai! Ima Kara Kokurimasu!"
-  },
-  {
     "id": "Musuko-ga-Kawaikute-Shikataganai-Mazoku-no-Hahaoya",
     "title": "Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya"
   },
@@ -7588,6 +7664,10 @@
     "title": "Kyou Kara Mongen 7:00 Desu"
   },
   {
+    "id": "Kyuuyaku-Marchen",
+    "title": "Kyuuyaku Marchen"
+  },
+  {
     "id": "Niji-Amaete-yo",
     "title": "Niji, Amaete yo."
   },
@@ -7666,10 +7746,6 @@
   {
     "id": "You-The-One-And-Only-And-The-Seven-Billion-Grim-Reapers",
     "title": "You, The One And Only, And The Seven Billion Grim Reapers"
-  },
-  {
-    "id": "Acma-Game",
-    "title": "Acma:Game"
   },
   {
     "id": "Nanoka-no-Kare",
@@ -7782,10 +7858,6 @@
   {
     "id": "IS-Otoko-demo-Onna-demo-Nai-Sei",
     "title": "IS - Otoko demo Onna demo Nai Sei"
-  },
-  {
-    "id": "Yukoku-no-Moriarty",
-    "title": "Yukoku no Moriarty"
   },
   {
     "id": "Yukoku-no-Moriarty",
@@ -8116,10 +8188,6 @@
     "title": "Sakura Juuyuushi"
   },
   {
-    "id": "Fukigen-na-Mononokean",
-    "title": "Fukigen na Mononokean"
-  },
-  {
     "id": "Boukyaku-no-Shirushi-to-Hime",
     "title": "Boukyaku no Shirushi to Hime"
   },
@@ -8298,10 +8366,6 @@
   {
     "id": "The-Normies",
     "title": "The Normies"
-  },
-  {
-    "id": "Gisho-Getter-Robo-Darkness",
-    "title": "Gisho Getter Robo Darkness"
   },
   {
     "id": "Makai-Ouji-Devils-and-Realist",
@@ -8778,10 +8842,6 @@
   {
     "id": "Maverick-Hunter-Mega-Man-X",
     "title": "Maverick Hunter Mega Man X"
-  },
-  {
-    "id": "Bijo-Amanda",
-    "title": "Bijo Amanda"
   },
   {
     "id": "Why-Did-Men-Stop-Wearing-High-Heels",
@@ -10728,10 +10788,6 @@
     "title": "K・O・I"
   },
   {
-    "id": "Concerto-for-Dark-Night",
-    "title": "Concerto for Dark Night"
-  },
-  {
     "id": "Pupa",
     "title": "Pupa"
   },
@@ -10914,10 +10970,6 @@
   {
     "id": "Flame-of-Recca",
     "title": "Flame of Recca"
-  },
-  {
-    "id": "Gokusai",
-    "title": "Gokusai"
   },
   {
     "id": "Kine-san-no-1-ri-de-Cinema",
@@ -11114,6 +11166,10 @@
   {
     "id": "Iris-Zero",
     "title": "Iris Zero"
+  },
+  {
+    "id": "Tianxia-Diji",
+    "title": "Tianxia Diji"
   },
   {
     "id": "Tianxia-Diji",
@@ -11354,10 +11410,6 @@
   {
     "id": "Ki-ni-Naru-Mori-san",
     "title": "Ki ni Naru Mori-san"
-  },
-  {
-    "id": "Marchen-The-Embodiment-of-Tales",
-    "title": "Märchen: The Embodiment of Tales"
   },
   {
     "id": "Shin-Chimoguri-Ringo-to-Kingyobachi-Otoko",
@@ -23170,10 +23222,6 @@
   {
     "id": "Meitantei-Marnie",
     "title": "Meitantei Marnie"
-  },
-  {
-    "id": "Baka-to-Test-to-Shoukanjyuu",
-    "title": "Baka to Test to Shoukanjyuu"
   },
   {
     "id": "Parabellum",
@@ -42004,14 +42052,6 @@
     "title": "Gaccha Gacha"
   },
   {
-    "id": "Cream-Caramel",
-    "title": "Cream Caramel"
-  },
-  {
-    "id": "Daisy-Luck",
-    "title": "Daisy Luck"
-  },
-  {
     "id": "Love-Letter-SEO-Kouji",
     "title": "Love Letter (SEO Kouji)"
   },
@@ -42190,6 +42230,14 @@
   {
     "id": "Ultra-Red",
     "title": "Ultra Red"
+  },
+  {
+    "id": "SandLand",
+    "title": "SandLand"
+  },
+  {
+    "id": "Paladin",
+    "title": "Paladin"
   },
   {
     "id": "SandLand",
@@ -45756,10 +45804,6 @@
     "title": "The Tarot Cafe"
   },
   {
-    "id": "Bye-Bye-Little",
-    "title": "Bye-Bye, Little"
-  },
-  {
     "id": "Shin-Yami-no-Koe-Kaidan",
     "title": "Shin Yami no Koe - Kaidan"
   },
@@ -46554,10 +46598,6 @@
   {
     "id": "Yuku-Yuku",
     "title": "Yuku Yuku"
-  },
-  {
-    "id": "Maya-no-Souretsu",
-    "title": "Maya no Souretsu"
   },
   {
     "id": "Water",
@@ -52350,6 +52390,14 @@
   {
     "id": "Gacha-Gacha-Capsule",
     "title": "Gacha Gacha - Capsule"
+  },
+  {
+    "id": "Fly-High",
+    "title": "Fly High!"
+  },
+  {
+    "id": "Donten-Prism-Solar-Car",
+    "title": "Donten Prism Solar Car"
   },
   {
     "id": "Fly-High",
