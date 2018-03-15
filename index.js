@@ -2,11 +2,13 @@ const fs = require( 'fs' );
 const url = require( 'url' );
 const path = require( 'path' );
 const hakuneko = require( 'hakuneko' );
+const connector = hakuneko.kissmanga;
 
 var pageFrom = ( process.argv.length > 2 ? process.argv[2] : 1 );
 var pageTo = ( process.argv.length > 3 ? process.argv[3] : 9999 );
 var pageFrom = parseInt( pageFrom ) || 1;
 var pageTo = parseInt( pageTo ) || 9999;
+var updateLimit = 500;
 
 var chapterDelay = 0;
 var pageDelay = 5000;
@@ -128,7 +130,7 @@ function syncChapters( mangaWeb, chapterListWeb, callback, chapterIndex ) {
         return;
     }
     // get pages from web
-    hakuneko.kissmanga.getPages( chapterWeb, function( error, pageListWeb ) {
+    connector.getPages( chapterWeb, function( error, pageListWeb ) {
         if( !error && pageListWeb && pageListWeb.length > 0 ) {
             console.log( '    PAGES:', pageListWeb.length );
             // save page list to repository
@@ -154,7 +156,7 @@ function syncMangas( mangaListWeb, mangaLimit, mangaIndex ) {
     let mangaWeb = mangaListWeb[mangaIndex];
     console.log( 'MANGA:', mangaWeb.t );
     // get all chapters for this manga
-    hakuneko.kissmanga.getChapters( mangaWeb, function( error, chapterListWeb ) {
+    connector.getChapters( mangaWeb, function( error, chapterListWeb ) {
         if( !error && chapterListWeb && chapterListWeb.length > 0 ) {
             console.log( '  CHAPTERS:', chapterListWeb.length );
             // process all chapters for this manga
@@ -177,7 +179,7 @@ hakuneko.kissmanga.getMangas( function( error, mangaListWeb ) {
     if( !error && mangaListWeb && mangaListWeb.length > 0 ) {
         saveMangaListWeb( mangaListWeb );
         // process all mangas for this connector
-//        syncMangas( mangaListWeb/*, 500 */ );
+//        syncMangas( mangaListWeb, updateLimit );
     } else {
         console.error( 'Invalid manga list' );
     }
