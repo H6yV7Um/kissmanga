@@ -69,7 +69,7 @@ function saveMangaListWeb( mangaListWeb ) {
     // convert mangas into stored structure
     let mangas = mangaListWeb.map( ( manga ) => {
         return {
-            id: mangaIdenifier( manga.u ),
+            id: manga.u,
             title: manga.t
         };
     } );
