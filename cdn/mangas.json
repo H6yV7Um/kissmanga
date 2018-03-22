@@ -1,11 +1,283 @@
 [
   {
-    "id": "/Manga/Madonna-ga-Glass-Case-no-Naka",
-    "title": "Madonna ga Glass Case no Naka"
+    "id": "/Manga/Nanba-MG5",
+    "title": "Nanba MG5"
+  },
+  {
+    "id": "/Manga/Buccafe",
+    "title": "Buccafé!"
+  },
+  {
+    "id": "/Manga/MF-Ghost",
+    "title": "MF Ghost"
+  },
+  {
+    "id": "/Manga/Gisho-Getter-Robo-Darkness",
+    "title": "Gisho Getter Robo Darkness"
+  },
+  {
+    "id": "/Manga/Slow-Start-TOKUMI-Yuiko",
+    "title": "Slow Start (TOKUMI Yuiko)"
+  },
+  {
+    "id": "/Manga/Ousamatachi-no-Viking",
+    "title": "Ousamatachi no Viking"
+  },
+  {
+    "id": "/Manga/Yakumo-san-wa-Edzuke-ga-Shitai",
+    "title": "Yakumo-san wa Edzuke ga Shitai."
+  },
+  {
+    "id": "/Manga/Hakase-to-Suraimu-chan",
+    "title": "Hakase to Suraimu-chan"
+  },
+  {
+    "id": "/Manga/Kento-Ankokuden-Cestvs",
+    "title": "Kento Ankokuden Cestvs"
+  },
+  {
+    "id": "/Manga/Kumika-no-Mikaku",
+    "title": "Kumika no Mikaku"
+  },
+  {
+    "id": "/Manga/Hyaku-Monogatari",
+    "title": "Hyaku Monogatari"
+  },
+  {
+    "id": "/Manga/Tales-of-Demons-and-Gods",
+    "title": "Tales of Demons and Gods"
+  },
+  {
+    "id": "/Manga/Otome-Danshi-ni-Koisuru-Otome",
+    "title": "Otome Danshi ni Koisuru Otome"
+  },
+  {
+    "id": "/Manga/Hero-I-Quit-A-Long-Time-Ago",
+    "title": "Hero? I Quit A Long Time Ago."
+  },
+  {
+    "id": "/Manga/You--re-So-Noisy--Please-Give-Me-a-Peace-of-Mind",
+    "title": "You're So Noisy! Please Give Me a Peace of Mind"
+  },
+  {
+    "id": "/Manga/Mujaki-no-Rakuen-Parallel",
+    "title": "Mujaki no Rakuen Parallel"
+  },
+  {
+    "id": "/Manga/Yumekui-Merry",
+    "title": "Yumekui Merry"
+  },
+  {
+    "id": "/Manga/Kanojo-Okarishimasu",
+    "title": "Kanojo, Okarishimasu"
+  },
+  {
+    "id": "/Manga/Honey-MEGURO-Amu",
+    "title": "Honey (MEGURO Amu)"
+  },
+  {
+    "id": "/Manga/I-The-Female-Robot",
+    "title": "I The Female Robot"
+  },
+  {
+    "id": "/Manga/Dakara-Miyoko-Desu",
+    "title": "Dakara Miyoko Desu"
+  },
+  {
+    "id": "/Manga/Naze-da-Naitou",
+    "title": "Naze da Naitou"
+  },
+  {
+    "id": "/Manga/Break-The-World",
+    "title": "Break The World"
+  },
+  {
+    "id": "/Manga/Tanaka-The-Wizard",
+    "title": "Tanaka The Wizard"
+  },
+  {
+    "id": "/Manga/Trinity-Seven-7-Nin-no-Mahoutsukai",
+    "title": "Trinity Seven: 7-Nin no Mahoutsukai"
+  },
+  {
+    "id": "/Manga/Mousou-Telepathy",
+    "title": "Mousou Telepathy"
+  },
+  {
+    "id": "/Manga/Kenja-no-Deshi-wo-Nanoru-Kenja",
+    "title": "Kenja no Deshi wo Nanoru Kenja"
+  },
+  {
+    "id": "/Manga/Orenchi-no-Maid-san",
+    "title": "Orenchi no Maid-san"
+  },
+  {
+    "id": "/Manga/Go-Toubun-no-Hanayome",
+    "title": "Go-Toubun no Hanayome"
+  },
+  {
+    "id": "/Manga/Class-ga-Isekai-Shoukan-sareta-Naka-Ore-dake-Nokotta-n-desu-ga",
+    "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga"
+  },
+  {
+    "id": "/Manga/Sword-Art-Online-Progressive",
+    "title": "Sword Art Online: Progressive"
+  },
+  {
+    "id": "/Manga/Shingeki-no-Kyojin-Before-the-Fall",
+    "title": "Shingeki no Kyojin - Before the Fall"
+  },
+  {
+    "id": "/Manga/Elf-Yome-to-Hajimeru-Isekai-Ryoushu-Seikatsu",
+    "title": "Elf Yome to Hajimeru Isekai Ryoushu Seikatsu"
+  },
+  {
+    "id": "/Manga/Daikousha-Nagi",
+    "title": "Daikousha Nagi"
+  },
+  {
+    "id": "/Manga/QED",
+    "title": "QED"
+  },
+  {
+    "id": "/Manga/Autophagy-Regulation",
+    "title": "Autophagy Regulation"
+  },
+  {
+    "id": "/Manga/Unity-of-Heaven",
+    "title": "Unity of Heaven"
+  },
+  {
+    "id": "/Manga/Danchigai",
+    "title": "Danchigai"
+  },
+  {
+    "id": "/Manga/Hawkwood",
+    "title": "Hawkwood"
+  },
+  {
+    "id": "/Manga/Doko-ka-Tooku-no-Hanashi-wo-shiyou",
+    "title": "Doko ka Tooku no Hanashi wo shiyou"
+  },
+  {
+    "id": "/Manga/Samenai-Machi-no-Kissaten",
+    "title": "Samenai Machi no Kissaten"
+  },
+  {
+    "id": "/Manga/Seitokai-Yakuindomo",
+    "title": "Seitokai Yakuindomo"
+  },
+  {
+    "id": "/Manga/Sora-no-Kanata-no",
+    "title": "Sora no Kanata no!"
   },
   {
     "id": "/Manga/Under-the-Rose",
     "title": "Under the Rose"
+  },
+  {
+    "id": "/Manga/Omoi-Omoware-Furi-Furare",
+    "title": "Omoi, Omoware, Furi, Furare"
+  },
+  {
+    "id": "/Manga/Grashros",
+    "title": "Grashros"
+  },
+  {
+    "id": "/Manga/Urami-san-wa-Kyou-mo-Ayaui",
+    "title": "Urami-san wa Kyou mo Ayaui"
+  },
+  {
+    "id": "/Manga/Mr-Fullswing",
+    "title": "Mr. Fullswing"
+  },
+  {
+    "id": "/Manga/Boyfriend-Of-The-Dead",
+    "title": "Boyfriend Of The Dead"
+  },
+  {
+    "id": "/Manga/Berserk",
+    "title": "Berserk"
+  },
+  {
+    "id": "/Manga/To-Aru-Majutsu-no-Index",
+    "title": "To Aru Majutsu no Index"
+  },
+  {
+    "id": "/Manga/GA-Geijutsuka-Art-Design-Class",
+    "title": "GA - Geijutsuka Art Design Class"
+  },
+  {
+    "id": "/Manga/Danza",
+    "title": "Danza"
+  },
+  {
+    "id": "/Manga/Bungo-Stray-Dogs",
+    "title": "Bungo Stray Dogs"
+  },
+  {
+    "id": "/Manga/Himekishi-ga-Classmate",
+    "title": "Himekishi ga Classmate!"
+  },
+  {
+    "id": "/Manga/Kouishou-Rajio",
+    "title": "Kouishou Rajio"
+  },
+  {
+    "id": "/Manga/Queen-s-Quality",
+    "title": "Queen's Quality"
+  },
+  {
+    "id": "/Manga/Dimension-W",
+    "title": "Dimension W"
+  },
+  {
+    "id": "/Manga/Blood-Lad",
+    "title": "Blood Lad"
+  },
+  {
+    "id": "/Manga/Tsurezure-Children",
+    "title": "Tsurezure Children"
+  },
+  {
+    "id": "/Manga/Chuan-Yue-Xi-Yuan-3000-Hou",
+    "title": "Chuan Yue Xi Yuan 3000 Hou"
+  },
+  {
+    "id": "/Manga/San-Yan-Xiao-Tian-Lu",
+    "title": "San Yan Xiao Tian Lu"
+  },
+  {
+    "id": "/Manga/Kotonoba-Drive",
+    "title": "Kotonoba Drive"
+  },
+  {
+    "id": "/Manga/A-Bitch-and-a-Punk",
+    "title": "A Bitch and a Punk"
+  },
+  {
+    "id": "/Manga/Sarashina-Subaru-kun-no-Meirei-wa-Zettai",
+    "title": "Sarashina Subaru-kun no Meirei wa Zettai! !"
+  },
+  {
+    "id": "/Manga/Arte",
+    "title": "Arte"
+  },
+  {
+    "id": "/Manga/Musashi-MOTOMIYA-Hiroshi",
+    "title": "Musashi (MOTOMIYA Hiroshi)"
+  },
+  {
+    "id": "/Manga/Shibuya-Kingyo",
+    "title": "Shibuya Kingyo"
+  },
+  {
+    "id": "/Manga/Sengoku-Komachi-Kuroutan",
+    "title": "Sengoku Komachi Kuroutan"
+  },
+  {
+    "id": "/Manga/Madonna-ga-Glass-Case-no-Naka",
+    "title": "Madonna ga Glass Case no Naka"
   },
   {
     "id": "/Manga/Ansatsu-Kyoushitsu-Spin-off--Koro-sense-Q",
@@ -24,10 +296,6 @@
     "title": "Komi-san wa Komyushou Desu."
   },
   {
-    "id": "/Manga/Otome-Danshi-ni-Koisuru-Otome",
-    "title": "Otome Danshi ni Koisuru Otome"
-  },
-  {
     "id": "/Manga/Fire-Emblem-Heroes-Daily-Lives-of-the-Heroes",
     "title": "Fire Emblem Heroes Daily Lives of the Heroes"
   },
@@ -42,14 +310,6 @@
   {
     "id": "/Manga/Perfect-Half",
     "title": "Perfect Half"
-  },
-  {
-    "id": "/Manga/Gisho-Getter-Robo-Darkness",
-    "title": "Gisho Getter Robo Darkness"
-  },
-  {
-    "id": "/Manga/Buccafe",
-    "title": "Buccafé!"
   },
   {
     "id": "/Manga/Enen-no-Shouboutai",
@@ -76,24 +336,12 @@
     "title": "Dead Sorcerer's City"
   },
   {
-    "id": "/Manga/Dakara-Miyoko-Desu",
-    "title": "Dakara Miyoko Desu"
-  },
-  {
-    "id": "/Manga/Mr-Fullswing",
-    "title": "Mr. Fullswing"
-  },
-  {
     "id": "/Manga/Saotome-Girl-Hitakakusu",
     "title": "Saotome Girl, Hitakakusu"
   },
   {
     "id": "/Manga/God-of-Martial-Arts",
     "title": "God of Martial Arts"
-  },
-  {
-    "id": "/Manga/Mousou-Telepathy",
-    "title": "Mousou Telepathy"
   },
   {
     "id": "/Manga/Killing-Morph",
@@ -140,10 +388,6 @@
     "title": "Journey to the West (Zheng Jian He)"
   },
   {
-    "id": "/Manga/Kotonoba-Drive",
-    "title": "Kotonoba Drive"
-  },
-  {
     "id": "/Manga/Dasadanan",
     "title": "Dasadanan"
   },
@@ -154,26 +398,6 @@
   {
     "id": "/Manga/Upotte",
     "title": "Upotte!!"
-  },
-  {
-    "id": "/Manga/Kumamiko-Girl-Meets-Bear",
-    "title": "Kumamiko - Girl Meets Bear"
-  },
-  {
-    "id": "/Manga/Take-Dake-Dake-Takedakei-Gentei",
-    "title": "Take Dake Dake! - Takedakei Gentei"
-  },
-  {
-    "id": "/Manga/ZIGA",
-    "title": "ZIGA"
-  },
-  {
-    "id": "/Manga/Noah-s-Notes",
-    "title": "Noah's Notes"
-  },
-  {
-    "id": "/Manga/Christie-High-Tension",
-    "title": "Christie High Tension"
   },
   {
     "id": "/Manga/Noblesse",
@@ -198,6 +422,10 @@
   {
     "id": "/Manga/Samurai-Spirits-Shimabara-Amakusa-Jashin-Shiro-Kouryaku-hen",
     "title": "Samurai Spirits: Shimabara Amakusa Jashin Shiro Kouryaku-hen"
+  },
+  {
+    "id": "/Manga/Yamada-to-Kase-san",
+    "title": "Yamada to Kase-san."
   },
   {
     "id": "/Manga/Game-Yaru-kara-100-en-Kashite",
@@ -372,10 +600,6 @@
     "title": "Hakase to Suraimu-chan"
   },
   {
-    "id": "/Manga/Keyman-The-Hand-of-Judgement",
-    "title": "Keyman: The Hand of Judgement"
-  },
-  {
     "id": "/Manga/Black-Lagoon",
     "title": "Black Lagoon"
   },
@@ -388,20 +612,20 @@
     "title": "Toukyou Kushu:re"
   },
   {
-    "id": "/Manga/Hero-I-Quit-A-Long-Time-Ago",
-    "title": "Hero? I Quit A Long Time Ago."
-  },
-  {
     "id": "/Manga/Violent-Path-Martial-Arts-School",
     "title": "Violent Path Martial Arts School"
   },
   {
-    "id": "/Manga/To-Aru-Majutsu-no-Index",
-    "title": "To Aru Majutsu no Index"
+    "id": "/Manga/Mogusa-san",
+    "title": "Mogusa-san"
   },
   {
-    "id": "/Manga/Orenchi-no-Maid-san",
-    "title": "Orenchi no Maid-san"
+    "id": "/Manga/Nanatsu-no-Taizai",
+    "title": "Nanatsu no Taizai"
+  },
+  {
+    "id": "/Manga/Baka-and-Boing",
+    "title": "Baka and Boing"
   },
   {
     "id": "/Manga/C-M-B",
@@ -496,10 +720,6 @@
     "title": "Nagai Michi"
   },
   {
-    "id": "/Manga/Danchigai",
-    "title": "Danchigai"
-  },
-  {
     "id": "/Manga/Excel-Saga",
     "title": "Excel Saga"
   },
@@ -580,14 +800,6 @@
     "title": "Hive"
   },
   {
-    "id": "/Manga/Shitsuren-Pet-to-Juui-sama",
-    "title": "Shitsuren Pet to Juui-sama"
-  },
-  {
-    "id": "/Manga/Cat-s-Eye",
-    "title": "Cat's Eye"
-  },
-  {
     "id": "/Manga/Hatsukoi-Zombie",
     "title": "Hatsukoi Zombie"
   },
@@ -598,6 +810,10 @@
   {
     "id": "/Manga/Hanebado",
     "title": "Hanebado!"
+  },
+  {
+    "id": "/Manga/Koi-desu-ga-Koi-Janai",
+    "title": "Koi desu ga Koi Janai"
   },
   {
     "id": "/Manga/Demon-Spirit-Seed-Manual",
@@ -760,16 +976,8 @@
     "title": "My Male Friend"
   },
   {
-    "id": "/Manga/Tanaka-The-Wizard",
-    "title": "Tanaka The Wizard"
-  },
-  {
     "id": "/Manga/The-Promised-Neverland",
     "title": "The Promised Neverland"
-  },
-  {
-    "id": "/Manga/Kanojo-Okarishimasu",
-    "title": "Kanojo, Okarishimasu"
   },
   {
     "id": "/Manga/The-Scholar-s-Reincarnation",
@@ -786,6 +994,10 @@
   {
     "id": "/Manga/Yaonie-jiaozhu-kuai-tang-xia",
     "title": "Yaonie jiaozhu kuai tang xia"
+  },
+  {
+    "id": "/Manga/Betterman",
+    "title": "Betterman"
   },
   {
     "id": "/Manga/Betterman",
@@ -836,10 +1048,6 @@
     "title": "Gochuumon wa Usagi Desu ka?"
   },
   {
-    "id": "/Manga/Boyfriend-Of-The-Dead",
-    "title": "Boyfriend Of The Dead"
-  },
-  {
     "id": "/Manga/Dagashi-Kashi",
     "title": "Dagashi Kashi"
   },
@@ -858,10 +1066,6 @@
   {
     "id": "/Manga/Golden-Kamui",
     "title": "Golden Kamui"
-  },
-  {
-    "id": "/Manga/Samenai-Machi-no-Kissaten",
-    "title": "Samenai Machi no Kissaten"
   },
   {
     "id": "/Manga/Kimi-no-Suizou-wo-Tabetai",
@@ -980,8 +1184,24 @@
     "title": "Summer Time Render"
   },
   {
-    "id": "/Manga/Break-The-World",
-    "title": "Break The World"
+    "id": "/Manga/Waratte-Sotomura-san",
+    "title": "Waratte! Sotomura-san"
+  },
+  {
+    "id": "/Manga/Between-Smooth-and-Rough",
+    "title": "Between Smooth and Rough"
+  },
+  {
+    "id": "/Manga/This-Doesn-t-Feel-Like-Me",
+    "title": "This Doesn't Feel Like Me"
+  },
+  {
+    "id": "/Manga/Fara-Otto",
+    "title": "Fara Otto"
+  },
+  {
+    "id": "/Manga/Summer-Time-Render",
+    "title": "Summer Time Render"
   },
   {
     "id": "/Manga/Waratte-Sotomura-san",
@@ -1022,10 +1242,6 @@
   {
     "id": "/Manga/Marry-Grave",
     "title": "Marry Grave"
-  },
-  {
-    "id": "/Manga/Autophagy-Regulation",
-    "title": "Autophagy Regulation"
   },
   {
     "id": "/Manga/Princess-Agent",
@@ -1080,16 +1296,8 @@
     "title": "S. I. D."
   },
   {
-    "id": "/Manga/Shingeki-no-Kyojin-Before-the-Fall",
-    "title": "Shingeki no Kyojin - Before the Fall"
-  },
-  {
     "id": "/Manga/Beauty-Honey",
     "title": "Beauty Honey"
-  },
-  {
-    "id": "/Manga/Sword-Art-Online-Progressive",
-    "title": "Sword Art Online: Progressive"
   },
   {
     "id": "/Manga/Battle-Through-the-Heavens-Prequel-The-Legend-of-Yao-Lao",
@@ -1190,50 +1398,6 @@
   {
     "id": "/Manga/Chihaya-san-wa-Sono-Mama-de-Ii",
     "title": "Chihaya-san wa Sono Mama de Ii"
-  },
-  {
-    "id": "/Manga/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-o-Dekake-chuu",
-    "title": "Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu"
-  },
-  {
-    "id": "/Manga/Saraiya-Goyou",
-    "title": "Saraiya Goyou"
-  },
-  {
-    "id": "/Manga/Kaguya-sama-wa-Kokurasetai-Tensai-tachi-no-Renai-Zunousen",
-    "title": "Kaguya-sama wa Kokurasetai - Tensai-tachi no Renai Zunousen"
-  },
-  {
-    "id": "/Manga/Yumi-s-Cells",
-    "title": "Yumi's Cells"
-  },
-  {
-    "id": "/Manga/Ojisama-to-Neko",
-    "title": "Ojisama to Neko"
-  },
-  {
-    "id": "/Manga/D-Frag",
-    "title": "D-Frag"
-  },
-  {
-    "id": "/Manga/Chihaya-san-wa-Sono-Mama-de-Ii",
-    "title": "Chihaya-san wa Sono Mama de Ii"
-  },
-  {
-    "id": "/Manga/Gaikotsu-Kishi-sama-Tadaima-Isekai-e-o-Dekake-chuu",
-    "title": "Gaikotsu Kishi-sama Tadaima Isekai e o Dekake-chuu"
-  },
-  {
-    "id": "/Manga/Saraiya-Goyou",
-    "title": "Saraiya Goyou"
-  },
-  {
-    "id": "/Manga/Reset-Man",
-    "title": "Reset Man"
-  },
-  {
-    "id": "/Manga/Michelin-Star",
-    "title": "Michelin Star"
   },
   {
     "id": "/Manga/Seikimatsu-Leader-Den-Takeshi",
@@ -1400,8 +1564,40 @@
     "title": "Koi Wazurai no Ellie"
   },
   {
+    "id": "/Manga/Aoba-kun-ni-Kikitai-Koto",
+    "title": "Aoba-kun ni Kikitai Koto"
+  },
+  {
+    "id": "/Manga/Kokukoku",
+    "title": "Kokukoku"
+  },
+  {
+    "id": "/Manga/Chiyou-y-Hana-yo",
+    "title": "Chiyou yo Hana yo"
+  },
+  {
+    "id": "/Manga/Akame-ga-KILL-Zero",
+    "title": "Akame ga KILL! Zero"
+  },
+  {
+    "id": "/Manga/Dr-Stone",
+    "title": "Dr. Stone"
+  },
+  {
+    "id": "/Manga/Devils-Line",
+    "title": "Devils Line"
+  },
+  {
     "id": "/Manga/I-Don-t-Want-This-Kind-of-Hero",
     "title": "I Don't Want This Kind of Hero"
+  },
+  {
+    "id": "/Manga/The-Gamer",
+    "title": "The Gamer"
+  },
+  {
+    "id": "/Manga/Ugly-Duckling",
+    "title": "Ugly Duckling"
   },
   {
     "id": "/Manga/The-Gamer",
@@ -1536,10 +1732,6 @@
     "title": "Maou ga Yadoya wo yatte Inu."
   },
   {
-    "id": "/Manga/Go-Toubun-no-Hanayome",
-    "title": "Go-Toubun no Hanayome"
-  },
-  {
     "id": "/Manga/Boku-no-Hero-Academia-Smash",
     "title": "Boku no Hero Academia Smash!!"
   },
@@ -1564,18 +1756,6 @@
     "title": "Panlong"
   },
   {
-    "id": "/Manga/Under-the-Rose",
-    "title": "Under the Rose"
-  },
-  {
-    "id": "/Manga/Komi-san-wa-Komyushou-Desu",
-    "title": "Komi-san wa Komyushou Desu."
-  },
-  {
-    "id": "/Manga/Elf-Yome-to-Hajimeru-Isekai-Ryoushu-Seikatsu",
-    "title": "Elf Yome to Hajimeru Isekai Ryoushu Seikatsu"
-  },
-  {
     "id": "/Manga/Rokudenashi-Blues",
     "title": "Rokudenashi Blues"
   },
@@ -1590,10 +1770,6 @@
   {
     "id": "/Manga/Under-PRIN",
     "title": "Under PRIN"
-  },
-  {
-    "id": "/Manga/Ojojojo",
-    "title": "Ojojojo"
   },
   {
     "id": "/Manga/Ojojojo",
@@ -1618,18 +1794,6 @@
   {
     "id": "/Manga/Ore-wo-Suki-Nano-wa-Omae-Dake-ka-yo",
     "title": "Ore wo Suki Nano wa Omae Dake ka yo"
-  },
-  {
-    "id": "/Manga/Hinowa-ga-Yuku",
-    "title": "Hinowa ga Yuku"
-  },
-  {
-    "id": "/Manga/Magika-no-Kenshi-to-Shoukan-Maou",
-    "title": "Magika no Kenshi to Shoukan Maou"
-  },
-  {
-    "id": "/Manga/Piece",
-    "title": "Piece"
   },
   {
     "id": "/Manga/Wo-Nanpiao-Shi-Jinyiwei",
@@ -1732,10 +1896,6 @@
     "title": "Majonna - Mikamoto Rei Extra Works"
   },
   {
-    "id": "/Manga/Tales-of-Demons-and-Gods",
-    "title": "Tales of Demons and Gods"
-  },
-  {
     "id": "/Manga/Torako-Anmari-Kowashicha-Dame-da-yo",
     "title": "Torako, Anmari Kowashicha Dame da yo"
   },
@@ -1800,20 +1960,12 @@
     "title": "Mahou Tsukai no Yome"
   },
   {
-    "id": "/Manga/Unity-of-Heaven",
-    "title": "Unity of Heaven"
-  },
-  {
     "id": "/Manga/Koketsu-Dining",
     "title": "Koketsu Dining"
   },
   {
     "id": "/Manga/Shuukan-Shounen-Hachi",
     "title": "Shuukan Shounen Hachi"
-  },
-  {
-    "id": "/Manga/Seitokai-Yakuindomo",
-    "title": "Seitokai Yakuindomo"
   },
   {
     "id": "/Manga/Isekai-Death-Game-ni-Tensou-sarete-tsurai",
@@ -1828,8 +1980,20 @@
     "title": "Machida-kun no Sekai"
   },
   {
-    "id": "/Manga/Tsurezure-Children",
-    "title": "Tsurezure Children"
+    "id": "/Manga/All-Day-Jo-Ayoung",
+    "title": "All Day Jo Ayoung"
+  },
+  {
+    "id": "/Manga/Iono-sama-Fanatics",
+    "title": "Iono-sama Fanatics"
+  },
+  {
+    "id": "/Manga/Holders-Penunggu",
+    "title": "Holders (Penunggu)"
+  },
+  {
+    "id": "/Manga/Change-JinYuan",
+    "title": "Change (JinYuan)"
   },
   {
     "id": "/Manga/All-Day-Jo-Ayoung",
@@ -1908,10 +2072,6 @@
     "title": "Dokyuu Hentai Exloss"
   },
   {
-    "id": "/Manga/Ansatsu-Kyoushitsu-Spin-off--Koro-sense-Q",
-    "title": "Ansatsu Kyoushitsu Spin-off Koro-sense Q!"
-  },
-  {
     "id": "/Manga/Jujutsu-Kaisen",
     "title": "Jujutsu Kaisen"
   },
@@ -1982,18 +2142,6 @@
   {
     "id": "/Manga/Saguri-chan-Tankentai",
     "title": "Saguri-chan Tankentai"
-  },
-  {
-    "id": "/Manga/Chi-no-Wadachi",
-    "title": "Chi no Wadachi"
-  },
-  {
-    "id": "/Manga/Hoshino-Me-o-Tsubutte",
-    "title": "Hoshino, Me o Tsubutte."
-  },
-  {
-    "id": "/Manga/From-Maid-to-Mother",
-    "title": "From Maid to Mother"
   },
   {
     "id": "/Manga/Chi-no-Wadachi",
@@ -2140,10 +2288,6 @@
     "title": "Route End"
   },
   {
-    "id": "/Manga/Grashros",
-    "title": "Grashros"
-  },
-  {
     "id": "/Manga/My-Office-Ladies",
     "title": "My Office Ladies"
   },
@@ -2194,6 +2338,10 @@
   {
     "id": "/Manga/Dear-Only-You-Don-t-Know",
     "title": "Dear, Only You Don't Know!"
+  },
+  {
+    "id": "/Manga/Acma-Game",
+    "title": "Acma:Game"
   },
   {
     "id": "/Manga/Tsuki-ga-Kirei-Desu-ne--ITOU-Hachi-",
@@ -2424,10 +2572,6 @@
     "title": "Servant x Service"
   },
   {
-    "id": "/Manga/You--re-So-Noisy--Please-Give-Me-a-Peace-of-Mind",
-    "title": "You're So Noisy! Please Give Me a Peace of Mind"
-  },
-  {
     "id": "/Manga/Ozland",
     "title": "Ozland"
   },
@@ -2652,22 +2796,6 @@
     "title": "Good Luck, Demon King! (Season 1)"
   },
   {
-    "id": "/Manga/Akaten-Hero",
-    "title": "Akaten Hero!"
-  },
-  {
-    "id": "/Manga/Kaidan-Nikki",
-    "title": "Kaidan Nikki"
-  },
-  {
-    "id": "/Manga/Mahou-Tsukai-no-Deshi-ga-Warau-Toki",
-    "title": "Mahou Tsukai no Deshi ga Warau Toki."
-  },
-  {
-    "id": "/Manga/Gangsta",
-    "title": "Gangsta"
-  },
-  {
     "id": "/Manga/Tsuki-no-Toiki-Ai-no-Kizu",
     "title": "Tsuki no Toiki Ai no Kizu"
   },
@@ -2868,16 +2996,16 @@
     "title": "Shudan!"
   },
   {
+    "id": "/Manga/Shudan",
+    "title": "Shudan!"
+  },
+  {
     "id": "/Manga/Otokojuku-Gaiden-Date-Omito",
     "title": "Otokojuku Gaiden - Date Omito"
   },
   {
     "id": "/Manga/Manuke-na-FPS-Player-ga-Isekai-e-Ochita-Baai",
     "title": "Manuke na FPS Player ga Isekai e Ochita Baai"
-  },
-  {
-    "id": "/Manga/Sora-no-Kanata-no",
-    "title": "Sora no Kanata no!"
   },
   {
     "id": "/Manga/Setsuna-Graffiti",
@@ -2936,10 +3064,6 @@
     "title": "Moyashimon"
   },
   {
-    "id": "/Manga/Queen-s-Quality",
-    "title": "Queen's Quality"
-  },
-  {
     "id": "/Manga/Honkai-Impact-3-Violet-Sea-Story",
     "title": "Honkai Impact 3 - Violet Sea Story"
   },
@@ -2990,10 +3114,6 @@
   {
     "id": "/Manga/While-Killing-Slimes-for-300-Years--I-Became-the-MAX-Level-Unknowingly--Novel-",
     "title": "While Killing Slimes for 300 Years, I Became the MAX Level Unknowingly"
-  },
-  {
-    "id": "/Manga/Toshishita-no-Otokonoko-HIRO-Chihiro",
-    "title": "Toshishita no Otokonoko (HIRO Chihiro)"
   },
   {
     "id": "/Manga/Toshishita-no-Otokonoko-HIRO-Chihiro",
@@ -3076,6 +3196,14 @@
     "title": "Infection"
   },
   {
+    "id": "/Manga/Now-Loading",
+    "title": "Now Loading!"
+  },
+  {
+    "id": "/Manga/Infection",
+    "title": "Infection"
+  },
+  {
     "id": "/Manga/Sozai-Saishuka-no-Isekai-Ryokouki",
     "title": "Sozai Saishuka no Isekai Ryokouki"
   },
@@ -3098,10 +3226,6 @@
   {
     "id": "/Manga/Boku-no-Heya-ga-Dungeon-no-Kyuukeijo-ni-Natteshimatta-Ken",
     "title": "Boku no Heya ga Dungeon no Kyuukeijo ni Natteshimatta Ken"
-  },
-  {
-    "id": "/Manga/Class-ga-Isekai-Shoukan-sareta-Naka-Ore-dake-Nokotta-n-desu-ga",
-    "title": "Class ga Isekai Shoukan sareta Naka Ore dake Nokotta n desu ga"
   },
   {
     "id": "/Manga/Weak-5000-Year-Old-Vegan-Dragon",
@@ -3196,6 +3320,10 @@
     "title": "Made in Abyss"
   },
   {
+    "id": "/Manga/Onepunch-Man",
+    "title": "Onepunch-Man"
+  },
+  {
     "id": "/Manga/Lime-Odyssey-The-Chronicles-of-ORTA",
     "title": "Lime Odyssey: The Chronicles of ORTA"
   },
@@ -3268,6 +3396,10 @@
     "title": "Kanata no Astra"
   },
   {
+    "id": "/Manga/Kanata-no-Astra",
+    "title": "Kanata no Astra"
+  },
+  {
     "id": "/Manga/Sekai-no-Aikotoba-wa-Mizu",
     "title": "Sekai no Aikotoba wa Mizu"
   },
@@ -3296,24 +3428,12 @@
     "title": "Raisekamika"
   },
   {
-    "id": "/Manga/Bungo-Stray-Dogs",
-    "title": "Bungo Stray Dogs"
-  },
-  {
     "id": "/Manga/Tomo-chan-wa-Onnanoko",
     "title": "Tomo-chan wa Onnanoko!"
   },
   {
     "id": "/Manga/Butter",
     "title": "Butter!!!"
-  },
-  {
-    "id": "/Manga/Nanba-MG5",
-    "title": "Nanba MG5"
-  },
-  {
-    "id": "/Manga/Yuzumori-san",
-    "title": "Yuzumori-san"
   },
   {
     "id": "/Manga/Potion-danomi-de-Ikinobimasu-",
@@ -3696,10 +3816,6 @@
     "title": "Honzuki no Gekokujou"
   },
   {
-    "id": "/Manga/I-The-Female-Robot",
-    "title": "I The Female Robot"
-  },
-  {
     "id": "/Manga/Tsurezure-Biyori",
     "title": "Tsurezure Biyori"
   },
@@ -3794,10 +3910,6 @@
   {
     "id": "/Manga/Fushigi-Neko-no-Kyuu-chan",
     "title": "Fushigi Neko no Kyuu-chan"
-  },
-  {
-    "id": "/Manga/Daikousha-Nagi",
-    "title": "Daikousha Nagi"
   },
   {
     "id": "/Manga/Super-Doctor-K",
@@ -3898,10 +4010,6 @@
   {
     "id": "/Manga/Ren-Chin-Girl",
     "title": "Ren-Chin Girl"
-  },
-  {
-    "id": "/Manga/Hawkwood",
-    "title": "Hawkwood"
   },
   {
     "id": "/Manga/Mahou-Shoujo-Yongou-chan",
@@ -4196,10 +4304,6 @@
     "title": "Tomogui Kyoushitsu"
   },
   {
-    "id": "/Manga/Hyaku-Monogatari",
-    "title": "Hyaku Monogatari"
-  },
-  {
     "id": "/Manga/Samurai-Ragazzi-Sengoku-Shounen-Seihou-Kenbunroku",
     "title": "Samurai Ragazzi - Sengoku Shounen Seihou Kenbunroku"
   },
@@ -4232,10 +4336,6 @@
     "title": "Fuku o Kiru Nara Konna Fuu ni"
   },
   {
-    "id": "/Manga/Berserk",
-    "title": "Berserk"
-  },
-  {
     "id": "/Manga/Momomoke-Restaurant",
     "title": "Momomoke Restaurant"
   },
@@ -4246,10 +4346,6 @@
   {
     "id": "/Manga/Misoshiru-de-Kanpai",
     "title": "Misoshiru de Kanpai!"
-  },
-  {
-    "id": "/Manga/Honey-MEGURO-Amu",
-    "title": "Honey (MEGURO Amu)"
   },
   {
     "id": "/Manga/Uchi-no-Musume-no-Tame-Naraba-Ore-wa-Moshikashitara-Mao-mo-Taoseru-Kamo-Shirenai-",
@@ -4266,10 +4362,6 @@
   {
     "id": "/Manga/Oniisan-no-Hikkoshi-no-Kataduke-ga-Susumanai",
     "title": "Oniisan no Hikkoshi no Kataduke ga Susumanai"
-  },
-  {
-    "id": "/Manga/Yakumo-san-wa-Edzuke-ga-Shitai",
-    "title": "Yakumo-san wa Edzuke ga Shitai."
   },
   {
     "id": "/Manga/Dungeon-Seeker",
@@ -4334,10 +4426,6 @@
   {
     "id": "/Manga/Revolt",
     "title": "Revolt"
-  },
-  {
-    "id": "/Manga/Yumekui-Merry",
-    "title": "Yumekui Merry"
   },
   {
     "id": "/Manga/Yu-Gi-Oh-R",
@@ -4472,10 +4560,6 @@
     "title": "Citrus (SABURO Uta)"
   },
   {
-    "id": "/Manga/Ousamatachi-no-Viking",
-    "title": "Ousamatachi no Viking"
-  },
-  {
     "id": "/Manga/Ashitaba-san-Chi-no-Muko-Kurashi",
     "title": "Ashitaba-san Chi no Muko Kurashi"
   },
@@ -4504,20 +4588,12 @@
     "title": "One Piece - Digital Colored Comics"
   },
   {
-    "id": "/Manga/Kenja-no-Deshi-wo-Nanoru-Kenja",
-    "title": "Kenja no Deshi wo Nanoru Kenja"
-  },
-  {
     "id": "/Manga/Hinomoto-san-Chi-no-3-shimai",
     "title": "Hinomoto-san Chi no 3-shimai"
   },
   {
     "id": "/Manga/Hyouryuu-Net-Cafe",
     "title": "Hyouryuu Net Cafe"
-  },
-  {
-    "id": "/Manga/Dragon-Quest-4-Koma-Manga-Theater",
-    "title": "Dragon Quest 4-Koma Manga Theater"
   },
   {
     "id": "/Manga/Ame-Nochi-Hare",
@@ -4586,10 +4662,6 @@
   {
     "id": "/Manga/Akagi",
     "title": "Akagi"
-  },
-  {
-    "id": "/Manga/Dimension-W",
-    "title": "Dimension W"
   },
   {
     "id": "/Manga/Ougon-no-Ringo",
@@ -4836,10 +4908,6 @@
     "title": "1P Comic Dragon Quest Monsters: Terry no Wonderland"
   },
   {
-    "id": "/Manga/Mujaki-no-Rakuen-Parallel",
-    "title": "Mujaki no Rakuen Parallel"
-  },
-  {
     "id": "/Manga/Chou-Kasoku-Ningen-Leo",
     "title": "Chou Kasoku Ningen Leo"
   },
@@ -4928,6 +4996,10 @@
     "title": "Kalyx"
   },
   {
+    "id": "/Manga/Kalyx",
+    "title": "Kalyx"
+  },
+  {
     "id": "/Manga/Koi-to-Uso",
     "title": "Koi to Uso"
   },
@@ -4946,10 +5018,6 @@
   {
     "id": "/Manga/Shingeki-no-Kyojin-Lost-Girls",
     "title": "Shingeki no Kyojin - Lost Girls"
-  },
-  {
-    "id": "/Manga/Musashi-MOTOMIYA-Hiroshi",
-    "title": "Musashi (MOTOMIYA Hiroshi)"
   },
   {
     "id": "/Manga/Wombs",
@@ -5276,10 +5344,6 @@
     "title": "Ayakashiko"
   },
   {
-    "id": "/Manga/Naze-da-Naitou",
-    "title": "Naze da Naitou"
-  },
-  {
     "id": "/Manga/Bokura-wa-Minna-Kawaisou",
     "title": "Bokura wa Minna Kawaisou"
   },
@@ -5386,10 +5450,6 @@
   {
     "id": "/Manga/Girl-s-World",
     "title": "Girl's World"
-  },
-  {
-    "id": "/Manga/Kumika-no-Mikaku",
-    "title": "Kumika no Mikaku"
   },
   {
     "id": "/Manga/Oresama-Teacher",
@@ -5920,10 +5980,6 @@
     "title": "Amanogawa Ke No Yon Shimai"
   },
   {
-    "id": "/Manga/Trinity-Seven-7-Nin-no-Mahoutsukai",
-    "title": "Trinity Seven: 7-Nin no Mahoutsukai"
-  },
-  {
     "id": "/Manga/Taisho-Wotome-Otogibanashi",
     "title": "Taisho Wotome Otogibanashi"
   },
@@ -5974,26 +6030,6 @@
   {
     "id": "/Manga/Dorohedoro",
     "title": "Dorohedoro"
-  },
-  {
-    "id": "/Manga/Origin",
-    "title": "Origin"
-  },
-  {
-    "id": "/Manga/Sayounara-Ryuusei-Konnichiwa-Jinsei",
-    "title": "Sayounara Ryuusei, Konnichiwa Jinsei"
-  },
-  {
-    "id": "/Manga/Making-AV-A-Sneak-Peek",
-    "title": "Making AV: A Sneak Peek"
-  },
-  {
-    "id": "/Manga/Revival-Man",
-    "title": "Revival Man"
-  },
-  {
-    "id": "/Manga/Tenseishichatta-yo-Iya-Gomen",
-    "title": "Tenseishichatta yo (Iya, Gomen)"
   },
   {
     "id": "/Manga/Origin",
@@ -6388,6 +6424,26 @@
     "title": "Kuzu to Megane to Bungakushojo (Nise)"
   },
   {
+    "id": "/Manga/The-White-Cat-That-Swore-Vengeance-Was-Just-Lazing-on-the-Dragon-King%E2%80%99s-Lap",
+    "title": "The White Cat That Swore Vengeance Was Just Lazing on the Dragon King’s Lap"
+  },
+  {
+    "id": "/Manga/Kindaichi-Shounen-no-Jikenbo-R",
+    "title": "Kindaichi Shounen no Jikenbo R"
+  },
+  {
+    "id": "/Manga/World-Teacher-Isekaishiki-Kyouiku-Agent",
+    "title": "World Teacher - Isekaishiki Kyouiku Agent"
+  },
+  {
+    "id": "/Manga/Spring-Snow-Pugum",
+    "title": "Spring Snow (Pugum)"
+  },
+  {
+    "id": "/Manga/Isekai-ni-Kita-Mitai-dakedo-Ikanisureba-Yoi-no-Darou",
+    "title": "Isekai ni Kita Mitai dakedo Ikanisureba Yoi no Darou"
+  },
+  {
     "id": "/Manga/Kochou-no-Yumeji",
     "title": "Kochou no Yumeji"
   },
@@ -6466,10 +6522,6 @@
   {
     "id": "/Manga/Share-Kiss-Love-Danshi-San-nin-Joshi-Ohitorisama",
     "title": "Share Kiss Love - Danshi San-nin, Joshi Ohitorisama"
-  },
-  {
-    "id": "/Manga/Omoi-Omoware-Furi-Furare",
-    "title": "Omoi, Omoware, Furi, Furare"
   },
   {
     "id": "/Manga/Pure-Mari",
@@ -6566,26 +6618,6 @@
   {
     "id": "/Manga/Draw-Majo-no-Nemuru-Umi-de",
     "title": "Draw - Majo no Nemuru Umi de"
-  },
-  {
-    "id": "/Manga/Jikkyou-Izumi-kun-no-Koi-Moyou",
-    "title": "Jikkyou!! Izumi-kun no Koi Moyou"
-  },
-  {
-    "id": "/Manga/Hime-no-Tame-nara-Shineru",
-    "title": "Hime no Tame nara Shineru"
-  },
-  {
-    "id": "/Manga/Draw",
-    "title": "Draw"
-  },
-  {
-    "id": "/Manga/QQ-Sweeper",
-    "title": "QQ Sweeper"
-  },
-  {
-    "id": "/Manga/A-Mimic-s-Dream",
-    "title": "A Mimic's Dream"
   },
   {
     "id": "/Manga/Jikkyou-Izumi-kun-no-Koi-Moyou",
@@ -7736,20 +7768,12 @@
     "title": "Modern Life Of Immortal Demons"
   },
   {
-    "id": "/Manga/Chuan-Yue-Xi-Yuan-3000-Hou",
-    "title": "Chuan Yue Xi Yuan 3000 Hou"
-  },
-  {
     "id": "/Manga/Zettai-Karen-Children",
     "title": "Zettai Karen Children"
   },
   {
     "id": "/Manga/Gunryoku-no-Shigure",
     "title": "Gunryoku no Shigure"
-  },
-  {
-    "id": "/Manga/San-Yan-Xiao-Tian-Lu",
-    "title": "San Yan Xiao Tian Lu"
   },
   {
     "id": "/Manga/Mob-Psycho-100",
@@ -8440,10 +8464,6 @@
     "title": "Qishi Huanxiang Ye"
   },
   {
-    "id": "/Manga/A-Bitch-and-a-Punk",
-    "title": "A Bitch and a Punk"
-  },
-  {
     "id": "/Manga/Trump-LEE-Chae-Eun",
     "title": "Trump (LEE Chae-Eun)"
   },
@@ -8980,6 +9000,26 @@
     "title": "Sokuhi Shigan!"
   },
   {
+    "id": "/Manga/Shoujo-tachi-wa-Kouya-o-Mezasu",
+    "title": "Shoujo-tachi wa Kouya o Mezasu"
+  },
+  {
+    "id": "/Manga/Virtual-Grimm-fairy-tale",
+    "title": "Virtual Grimm fairy tale"
+  },
+  {
+    "id": "/Manga/Kimi-to-Kami-Hikoki-to",
+    "title": "Kimi to Kami Hikoki to."
+  },
+  {
+    "id": "/Manga/Persona-5-comic-a-la-carte",
+    "title": "Persona 5 comic a la carte"
+  },
+  {
+    "id": "/Manga/Saint-Seiya-Episode-G-Assassin",
+    "title": "Saint Seiya Episode G. - Assassin"
+  },
+  {
     "id": "/Manga/Sextealer",
     "title": "Sextealer"
   },
@@ -9158,26 +9198,6 @@
   {
     "id": "/Manga/Pastel-Kazoku",
     "title": "Pastel Kazoku"
-  },
-  {
-    "id": "/Manga/Bakuon-Rettou",
-    "title": "Bakuon Rettou"
-  },
-  {
-    "id": "/Manga/Koufuku-Graffiti",
-    "title": "Koufuku Graffiti"
-  },
-  {
-    "id": "/Manga/Namiuchigiwa-no-Muromi-san",
-    "title": "Namiuchigiwa no Muromi-san"
-  },
-  {
-    "id": "/Manga/Super-Danganronpa-2-Nanami-Chiaki-no-Sayonara-Zetsubou-Daibouken",
-    "title": "Super Danganronpa 2 - Nanami Chiaki no Sayonara Zetsubou Daibouken"
-  },
-  {
-    "id": "/Manga/Hoshi-ni-Negai-o-Futatabi",
-    "title": "Hoshi ni Negai o Futatabi"
   },
   {
     "id": "/Manga/Bakuon-Rettou",
@@ -9780,6 +9800,26 @@
     "title": "Gakkou Kaidan"
   },
   {
+    "id": "/Manga/Love-Rush",
+    "title": "Love Rush!"
+  },
+  {
+    "id": "/Manga/24-Jikan-Eigyouchuu",
+    "title": "24 Jikan Eigyouchuu"
+  },
+  {
+    "id": "/Manga/Okitenemuru",
+    "title": "Okitenemuru"
+  },
+  {
+    "id": "/Manga/Joshi-Shougakusei-Hajimemashita",
+    "title": "Joshi Shougakusei Hajimemashita"
+  },
+  {
+    "id": "/Manga/Hero-Gyakkyou-no-Tohai",
+    "title": "Hero - Gyakkyou no Tohai"
+  },
+  {
     "id": "/Manga/Car-Graffiti-JK",
     "title": "Car Graffiti JK"
   },
@@ -9958,26 +9998,6 @@
   {
     "id": "/Manga/Write-Sisters",
     "title": "Write Sisters"
-  },
-  {
-    "id": "/Manga/Shen-Yi-Di-Nu",
-    "title": "Shen Yi Di Nu"
-  },
-  {
-    "id": "/Manga/Dokushi",
-    "title": "Dokushi"
-  },
-  {
-    "id": "/Manga/Mowang-Yu-Yongzhe-Yu-Sheng-Jian-Shendian",
-    "title": "Mowang Yu Yongzhe Yu Sheng Jian Shendian"
-  },
-  {
-    "id": "/Manga/Mister-Ajikko",
-    "title": "Mister Ajikko"
-  },
-  {
-    "id": "/Manga/Musuko-no-Yome",
-    "title": "Musuko no Yome"
   },
   {
     "id": "/Manga/Shen-Yi-Di-Nu",
@@ -11768,6 +11788,26 @@
     "title": "Blue Sky Complex"
   },
   {
+    "id": "/Manga/Kyou-kara-Ma-no-Tsuku-Jiyuugyou",
+    "title": "Kyou kara Ma no Tsuku Jiyuugyou!"
+  },
+  {
+    "id": "/Manga/Otome-no-Teikoku",
+    "title": "Otome no Teikoku"
+  },
+  {
+    "id": "/Manga/Register-9-is-Open",
+    "title": "Register 9 is Open!"
+  },
+  {
+    "id": "/Manga/Ken-mo-Hororo",
+    "title": "Ken mo Hororo"
+  },
+  {
+    "id": "/Manga/Persona-4-The-Magician",
+    "title": "Persona 4 - The Magician"
+  },
+  {
     "id": "/Manga/Persona-4-Comic-Anthology",
     "title": "Persona 4 Comic Anthology"
   },
@@ -11838,10 +11878,6 @@
   {
     "id": "/Manga/The-Mirror-s-Stranger",
     "title": "The Mirror's Stranger"
-  },
-  {
-    "id": "/Manga/Sarashina-Subaru-kun-no-Meirei-wa-Zettai",
-    "title": "Sarashina Subaru-kun no Meirei wa Zettai! !"
   },
   {
     "id": "/Manga/Twinkling-Stars",
@@ -11946,26 +11982,6 @@
   {
     "id": "/Manga/Missing-Rebirth-Alter",
     "title": "Missing Rebirth: Alter"
-  },
-  {
-    "id": "/Manga/Magic-Kaito",
-    "title": "Magic Kaito"
-  },
-  {
-    "id": "/Manga/Space-Time-Prisoner",
-    "title": "Space-Time Prisoner"
-  },
-  {
-    "id": "/Manga/Jinrou-e-no-Tensei-Maou-no-Fukukan",
-    "title": "Jinrou e no Tensei, Maou no Fukukan"
-  },
-  {
-    "id": "/Manga/Shuukan-Shounen-Girl",
-    "title": "Shuukan Shounen Girl"
-  },
-  {
-    "id": "/Manga/Love-Love-Love",
-    "title": "Love! Love! Love!"
   },
   {
     "id": "/Manga/Magic-Kaito",
@@ -15548,6 +15564,26 @@
     "title": "Mr.Train"
   },
   {
+    "id": "/Manga/Kare-to-Kanojo-no-Chiguhagu",
+    "title": "Kare to Kanojo no Chiguhagu"
+  },
+  {
+    "id": "/Manga/F-Anos-Fallen-Angel-of-New-Order-Sin",
+    "title": "F-Anos (Fallen-Angel of New Order Sin)"
+  },
+  {
+    "id": "/Manga/5-JI-KARA-9-JI-MADE",
+    "title": "5-JI KARA 9-JI MADE"
+  },
+  {
+    "id": "/Manga/Ogeha",
+    "title": "Ogeha"
+  },
+  {
+    "id": "/Manga/Fushigi-na-Shounen",
+    "title": "Fushigi na Shounen"
+  },
+  {
     "id": "/Manga/Unmei-no-Tori",
     "title": "Unmei no Tori"
   },
@@ -17526,26 +17562,6 @@
   {
     "id": "/Manga/Radiant",
     "title": "Radiant"
-  },
-  {
-    "id": "/Manga/Hikari-no-Umi",
-    "title": "Hikari no Umi"
-  },
-  {
-    "id": "/Manga/Spica",
-    "title": "Spica"
-  },
-  {
-    "id": "/Manga/Video-Girl-AI",
-    "title": "Video Girl AI"
-  },
-  {
-    "id": "/Manga/Nikoniko-x-Punpun",
-    "title": "Nikoniko x Punpun"
-  },
-  {
-    "id": "/Manga/W-Juliet",
-    "title": "W Juliet"
   },
   {
     "id": "/Manga/Hikari-no-Umi",
@@ -19548,6 +19564,26 @@
     "title": "Young Gun"
   },
   {
+    "id": "/Manga/Hero-Killer",
+    "title": "Hero Killer"
+  },
+  {
+    "id": "/Manga/Carbonator",
+    "title": "Carbonator"
+  },
+  {
+    "id": "/Manga/Fork-in-the-Road",
+    "title": "Fork in the Road"
+  },
+  {
+    "id": "/Manga/Shinsotsu-Nanafushigi",
+    "title": "Shinsotsu Nanafushigi"
+  },
+  {
+    "id": "/Manga/Zettai-Fukujuu-Idol",
+    "title": "Zettai Fukujuu Idol"
+  },
+  {
     "id": "/Manga/E-Heibon-Desu-yo",
     "title": "E? Heibon Desu yo??"
   },
@@ -19614,10 +19650,6 @@
   {
     "id": "/Manga/Nobo-san-to-Kanojo",
     "title": "Nobo-san to Kanojo?"
-  },
-  {
-    "id": "/Manga/Arte",
-    "title": "Arte"
   },
   {
     "id": "/Manga/reSudden-Quest",
@@ -19730,22 +19762,6 @@
   {
     "id": "/Manga/Honoo-no-Ninjaman",
     "title": "Honoo no Ninjaman"
-  },
-  {
-    "id": "/Manga/Merry-Bad-End",
-    "title": "Merry Bad End"
-  },
-  {
-    "id": "/Manga/Teru-Teru-x-Shounen",
-    "title": "Teru Teru x Shounen"
-  },
-  {
-    "id": "/Manga/Mozuku-Walking",
-    "title": "Mozuku, Walking!"
-  },
-  {
-    "id": "/Manga/Hydra",
-    "title": "Hydra"
   },
   {
     "id": "/Manga/Merry-Bad-End",
@@ -20548,6 +20564,22 @@
     "title": "Aa!! Bishamon Koukou"
   },
   {
+    "id": "/Manga/Devilman-G",
+    "title": "Devilman G"
+  },
+  {
+    "id": "/Manga/Juusanyasou-Kidan",
+    "title": "Juusanyasou Kidan"
+  },
+  {
+    "id": "/Manga/Kimi-to-Nadekko",
+    "title": "Kimi to Nadekko"
+  },
+  {
+    "id": "/Manga/Shidenkai-no-Maki",
+    "title": "Shidenkai no Maki"
+  },
+  {
     "id": "/Manga/Goodbye-Everybody",
     "title": "Goodbye, Everybody"
   },
@@ -20726,18 +20758,6 @@
   {
     "id": "/Manga/Sakura-no-Himegoto",
     "title": "Sakura no Himegoto"
-  },
-  {
-    "id": "/Manga/Orurerian-no-Kishi-Hime",
-    "title": "Orurerian no Kishi-Hime"
-  },
-  {
-    "id": "/Manga/A-Simple-Thinking-About-Blood-Type",
-    "title": "A Simple Thinking About Blood Type"
-  },
-  {
-    "id": "/Manga/Tenkamusou-Edajima-Hirayatsuden",
-    "title": "Tenkamusou Edajima Hirayatsuden"
   },
   {
     "id": "/Manga/Orurerian-no-Kishi-Hime",
@@ -22742,10 +22762,6 @@
   {
     "id": "/Manga/I-m-At-End-of-Your-Sight",
     "title": "I'm At End of Your Sight"
-  },
-  {
-    "id": "/Manga/Kouishou-Rajio",
-    "title": "Kouishou Rajio"
   },
   {
     "id": "/Manga/Sekai-de-Ichiban-Tadashii-Kyuuketsuki-no-Kaikata",
@@ -25312,6 +25328,22 @@
     "title": "Zetsubou Baby"
   },
   {
+    "id": "/Manga/Remote",
+    "title": "Remote"
+  },
+  {
+    "id": "/Manga/GUNNM",
+    "title": "GUNNM"
+  },
+  {
+    "id": "/Manga/Tokidamari-no-Hime",
+    "title": "Tokidamari no Hime"
+  },
+  {
+    "id": "/Manga/HEN",
+    "title": "HEN"
+  },
+  {
     "id": "/Manga/Rising-x-Rydeen",
     "title": "Rising x Rydeen"
   },
@@ -25690,22 +25722,6 @@
   {
     "id": "/Manga/Pyuu-to-Fuku-Jaguar",
     "title": "Pyuu to Fuku! Jaguar"
-  },
-  {
-    "id": "/Manga/Onna-na-no-de-Shouganai",
-    "title": "Onna na no de Shouganai"
-  },
-  {
-    "id": "/Manga/Youkai-Watch",
-    "title": "Youkai Watch"
-  },
-  {
-    "id": "/Manga/Mousouka-Koi-o-Suru",
-    "title": "Mousouka, Koi o Suru."
-  },
-  {
-    "id": "/Manga/4-Goushitsu-no-Atelier",
-    "title": "4 Goushitsu no Atelier"
   },
   {
     "id": "/Manga/Onna-na-no-de-Shouganai",
@@ -31212,6 +31228,18 @@
     "title": "Soul Gadget Radiant"
   },
   {
+    "id": "/Manga/Yubi-to-Kuchibiru-to-Hitomi-no-Ijiwaru",
+    "title": "Yubi to Kuchibiru to Hitomi no Ijiwaru"
+  },
+  {
+    "id": "/Manga/Yuuwaku-no-Bansan",
+    "title": "Yuuwaku no Bansan"
+  },
+  {
+    "id": "/Manga/Gigantomakhia",
+    "title": "Gigantomakhia"
+  },
+  {
     "id": "/Manga/Shirley",
     "title": "Shirley"
   },
@@ -31398,18 +31426,6 @@
   {
     "id": "/Manga/Visukiisu-no-Akai-Ningyou",
     "title": "Visukiisu no Akai Ningyou"
-  },
-  {
-    "id": "/Manga/Mao-no-Kyoushitsu",
-    "title": "Mao no Kyoushitsu"
-  },
-  {
-    "id": "/Manga/Houkago-Wind-Orchestra",
-    "title": "Houkago Wind Orchestra"
-  },
-  {
-    "id": "/Manga/Sachiare",
-    "title": "Sachiare!"
   },
   {
     "id": "/Manga/Mao-no-Kyoushitsu",
@@ -39284,6 +39300,22 @@
     "title": "Sword Art Online"
   },
   {
+    "id": "/Manga/Yasashii-Akuma",
+    "title": "Yasashii Akuma"
+  },
+  {
+    "id": "/Manga/Shin-Angyo-Onshi",
+    "title": "Shin Angyo Onshi"
+  },
+  {
+    "id": "/Manga/A-Doll-and-His-Master",
+    "title": "A Doll and His Master"
+  },
+  {
+    "id": "/Manga/Dream-Vendor",
+    "title": "Dream Vendor"
+  },
+  {
     "id": "/Manga/Mazinger-Angel",
     "title": "Mazinger Angel"
   },
@@ -39454,22 +39486,6 @@
   {
     "id": "/Manga/Girls-Sanctuary",
     "title": "Girls Sanctuary"
-  },
-  {
-    "id": "/Manga/The-Night-of-the-School-Trip",
-    "title": "The Night of the School Trip"
-  },
-  {
-    "id": "/Manga/Midnight-Children",
-    "title": "Midnight Children"
-  },
-  {
-    "id": "/Manga/Absorb-Ability",
-    "title": "Absorb: Ability"
-  },
-  {
-    "id": "/Manga/Makai-Ishi-Mephisto",
-    "title": "Makai Ishi Mephisto"
   },
   {
     "id": "/Manga/The-Night-of-the-School-Trip",
@@ -40244,6 +40260,22 @@
     "title": "Ten Kara no Okurimono"
   },
   {
+    "id": "/Manga/Hana-no-Keiji",
+    "title": "Hana no Keiji"
+  },
+  {
+    "id": "/Manga/Ruri-no-Kaze-ni-Hana-wa-Nagareru",
+    "title": "Ruri no Kaze ni Hana wa Nagareru"
+  },
+  {
+    "id": "/Manga/Yuru-Koi",
+    "title": "Yuru Koi"
+  },
+  {
+    "id": "/Manga/Murim-Investigation-Team",
+    "title": "Murim Investigation Team"
+  },
+  {
     "id": "/Manga/Yoru-wo-Utau-Kodomotachi",
     "title": "Yoru wo Utau Kodomotachi"
   },
@@ -40440,10 +40472,6 @@
     "title": "Ikenie no Koiwazurai"
   },
   {
-    "id": "/Manga/Ikenie-no-Koiwazurai",
-    "title": "Ikenie no Koiwazurai"
-  },
-  {
     "id": "/Manga/Hana-to-Himegimi-to-Akuma-no-Vivian",
     "title": "Hana to Himegimi to Akuma no Vivian"
   },
@@ -40618,14 +40646,6 @@
   {
     "id": "/Manga/S-P-Y",
     "title": "S.P.Y"
-  },
-  {
-    "id": "/Manga/Sensual-Trigger",
-    "title": "Sensual Trigger"
-  },
-  {
-    "id": "/Manga/Yama-Fu-Tang",
-    "title": "Yama Fu-Tang"
   },
   {
     "id": "/Manga/Sensual-Trigger",
@@ -41312,6 +41332,22 @@
     "title": "Shiba Inu"
   },
   {
+    "id": "/Manga/Shook-Up",
+    "title": "Shook Up!"
+  },
+  {
+    "id": "/Manga/The-Three-Times",
+    "title": "The Three Times"
+  },
+  {
+    "id": "/Manga/Greed-Packet-Unlimited",
+    "title": "Greed Packet Unlimited"
+  },
+  {
+    "id": "/Manga/Cinema-no-Teikoku",
+    "title": "Cinema no Teikoku"
+  },
+  {
     "id": "/Manga/Chigireta-Heart",
     "title": "Chigireta Heart"
   },
@@ -41850,22 +41886,6 @@
   {
     "id": "/Manga/Himitsu-no-Hanazono-FUJII-Mihona",
     "title": "Himitsu no Hanazono (FUJII Mihona)"
-  },
-  {
-    "id": "/Manga/Adam-no-Junjou",
-    "title": "Adam no Junjou"
-  },
-  {
-    "id": "/Manga/Neko-de-Gomen",
-    "title": "Neko de Gomen!"
-  },
-  {
-    "id": "/Manga/Junsui-Adolescence",
-    "title": "Junsui Adolescence"
-  },
-  {
-    "id": "/Manga/Shiroi-Natsu",
-    "title": "Shiroi Natsu"
   },
   {
     "id": "/Manga/Adam-no-Junjou",
@@ -42776,6 +42796,22 @@
     "title": "Ever Share Color"
   },
   {
+    "id": "/Manga/Tena-on-S-String",
+    "title": "Tena on S-String"
+  },
+  {
+    "id": "/Manga/Photon",
+    "title": "Photon"
+  },
+  {
+    "id": "/Manga/Persona-Tsumi-to-Bachi",
+    "title": "Persona: Tsumi to Bachi"
+  },
+  {
+    "id": "/Manga/Healing-Elegy",
+    "title": "Healing Elegy"
+  },
+  {
     "id": "/Manga/Love-Cotton",
     "title": "Love Cotton"
   },
@@ -42942,22 +42978,6 @@
   {
     "id": "/Manga/The-Tea-Garden",
     "title": "The Tea Garden"
-  },
-  {
-    "id": "/Manga/Ai-wo-Chodai",
-    "title": "Ai wo Chodai!"
-  },
-  {
-    "id": "/Manga/Perfect-World-NAKAMURA-Asumiko",
-    "title": "Perfect World (NAKAMURA Asumiko)"
-  },
-  {
-    "id": "/Manga/Marugoto-Anju-Gakuen",
-    "title": "Marugoto Anju Gakuen"
-  },
-  {
-    "id": "/Manga/B&W",
-    "title": "B&W"
   },
   {
     "id": "/Manga/Ai-wo-Chodai",
@@ -44088,6 +44108,22 @@
     "title": "Tsuburara"
   },
   {
+    "id": "/Manga/My-Sweet-Heart",
+    "title": "My Sweet Heart"
+  },
+  {
+    "id": "/Manga/Mousou-Otoko",
+    "title": "Mousou Otoko"
+  },
+  {
+    "id": "/Manga/Gift-Shop",
+    "title": "Gift Shop"
+  },
+  {
+    "id": "/Manga/Yoru-no-Tenohira",
+    "title": "Yoru no Tenohira"
+  },
+  {
     "id": "/Manga/Seto-no-Omise-no-Okyakusama",
     "title": "Seto no Omise no Okyakusama"
   },
@@ -44270,22 +44306,6 @@
   {
     "id": "/Manga/Flower-Flower",
     "title": "Flower Flower"
-  },
-  {
-    "id": "/Manga/Gakkou-no-Ojikan",
-    "title": "Gakkou no Ojikan"
-  },
-  {
-    "id": "/Manga/Haiiro-no-Cinderella",
-    "title": "Haiiro no Cinderella"
-  },
-  {
-    "id": "/Manga/Goshujinsama-to-Atashi",
-    "title": "Goshujinsama to Atashi"
-  },
-  {
-    "id": "/Manga/Melodramatic-Library",
-    "title": "Melodramatic Library"
   },
   {
     "id": "/Manga/Gakkou-no-Ojikan",
@@ -46192,6 +46212,22 @@
     "title": "Urooboe Uroboros!"
   },
   {
+    "id": "/Manga/Yume-no-Atosaki",
+    "title": "Yume no Atosaki"
+  },
+  {
+    "id": "/Manga/Andalusia-no-Yuuwaku",
+    "title": "Andalusia no Yuuwaku"
+  },
+  {
+    "id": "/Manga/Kakuu-no-Koibito",
+    "title": "Kakuu no Koibito"
+  },
+  {
+    "id": "/Manga/Kerberos-Panzer-Cop",
+    "title": "Kerberos Panzer Cop"
+  },
+  {
     "id": "/Manga/Sangatsu-no-Yume",
     "title": "Sangatsu no Yume"
   },
@@ -46370,22 +46406,6 @@
   {
     "id": "/Manga/Non-chan-to-Watashi",
     "title": "Non-chan to Watashi"
-  },
-  {
-    "id": "/Manga/Holy-Talker",
-    "title": "Holy Talker"
-  },
-  {
-    "id": "/Manga/Genius-House",
-    "title": "Genius House"
-  },
-  {
-    "id": "/Manga/Endo-Hiroki-Tanpenshuu",
-    "title": "Endo Hiroki Tanpenshuu"
-  },
-  {
-    "id": "/Manga/Hyakkiyakou-Juliet",
-    "title": "Hyakkiyakou Juliet"
   },
   {
     "id": "/Manga/Holy-Talker",
@@ -49188,6 +49208,22 @@
     "title": "Paradistar"
   },
   {
+    "id": "/Manga/Onegai-Teacher",
+    "title": "Onegai Teacher"
+  },
+  {
+    "id": "/Manga/Onegai-Twins",
+    "title": "Onegai Twins"
+  },
+  {
+    "id": "/Manga/Obrigado",
+    "title": "Obrigado!"
+  },
+  {
+    "id": "/Manga/Onmyou-Taisenki",
+    "title": "Onmyou Taisenki"
+  },
+  {
     "id": "/Manga/Haru-yo-Koi",
     "title": "Haru yo Koi"
   },
@@ -49370,22 +49406,6 @@
   {
     "id": "/Manga/Leviathan",
     "title": "Leviathan"
-  },
-  {
-    "id": "/Manga/M-C-Law",
-    "title": "M.C. Law"
-  },
-  {
-    "id": "/Manga/Magic-Boots",
-    "title": "Magic Boots"
-  },
-  {
-    "id": "/Manga/Love-Comedy-Style",
-    "title": "Love Comedy Style"
-  },
-  {
-    "id": "/Manga/Maburaho",
-    "title": "Maburaho"
   },
   {
     "id": "/Manga/M-C-Law",
@@ -49588,6 +49608,22 @@
     "title": "Hachimitsu Darling"
   },
   {
+    "id": "/Manga/Hajimari-no-Kotoba",
+    "title": "Hajimari no Kotoba"
+  },
+  {
+    "id": "/Manga/G-School",
+    "title": "G School"
+  },
+  {
+    "id": "/Manga/Gal-Kadou",
+    "title": "Gal Kadou"
+  },
+  {
+    "id": "/Manga/Gareki-no-Shou",
+    "title": "Gareki no Shou"
+  },
+  {
     "id": "/Manga/Fire-Emblem-Hasha-no-Tsuguri",
     "title": "Fire Emblem Hasha no Tsuguri"
   },
@@ -49770,22 +49806,6 @@
   {
     "id": "/Manga/Safe-Again-Today",
     "title": "Safe Again Today"
-  },
-  {
-    "id": "/Manga/Funny-Money",
-    "title": "Funny Money"
-  },
-  {
-    "id": "/Manga/Another-Kingdom",
-    "title": "Another Kingdom"
-  },
-  {
-    "id": "/Manga/Eden-It-s-an-Endless-World",
-    "title": "Eden: It's an Endless World!"
-  },
-  {
-    "id": "/Manga/Shiki",
-    "title": "Shiki"
   },
   {
     "id": "/Manga/Funny-Money",
