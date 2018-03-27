@@ -73,6 +73,11 @@ function saveMangaListWeb( mangaListWeb ) {
             title: manga.t
         };
     } );
+    let mangaListDB = require( './cdn/mangas.json' );
+    mangas = mangas.filter( ( mangaWeb ) => {
+        return ( !mangaListDB.find( mangaDB => mangaDB.id === mangaWeb.id ) );
+    } );
+    mangas = mangaListDB.concat( mangas );
     saveFileJSON( `./cdn/mangas.json`, JSON.stringify( mangas, null, 2 ) );
 }
 
