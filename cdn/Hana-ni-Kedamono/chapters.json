@@ -1,5 +1,13 @@
 [
   {
+    "id": "412230",
+    "title": "011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
     "id": "191994",
     "title": "Vol.002 Ch.009",
     "language": "en",
@@ -16,14 +24,6 @@
     "number": "008"
   },
   {
-    "id": "325111",
-    "title": "Vol.002 Ch.008",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "008"
-  },
-  {
     "id": "171811",
     "title": "007",
     "language": "en",
@@ -32,27 +32,11 @@
     "number": "007"
   },
   {
-    "id": "325110",
-    "title": "Vol.002 Ch.007",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "007"
-  },
-  {
     "id": "165903",
     "title": "006",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "006"
-  },
-  {
-    "id": "325109",
-    "title": "Vol.002 Ch.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
     "number": "006"
   },
   {
