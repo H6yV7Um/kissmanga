@@ -1,0 +1,914 @@
+[
+  {
+    "id": "239191",
+    "title": "Vol.028 Ch.110: Shadow of Destroying Phoenix",
+    "language": "en",
+    "scanlator": "",
+    "volume": "028",
+    "number": "110"
+  },
+  {
+    "id": "228185",
+    "title": "Vol.028 Ch.109: Country of Xiongnu",
+    "language": "en",
+    "scanlator": "",
+    "volume": "028",
+    "number": "109"
+  },
+  {
+    "id": "210080",
+    "title": "Vol.027 Ch.108: Qualifications of A Supreme Ruler",
+    "language": "en",
+    "scanlator": "",
+    "volume": "027",
+    "number": "108"
+  },
+  {
+    "id": "210079",
+    "title": "Vol.027 Ch.107: Spirit of Lovingkindness",
+    "language": "en",
+    "scanlator": "",
+    "volume": "027",
+    "number": "107"
+  },
+  {
+    "id": "207650",
+    "title": "Vol.027 Ch.106: Unrelenting Will",
+    "language": "en",
+    "scanlator": "",
+    "volume": "027",
+    "number": "106"
+  },
+  {
+    "id": "204982",
+    "title": "Vol.027 Ch.105: A Challenge to The God",
+    "language": "en",
+    "scanlator": "",
+    "volume": "027",
+    "number": "105"
+  },
+  {
+    "id": "204196",
+    "title": "Vol.026 Ch.104: Wild Existence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "026",
+    "number": "104"
+  },
+  {
+    "id": "136990",
+    "title": "Vol.026 Ch.103: The Xiongnu Legend",
+    "language": "en",
+    "scanlator": "",
+    "volume": "026",
+    "number": "103"
+  },
+  {
+    "id": "133495",
+    "title": "Vol.026 Ch.102: Withering Destiny",
+    "language": "en",
+    "scanlator": "",
+    "volume": "026",
+    "number": "102"
+  },
+  {
+    "id": "128028",
+    "title": "Vol.026 Ch.101: Treaty with the Xiongnu",
+    "language": "en",
+    "scanlator": "",
+    "volume": "026",
+    "number": "101"
+  },
+  {
+    "id": "127738",
+    "title": "Vol.025 Ch.100: Escaping Ye Cheng",
+    "language": "en",
+    "scanlator": "",
+    "volume": "025",
+    "number": "100"
+  },
+  {
+    "id": "127737",
+    "title": "Vol.025 Ch.099: The Lord Of Darkness",
+    "language": "en",
+    "scanlator": "",
+    "volume": "025",
+    "number": "099"
+  },
+  {
+    "id": "127736",
+    "title": "Vol.025 Ch.098: Determination",
+    "language": "en",
+    "scanlator": "",
+    "volume": "025",
+    "number": "098"
+  },
+  {
+    "id": "127735",
+    "title": "Vol.025 Ch.097: Life Of A Wanderer",
+    "language": "en",
+    "scanlator": "",
+    "volume": "025",
+    "number": "097"
+  },
+  {
+    "id": "127299",
+    "title": "Vol.024 Ch.096: The True Nature Of Dou Xian Shu",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "096"
+  },
+  {
+    "id": "127298",
+    "title": "Vol.024 Ch.095: To Die For The \"Path\"",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "095"
+  },
+  {
+    "id": "127297",
+    "title": "Vol.024 Ch.094: A Chance Encounter",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "094"
+  },
+  {
+    "id": "127296",
+    "title": "Vol.024 Ch.093: Supernatural Existence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "093"
+  },
+  {
+    "id": "127295",
+    "title": "Vol.024 Ch.092: Demon Mountain",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "092"
+  },
+  {
+    "id": "123484",
+    "title": "Vol.023 Ch.091: For a Brighter Tomorrow",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "091"
+  },
+  {
+    "id": "123433",
+    "title": "Vol.023 Ch.090: Determination Of The Dragon Maiden",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "090"
+  },
+  {
+    "id": "121999",
+    "title": "089 Return to Silence",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "120756",
+    "title": "088: Fierce Tiger of Xi Liang",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "118636",
+    "title": "087: The Burning Royal Harem",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "118632",
+    "title": "086: The Awakening Of The Dragon Maiden",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "118627",
+    "title": "085: Where Abouts Of The Dragon Maiden",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "117720",
+    "title": "084 The Cruelty of Beasts",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "116939",
+    "title": "083: The Emperor's Secret",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "115503",
+    "title": "082: Know Thyself, Know Thy Enemy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "114647",
+    "title": "081: The Prime Minister Goes To War",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "114281",
+    "title": "080: After The Banquet",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "114247",
+    "title": "079: A Sorrowful Dance",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "115502",
+    "title": "078: The Grand Banquet",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "103751",
+    "title": "077",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "103750",
+    "title": "076",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "89091",
+    "title": "075",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "89089",
+    "title": "074",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "89088",
+    "title": "073",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "89087",
+    "title": "072",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "89086",
+    "title": "071",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "89085",
+    "title": "070",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "89084",
+    "title": "069",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "89081",
+    "title": "068",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "89080",
+    "title": "067",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "89079",
+    "title": "066",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "89078",
+    "title": "065",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "89077",
+    "title": "064",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "89076",
+    "title": "063",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "89075",
+    "title": "062",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "89074",
+    "title": "061",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "89073",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "89072",
+    "title": "059",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "89068",
+    "title": "058",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "89062",
+    "title": "057",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "89058",
+    "title": "056",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "89053",
+    "title": "055",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "89049",
+    "title": "054",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "89042",
+    "title": "053",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "89036",
+    "title": "052",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "89027",
+    "title": "051",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "89018",
+    "title": "050",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "89011",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "89004",
+    "title": "048",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "88998",
+    "title": "047",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "88993",
+    "title": "046",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "88992",
+    "title": "045",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "88991",
+    "title": "044",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "88990",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "88987",
+    "title": "042",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "88986",
+    "title": "041",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "88984",
+    "title": "040",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "88983",
+    "title": "039",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "88982",
+    "title": "038",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "88981",
+    "title": "037",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "88979",
+    "title": "036",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "88978",
+    "title": "035",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "88977",
+    "title": "034",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "88976",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "88975",
+    "title": "032",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "88974",
+    "title": "031",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "88973",
+    "title": "030",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "88972",
+    "title": "029",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "88971",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "88970",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "88969",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "88968",
+    "title": "025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "88967",
+    "title": "024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "88966",
+    "title": "023.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023.002"
+  },
+  {
+    "id": "88965",
+    "title": "023.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023.001"
+  },
+  {
+    "id": "88964",
+    "title": "022.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022.002"
+  },
+  {
+    "id": "88962",
+    "title": "022.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022.001"
+  },
+  {
+    "id": "88960",
+    "title": "021.003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021.003"
+  },
+  {
+    "id": "88959",
+    "title": "021.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021.002"
+  },
+  {
+    "id": "88957",
+    "title": "021.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021.001"
+  },
+  {
+    "id": "88956",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "88954",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "88951",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "88949",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "88947",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "88945",
+    "title": "015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "88943",
+    "title": "014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "88938",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "88936",
+    "title": "012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "88934",
+    "title": "011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "88932",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "88930",
+    "title": "009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "88928",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "88924",
+    "title": "007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "88916",
+    "title": "006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "88911",
+    "title": "005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "88905",
+    "title": "004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "88902",
+    "title": "003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "88900",
+    "title": "002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "88896",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

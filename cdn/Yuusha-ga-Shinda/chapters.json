@@ -1,0 +1,962 @@
+[
+  {
+    "id": "403900",
+    "title": "Episode 110",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "110"
+  },
+  {
+    "id": "403899",
+    "title": "Episode 109",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "109"
+  },
+  {
+    "id": "403898",
+    "title": "Episode 108",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "108"
+  },
+  {
+    "id": "403295",
+    "title": "Episode 107",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "107"
+  },
+  {
+    "id": "403294",
+    "title": "Episode 106",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "106"
+  },
+  {
+    "id": "386562",
+    "title": "Episode 105",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "105"
+  },
+  {
+    "id": "384957",
+    "title": "Episode 104",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "104"
+  },
+  {
+    "id": "383684",
+    "title": "Episode 103",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "103"
+  },
+  {
+    "id": "383377",
+    "title": "Episode 102",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "102"
+  },
+  {
+    "id": "382965",
+    "title": "Episode 101",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "101"
+  },
+  {
+    "id": "382964",
+    "title": "Episode 100",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "100"
+  },
+  {
+    "id": "382698",
+    "title": "Episode 099.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "099.002"
+  },
+  {
+    "id": "373705",
+    "title": "Episode 099",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "099"
+  },
+  {
+    "id": "373493",
+    "title": "Episode 098",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "098"
+  },
+  {
+    "id": "373492",
+    "title": "Episode 097",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "097"
+  },
+  {
+    "id": "370727",
+    "title": "Episode 096",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "096"
+  },
+  {
+    "id": "370726",
+    "title": "Episode 095",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "095"
+  },
+  {
+    "id": "370725",
+    "title": "Episode 094",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "094"
+  },
+  {
+    "id": "370724",
+    "title": "Episode 093",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "093"
+  },
+  {
+    "id": "370723",
+    "title": "Episode 092",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "370690",
+    "title": "Episode 091",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "365535",
+    "title": "Episode 090",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "364320",
+    "title": "Episode 089",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "364319",
+    "title": "Episode 088.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088.002"
+  },
+  {
+    "id": "363291",
+    "title": "Episode 088",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "359868",
+    "title": "Episode 087",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "359015",
+    "title": "Episode 086",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "359014",
+    "title": "Episode 085",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "348049",
+    "title": "Episode 084",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "347810",
+    "title": "Episode 083",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "347808",
+    "title": "Episode 082",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "347823",
+    "title": "Episode 081",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "347806",
+    "title": "Episode 080",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "343538",
+    "title": "080: Resurrecting the Dead",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "336567",
+    "title": "079.002: High Ranked Magic ②",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079.002"
+  },
+  {
+    "id": "336331",
+    "title": "079: High Ranked Magic",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "336337",
+    "title": "078: Teleportation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "336336",
+    "title": "077: Devil Goblin",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "336330",
+    "title": "076: Witch",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "330226",
+    "title": "075: Battle with the Dragon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "330225",
+    "title": "074: Ripley",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "330224",
+    "title": "073: Within The Huge Tree",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "330223",
+    "title": "072: Training Start",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "330222",
+    "title": "071: Disqualified as a Friend",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "325711",
+    "title": "070: Magic Fetus Trees",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "325710",
+    "title": "069: Companions",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "325709",
+    "title": "068: Responsibility",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "325708",
+    "title": "067: The Result of Trying to Conquer Touka-san as the Princess",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "314989",
+    "title": "066: Monsters",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "314988",
+    "title": "065: Sage",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "306000",
+    "title": "064: Youth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "300098",
+    "title": "063: Equal Footing",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "300097",
+    "title": "062: Disappearance",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "276624",
+    "title": "061: Realm Of The Holy Sword",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "276623",
+    "title": "060: Reunion",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "275506",
+    "title": "059: Indigestion",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "274519",
+    "title": "058: Thrill",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "274518",
+    "title": "057: Absorption",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "271857",
+    "title": "056: Fair and Square",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "271856",
+    "title": "055: Giant",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "271852",
+    "title": "054: Promise",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "271851",
+    "title": "053: Queen",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "271850",
+    "title": "052: Infiltration",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "271849",
+    "title": "051: Breaking In",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "266059",
+    "title": "050: To Elbania",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "266058",
+    "title": "049: The Mayor’s Fortune",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "266056",
+    "title": "048: Magic Warriors",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "263692",
+    "title": "047.002: World of Memories Part 004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047.002"
+  },
+  {
+    "id": "262054",
+    "title": "047: World of Memories Part 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "261261",
+    "title": "046: World of Memories Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "259991",
+    "title": "045: World of Memories Part 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "258786",
+    "title": "044: Time Leap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "258784",
+    "title": "043: If It’s Just Like That Time",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "258783",
+    "title": "042: Magic Technician’s Workshop",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "258781",
+    "title": "041: Master",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "258779",
+    "title": "040: Annihilation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "254077",
+    "title": "039: Fog",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "250392",
+    "title": "038: Hunting Game",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "250373",
+    "title": "037: Magic Talent",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "245600",
+    "title": "036: 024 Hours",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "245599",
+    "title": "035.002: Enemy ②",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035.002"
+  },
+  {
+    "id": "244086",
+    "title": "035: Enemy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "244085",
+    "title": "034: Revenge",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "241992",
+    "title": "033: Rooftop Battle",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "240925",
+    "title": "032: Room of Steel",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "240497",
+    "title": "031: Magic Bow",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "240565",
+    "title": "030: Yuna's Body",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "239185",
+    "title": "029",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "237879",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "236531",
+    "title": "027.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027.002"
+  },
+  {
+    "id": "235943",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "235506",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "235264",
+    "title": "025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "234223",
+    "title": "024.006 - Omake 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024.006"
+  },
+  {
+    "id": "232927",
+    "title": "024.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024.005"
+  },
+  {
+    "id": "232926",
+    "title": "024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "232925",
+    "title": "023",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "231775",
+    "title": "022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "231255",
+    "title": "021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "230271",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "229511",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "228358",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "227803",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "226598",
+    "title": "016.005 - Fixed",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016.005"
+  },
+  {
+    "id": "226055",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "225151",
+    "title": "015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "224546",
+    "title": "014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "224008",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "222934",
+    "title": "012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "222281",
+    "title": "011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "222282",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "221859",
+    "title": "009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "220647",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "220289",
+    "title": "007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "220350",
+    "title": "006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "220248",
+    "title": "005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "220246",
+    "title": "004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "220103",
+    "title": "003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "220102",
+    "title": "002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "220101",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

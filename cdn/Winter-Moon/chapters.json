@@ -1,0 +1,954 @@
+[
+  {
+    "id": "401336",
+    "title": "Ep.090 - The Destroyer",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "412114",
+    "title": "Ep. 110 - Potions",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "110"
+  },
+  {
+    "id": "411408",
+    "title": "Ep. 109 - Villains",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "109"
+  },
+  {
+    "id": "410919",
+    "title": "Ep. 108 - Siblings",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "108"
+  },
+  {
+    "id": "410894",
+    "title": "Ep. 107 - Festival",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "107"
+  },
+  {
+    "id": "410294",
+    "title": "Ep. 106 - Dragon Steak",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "106"
+  },
+  {
+    "id": "407967",
+    "title": "Ep. 105 - Guild Master",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "105"
+  },
+  {
+    "id": "407607",
+    "title": "Ep. 104 - Gold or Guys",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "104"
+  },
+  {
+    "id": "407193",
+    "title": "Ep. 103 - Brief Break",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "103"
+  },
+  {
+    "id": "406468",
+    "title": "Ep. 102 - Magnolia Online",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "102"
+  },
+  {
+    "id": "405561",
+    "title": "Ep. 101 - Stress Relief",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "101"
+  },
+  {
+    "id": "404999",
+    "title": "Ep. 100 - Sapphire Shade",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "100"
+  },
+  {
+    "id": "404280",
+    "title": "Ep. 099 - Big Dudes United",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "099"
+  },
+  {
+    "id": "403991",
+    "title": "Ep. 098 - Diederich",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "098"
+  },
+  {
+    "id": "403666",
+    "title": "Ep. 097 - Violet Sanctum",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "097"
+  },
+  {
+    "id": "403144",
+    "title": "Ep. 096 - Why He Hates",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "096"
+  },
+  {
+    "id": "402935",
+    "title": "Ep. 095 - First Win",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "095"
+  },
+  {
+    "id": "402694",
+    "title": "Ep. 094 - First Match",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "094"
+  },
+  {
+    "id": "402378",
+    "title": "Ep. 093 - Basement Brawl",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "093"
+  },
+  {
+    "id": "402042",
+    "title": "Ep. 092 - Take The Gold",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "402037",
+    "title": "Ep. 091 - The Real Risa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "401764",
+    "title": "Ep. 091 - Real Risa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "401760",
+    "title": "Ep. 090 - The Destroyer",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "401080",
+    "title": "Ep. 089 - Ready?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "400350",
+    "title": "Ep. 088 - The Rules",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "400111",
+    "title": "Ep. 087 - Just a Chat",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "399554",
+    "title": "Ep. 086 - Corpse Harvest",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "399067",
+    "title": "Ep. 085 - Registration",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "398625",
+    "title": "Ep. 084 - Team Up",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "398329",
+    "title": "Ep. 083 - The Team",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "397904",
+    "title": "Ep. 082 - Risa and Easen",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "397700",
+    "title": "Ep. 081 - Selfies & Icecream",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "397446",
+    "title": "Ep. 080 - Punch Your Way",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "397132",
+    "title": "Ep. 079 - Horrible Reputations",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "396823",
+    "title": "Ep. 078 - A Plan",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "396444",
+    "title": "Ep. 077 - Six Players",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "395839",
+    "title": "Ep. 076 - The Grand Tournament",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "395688",
+    "title": "Ep. 075 - Kingdoms of Altua",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "395471",
+    "title": "Ep. 074 - Pyromaniac",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "395463",
+    "title": "Ep. 073 - Cocoa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "394036",
+    "title": "Ep. 072 - Yellow Lights",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "393862",
+    "title": "Ep. 071 - Quitting the Guild",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "393602",
+    "title": "Ep. 070 - Real Life",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "393384",
+    "title": "Ep. 069 - Risa Has Logged Out",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "392825",
+    "title": "Ep. 068 - Ministry",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "392507",
+    "title": "Ep. 067 - Online Friends",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "392299",
+    "title": "Ep. 066 - Coconuts",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "391725",
+    "title": "Ep. 065 - Beach Explosion",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "391399",
+    "title": "Ep. 064 - So Not Sorry",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "391221",
+    "title": "Ep. 063 - Bad Timing",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "391065",
+    "title": "Ep. 062 - Some Gay Guy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "390787",
+    "title": "Ep. 061 - Looking for a Friend",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "390640",
+    "title": "Ep. 061 - Lilith",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "390695",
+    "title": "Ep. 060 - Lilith",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "390468",
+    "title": "Ep. 060 - Big Stupid Guy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "390210",
+    "title": "Ep. 059 - Jealousy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "390694",
+    "title": "Ep. 059 - Big Stupid Guy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "390029",
+    "title": "Ep. 058 - Pirates",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "390693",
+    "title": "Ep. 058 - Jealousy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "390692",
+    "title": "Ep. 057 - Pirates",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "389788",
+    "title": "Ep. 057 - Knight in Shining Armor",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "389519",
+    "title": "Ep. 056 - Naiive?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "390691",
+    "title": "Ep. 056 - Knight in Shining Armor",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "390690",
+    "title": "Ep. 055 - Naiive?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "389366",
+    "title": "Ep. 054 - A.I.",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "389130",
+    "title": "Ep. 053 - No Time to Lag",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "388846",
+    "title": "Ep. 052 - Bath House",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "388330",
+    "title": "Ep. 051 - What Do You Think?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "388653",
+    "title": "Ep. 051 - Risa being Risa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "388337",
+    "title": "Ep. 050 - What Do You Think?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "387959",
+    "title": "Ep. 049 - Partying up",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "387735",
+    "title": "Ep. 048 - Shopping for Items",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "387286",
+    "title": "Ep. 047 - Beach Pickup",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "387054",
+    "title": "Ep. 046 - A Thousand Gold",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "386986",
+    "title": "Ep. 045 - The Dragon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "386985",
+    "title": "Ep. 044 - Lagging Healer",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "386984",
+    "title": "Ep. 043 - Buffering",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "386983",
+    "title": "Ep. 042 - Whitehaven",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "386982",
+    "title": "Ep. 041 - Doh!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "386981",
+    "title": "Ep. 040 - ",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "386980",
+    "title": "Ep. 039 - Bob",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "386979",
+    "title": "Ep. 038 - Teamwork",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "386978",
+    "title": "Ep. 037 - Florence vs. Luciase (IV)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "386977",
+    "title": "Ep. 036 - Florence vs. Luciase (III)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "386976",
+    "title": "Ep. 035 - Florence vs. Luciase (II)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "386975",
+    "title": "Ep. 034 - Florence vs. Luciase (I)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "386974",
+    "title": "Ep. 033 - Just a Game",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "386973",
+    "title": "Ep. 032 - Florence Doesn't Give a",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "386972",
+    "title": "Ep. 031 - Where Are You Going",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "386970",
+    "title": "Ep. 030 - Clueless",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "386967",
+    "title": "Ep. 029 - Dictator",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "386966",
+    "title": "Ep. 028 - Damn it, Florence",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "386964",
+    "title": "Ep. 027 - Chuckey",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "386963",
+    "title": "Ep. 026 - Shady Assassin",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "386961",
+    "title": "Ep. 025 - Luciase",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "386960",
+    "title": "Ep. 024 - Saved by the Fire",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "386958",
+    "title": "Ep. 023 - Quest",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "386957",
+    "title": "Ep. 022 - Recon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "386956",
+    "title": "Ep. 021 - Corpse Harvest",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "386954",
+    "title": "Ep. 020 - Opportunity",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "386953",
+    "title": "Ep. 019 - Manly Tears",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "386952",
+    "title": "Ep. 018 - ",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "386951",
+    "title": "Ep. 017 - Round Two",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "386950",
+    "title": "Ep. 016 - Gideon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "386949",
+    "title": "Ep. 015 - Explosion",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "386948",
+    "title": "Ep. 014 - A Guy to Kill",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "386947",
+    "title": "Ep. 013 - The View",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "386946",
+    "title": "Ep. 012 - The Comeback",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "386945",
+    "title": "Ep. 011 - Abu Qanasta",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "387044",
+    "title": "Ep. 010 - Pink",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "386944",
+    "title": "Ep. 009 - Making a Guild",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "386943",
+    "title": "Ep. 008 - Slave Healer",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "386942",
+    "title": "Ep. 007 - Bastian vs. Florence",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "386940",
+    "title": "Ep. 006 - Confrontation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "386939",
+    "title": "Ep. 005 - Bastian",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "386938",
+    "title": "Ep. 004 - Looking 004 Group",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "386937",
+    "title": "Ep. 003 - Burnt",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "386936",
+    "title": "Ep. 002 - Risa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "386935",
+    "title": "Ep. 001 - Florence",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

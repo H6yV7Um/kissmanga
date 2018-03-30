@@ -1,0 +1,738 @@
+[
+  {
+    "id": "226999",
+    "title": "Vol.008 Ch.092: Watch Out Honami Sayaka",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "092"
+  },
+  {
+    "id": "226998",
+    "title": "Vol.008 Ch.091: Front lines of The Open Weight Class",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "091"
+  },
+  {
+    "id": "226997",
+    "title": "Vol.008 Ch.090: The Seoul Olympics Opening Ceremony!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "090"
+  },
+  {
+    "id": "215879",
+    "title": "Vol.008 Ch.089: The Banner of Might",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "089"
+  },
+  {
+    "id": "215508",
+    "title": "Vol.008 Ch.088: Once the Olympics Are Over",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "088"
+  },
+  {
+    "id": "215290",
+    "title": "Vol.008 Ch.087: Training Camp Princess",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "087"
+  },
+  {
+    "id": "211022",
+    "title": "Vol.008 Ch.086: Reunion of the Rivals",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "086"
+  },
+  {
+    "id": "208601",
+    "title": "Vol.008 Ch.085: An Impressive Woman Has finally Arrived!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "085"
+  },
+  {
+    "id": "208599",
+    "title": "Vol.008 Ch.084: The Real Fun Begins Now!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "084"
+  },
+  {
+    "id": "208598",
+    "title": "Vol.008 Ch.083: I Want to See It Again!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "083"
+  },
+  {
+    "id": "205540",
+    "title": "Vol.008 Ch.082: Miss Sayaka's Determination",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "082"
+  },
+  {
+    "id": "198518",
+    "title": "Vol.008 Ch.081: They Flew, they Flew!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "081"
+  },
+  {
+    "id": "187870",
+    "title": "Vol.007 Ch.080: The First Step to Seoul",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "080"
+  },
+  {
+    "id": "185430",
+    "title": "Vol.007 Ch.079: I'll Try to Take Part",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "079"
+  },
+  {
+    "id": "180539",
+    "title": "Vol.007 Ch.078: The Bloodstained Pointed Shoes",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "078"
+  },
+  {
+    "id": "172937",
+    "title": "Vol.007 Ch.077: Judo Is Kinda...",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "077"
+  },
+  {
+    "id": "172921",
+    "title": "Vol.007 Ch.076",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "076"
+  },
+  {
+    "id": "168953",
+    "title": "Vol.007 Ch.075: To the Disco!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "075"
+  },
+  {
+    "id": "164623",
+    "title": "Vol.007 Ch.074: Sayaka's Potential",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "074"
+  },
+  {
+    "id": "119871",
+    "title": "073: The Part-Time Job!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "111888",
+    "title": "072",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "108433",
+    "title": "071: Super Shot!?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "106160",
+    "title": "070: A Women's College Student... to be?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "104065",
+    "title": "069: Destined Rival!?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "103154",
+    "title": "068: The Tearful Graduation Memory",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "102780",
+    "title": "067: Grandpa's Counter-Attack",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "102778",
+    "title": "066: Borrowing the Power of Alcohol....",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "102777",
+    "title": "065: Revealing of Results!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "102776",
+    "title": "064: Wavering Emotions",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "102774",
+    "title": "063: The Gray Entrance Examination",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "102772",
+    "title": "062: Only I...",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "102770",
+    "title": "061: Despite Being in Love with Kazamatsuri-san",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "102769",
+    "title": "060: Kuni-chan Appears!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "102768",
+    "title": "059: A Letter From Canada",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "102766",
+    "title": "058: Honami's New Year Party",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "102765",
+    "title": "057: First Temple Visit of The New Year",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "102764",
+    "title": "056: News Year's Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "102763",
+    "title": "055: Upset!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "102762",
+    "title": "054: Proclamation of War",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "102759",
+    "title": "053: Miss Sayaka's Counterattack!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "102756",
+    "title": "052: An Awesome Coach",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "102755",
+    "title": "051: Everything OK!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "102754",
+    "title": "050: Busy Schedule",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "102753",
+    "title": "049: Goodbye, Jodie!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "102752",
+    "title": "048: The Scoop That Got Away",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "102751",
+    "title": "047: World Class Skill!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "102750",
+    "title": "046: I'm Gonna Fail",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "102749",
+    "title": "045: Big Freeloader",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "102747",
+    "title": "044: VIPs' Arrival in Japan!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "102746",
+    "title": "043: Guidance Counseling",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "102745",
+    "title": "042: Tears of Victory",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "102744",
+    "title": "041: Go for It Hanazono!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "102743",
+    "title": "040: Decided in an Instant",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "102742",
+    "title": "039: Rivals of Love",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "102741",
+    "title": "038: Don't Annoy Me!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "102739",
+    "title": "037: Sensation at Setayaga 012 Gym!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "102738",
+    "title": "036: Hanazono is Participating?!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "102737",
+    "title": "035: Official Match Debut!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "102736",
+    "title": "034: Double Match",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "102734",
+    "title": "033: The Night Before The Match",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "102733",
+    "title": "032: Just This Time",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "102732",
+    "title": "031: I've Gotta Do It?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "102731",
+    "title": "030: Second Date",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "102729",
+    "title": "029: Matsuda Vs. Kazamatsuri",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "102728",
+    "title": "028: Important Announcement",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "102727",
+    "title": "027: Yawaras' Feeling",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "102725",
+    "title": "026: Judo Team Transformation?!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "102724",
+    "title": "025: Get Sudou",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "102723",
+    "title": "024: Please, ",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "102721",
+    "title": "023: Big Fever At Musashiyama High School",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "102720",
+    "title": "022: Superstar",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "102718",
+    "title": "021: Last Moments' Sights?!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "102717",
+    "title": "020: What's Wrong Yawara?!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "102715",
+    "title": "019: Father And Mother",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "102714",
+    "title": "018: Sorry Grandpa",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "102713",
+    "title": "017: I'm Appearing in the Match",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "102712",
+    "title": "016: Finally Alone",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "102711",
+    "title": "015: Yawaras' Hot Tear",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "102710",
+    "title": "014: I See Only You",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "102709",
+    "title": "013: Grandpa's Bold Plan",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "102707",
+    "title": "012: Yawara, Heart All Aflutter",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "102706",
+    "title": "011: Found a Wonderful Love",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "102705",
+    "title": "010: Rival's Movements",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "102704",
+    "title": "009: Kazamatsuri in Love",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "102703",
+    "title": "008: The Deadly Reviving Skill",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "102702",
+    "title": "007: How is Ba-Gen-Se-Ru!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "102698",
+    "title": "006: Judo Girl's First Real Battle",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "102696",
+    "title": "005: Grandpa's Trap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "102695",
+    "title": "004: Panchira-Ba Throw Under The Clear Sky",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "102693",
+    "title": "003: Why There's Only One Rival",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "102691",
+    "title": "002: Love's Deadly Double Grab",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "102690",
+    "title": "001: The National Champ Girl",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

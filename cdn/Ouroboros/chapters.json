@@ -1,0 +1,938 @@
+[
+  {
+    "id": "404810",
+    "title": "Chapter 109: Lie",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "109"
+  },
+  {
+    "id": "395943",
+    "title": "Vol.019 Ch.108: Forget",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "108"
+  },
+  {
+    "id": "390830",
+    "title": "Vol.019 Ch.107: Physician",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "107"
+  },
+  {
+    "id": "385662",
+    "title": "Vol.018 Ch.106: Like",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "106"
+  },
+  {
+    "id": "383043",
+    "title": "Vol.018 Ch.105: Saint",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "105"
+  },
+  {
+    "id": "379146",
+    "title": "Vol.018 Ch.104: Wish",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "104"
+  },
+  {
+    "id": "374137",
+    "title": "Vol.018 Ch.103: Knowing",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "103"
+  },
+  {
+    "id": "366584",
+    "title": "Vol.018 Ch.102: Fight",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "102"
+  },
+  {
+    "id": "365608",
+    "title": "Vol.017 Ch.101: Thought",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "101"
+  },
+  {
+    "id": "358929",
+    "title": "Vol.017 Ch.100: Life",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "100"
+  },
+  {
+    "id": "348800",
+    "title": "Vol.017 Ch.099: Heal",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "099"
+  },
+  {
+    "id": "347297",
+    "title": "Vol.017 Ch.098.005: Side Story: Circle",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "098.005"
+  },
+  {
+    "id": "347176",
+    "title": "Vol.017 Ch.098: Foundation",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "098"
+  },
+  {
+    "id": "347243",
+    "title": "Vol.016 Ch.097v002: Separate",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "097"
+  },
+  {
+    "id": "345628",
+    "title": "Vol.016 Ch.097: Separate",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "097"
+  },
+  {
+    "id": "340699",
+    "title": "Vol.016 Ch.096: Plunge",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "096"
+  },
+  {
+    "id": "330074",
+    "title": "Vol.016 Ch.095: Scarlet",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "095"
+  },
+  {
+    "id": "327014",
+    "title": "Vol.016 Ch.094: Face",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "094"
+  },
+  {
+    "id": "326041",
+    "title": "Vol.015 Ch.093: Overcome",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "093"
+  },
+  {
+    "id": "322881",
+    "title": "Vol.015 Ch.092: Hall",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "092"
+  },
+  {
+    "id": "310237",
+    "title": "Vol.015 Ch.091: Shudder",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "091"
+  },
+  {
+    "id": "306302",
+    "title": "Vol.015 Ch.090: Scheme",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "090"
+  },
+  {
+    "id": "300703",
+    "title": "Vol.014 Ch.089: Alone",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "089"
+  },
+  {
+    "id": "282962",
+    "title": "Vol.014 Ch.088: Discharge",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "088"
+  },
+  {
+    "id": "275360",
+    "title": "Vol.014 Ch.087: Comet",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "087"
+  },
+  {
+    "id": "273327",
+    "title": "Vol.014 Ch.086: Fleeting",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "086"
+  },
+  {
+    "id": "270597",
+    "title": "Vol.013 Ch.085: Omission",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "085"
+  },
+  {
+    "id": "268139",
+    "title": "Vol.013 Ch.084: Kidnapping",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "084"
+  },
+  {
+    "id": "266771",
+    "title": "Vol.013 Ch.083: Butterfly",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "083"
+  },
+  {
+    "id": "266770",
+    "title": "Vol.013 Ch.082.003: Danno Tatsuya Side Story: Song",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "082.003"
+  },
+  {
+    "id": "264894",
+    "title": "Vol.012 Ch.082.002: Side Story: Section Chief Mishima's Case File, Conclusion",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "082.002"
+  },
+  {
+    "id": "264893",
+    "title": "Vol.012 Ch.082.001: Side Story: Section Chief Mishima's Case File, Opening",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "082.001"
+  },
+  {
+    "id": "263474",
+    "title": "Vol.012 Ch.082: Path",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "082"
+  },
+  {
+    "id": "262865",
+    "title": "Vol.012 Ch.081: Avenging",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "081"
+  },
+  {
+    "id": "262597",
+    "title": "Vol.012 Ch.080: Alone",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "080"
+  },
+  {
+    "id": "260577",
+    "title": "Vol.011 Ch.079: Devil",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "079"
+  },
+  {
+    "id": "257221",
+    "title": "Vol.011 Ch.078: Link",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "078"
+  },
+  {
+    "id": "256960",
+    "title": "Vol.011 Ch.077: Unsightly",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "077"
+  },
+  {
+    "id": "241895",
+    "title": "Vol.011 Ch.076: Involvement",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "076"
+  },
+  {
+    "id": "240229",
+    "title": "Vol.010 Ch.075: Manouevring",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "075"
+  },
+  {
+    "id": "234161",
+    "title": "Vol.010 Ch.074: Lull",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "074"
+  },
+  {
+    "id": "233906",
+    "title": "Vol.010 Ch.073: Rejection",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "073"
+  },
+  {
+    "id": "231505",
+    "title": "Vol.010 Ch.072: Patrolling",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "072"
+  },
+  {
+    "id": "228016",
+    "title": "Vol.009 Ch.071.003: Episode zero: three",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "071.003"
+  },
+  {
+    "id": "227051",
+    "title": "Vol.009 Ch.071.002: Episode zero: two",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "071.002"
+  },
+  {
+    "id": "225694",
+    "title": "Vol.009 Ch.071.001: Episode zero: one",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "071.001"
+  },
+  {
+    "id": "225049",
+    "title": "Vol.009 Ch.071: Seal",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "071"
+  },
+  {
+    "id": "223996",
+    "title": "Vol.009 Ch.070: Aiming",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "070"
+  },
+  {
+    "id": "222779",
+    "title": "Vol.008 Ch.069: Festival",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "069"
+  },
+  {
+    "id": "221579",
+    "title": "Vol.008 Ch.068: Bare",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "068"
+  },
+  {
+    "id": "221182",
+    "title": "Vol.008 Ch.067: Ruin",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "067"
+  },
+  {
+    "id": "219855",
+    "title": "Vol.008 Ch.066: Degrading",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "066"
+  },
+  {
+    "id": "218487",
+    "title": "Vol.008 Ch.065: Hook",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "065"
+  },
+  {
+    "id": "217897",
+    "title": "Vol.008 Ch.064: Act",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "064"
+  },
+  {
+    "id": "217908",
+    "title": "Vol.008 Ch.063: Obsession",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "063"
+  },
+  {
+    "id": "217606",
+    "title": "Vol.008 Ch.062: Desire",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "062"
+  },
+  {
+    "id": "217131",
+    "title": "Vol.008 Ch.061: Ridicule",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "061"
+  },
+  {
+    "id": "216370",
+    "title": "Vol.007 Ch.060: Difference",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "060"
+  },
+  {
+    "id": "216145",
+    "title": "Vol.007 Ch.059: Partner",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "059"
+  },
+  {
+    "id": "216074",
+    "title": "Vol.007 Ch.058: White",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "058"
+  },
+  {
+    "id": "215866",
+    "title": "Vol.007 Ch.057: Zero",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "057"
+  },
+  {
+    "id": "214473",
+    "title": "Vol.007 Ch.056: Danger",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "056"
+  },
+  {
+    "id": "365551",
+    "title": "Vol.007 Ch.055: Investigation",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "055"
+  },
+  {
+    "id": "365550",
+    "title": "Vol.007 Ch.054: Intuition",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "054"
+  },
+  {
+    "id": "197973",
+    "title": "Vol.007 Ch.053: Factions",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "053"
+  },
+  {
+    "id": "191480",
+    "title": "Vol.007 Ch.052: Punishment",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "052"
+  },
+  {
+    "id": "187989",
+    "title": "Vol.006 Ch.051: Twist",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "051"
+  },
+  {
+    "id": "184578",
+    "title": "Vol.006 Ch.050: Seal",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "050"
+  },
+  {
+    "id": "180420",
+    "title": "Vol.006 Ch.049: Green",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "049"
+  },
+  {
+    "id": "175555",
+    "title": "Vol.006 Ch.048: Blade",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "048"
+  },
+  {
+    "id": "172542",
+    "title": "Vol.006 Ch.047: Portrait",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "047"
+  },
+  {
+    "id": "171018",
+    "title": "Vol.006 Ch.046: Assault",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "046"
+  },
+  {
+    "id": "169593",
+    "title": "Vol.006 Ch.045: Target",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "045"
+  },
+  {
+    "id": "168280",
+    "title": "Vol.006 Ch.044: Sakura",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "044"
+  },
+  {
+    "id": "164199",
+    "title": "Vol.005 Ch.043: Limbs",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "043"
+  },
+  {
+    "id": "164198",
+    "title": "Vol.005 Ch.042: New",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "042"
+  },
+  {
+    "id": "164197",
+    "title": "Vol.005 Ch.041: Unusual",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "041"
+  },
+  {
+    "id": "158306",
+    "title": "Vol.005 Ch.040: Father",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "040"
+  },
+  {
+    "id": "157658",
+    "title": "Vol.005 Ch.039: Smokescreen",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "039"
+  },
+  {
+    "id": "155240",
+    "title": "Vol.005 Ch.038: Awakening",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "038"
+  },
+  {
+    "id": "154599",
+    "title": "Vol.005 Ch.037: Soar",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "037"
+  },
+  {
+    "id": "153779",
+    "title": "Vol.005 Ch.036: Sin",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "036"
+  },
+  {
+    "id": "152691",
+    "title": "Vol.005 Ch.035: Abuse",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "035"
+  },
+  {
+    "id": "151271",
+    "title": "Vol.004 Ch.034: Revolution",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "034"
+  },
+  {
+    "id": "150170",
+    "title": "Vol.004 Ch.033: Beast",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "033"
+  },
+  {
+    "id": "149297",
+    "title": "Vol.004 Ch.032: Attack",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "032"
+  },
+  {
+    "id": "148388",
+    "title": "Vol.004 Ch.031: Public",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "031"
+  },
+  {
+    "id": "147077",
+    "title": "Vol.004 Ch.030: Infiltration",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "030"
+  },
+  {
+    "id": "145762",
+    "title": "Vol.004 Ch.029: Disguise",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "029"
+  },
+  {
+    "id": "144778",
+    "title": "Vol.004 Ch.028: End",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "028"
+  },
+  {
+    "id": "143197",
+    "title": "Vol.004 Ch.027: Ugly",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "027"
+  },
+  {
+    "id": "142059",
+    "title": "Vol.004 Ch.026: Past",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "026"
+  },
+  {
+    "id": "140789",
+    "title": "Vol.003 Ch.025: Alteration",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "025"
+  },
+  {
+    "id": "139951",
+    "title": "Vol.003 Ch.024: Flower",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "024"
+  },
+  {
+    "id": "132815",
+    "title": "Vol.003 Ch.023: Trap",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "023"
+  },
+  {
+    "id": "130887",
+    "title": "Vol.003 Ch.022: Investigate",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "022"
+  },
+  {
+    "id": "128298",
+    "title": "Vol.003 Ch.021: Violence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "021"
+  },
+  {
+    "id": "128032",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "128031",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "128029",
+    "title": "018: Empty",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "119529",
+    "title": "017: Lost",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "118581",
+    "title": "016: Treachery",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "106953",
+    "title": "015: Seal",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "106919",
+    "title": "014: Kill",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "104594",
+    "title": "013: Conceived",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "103239",
+    "title": "012: Scar",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "103238",
+    "title": "011: Bond",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "103236",
+    "title": "010: Mistake",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "103232",
+    "title": "009: Connection",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "103237",
+    "title": "008: Fist",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "103230",
+    "title": "007: Loop",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "103231",
+    "title": "006: Trust",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "103227",
+    "title": "005: Back",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "103228",
+    "title": "004: Woman",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "103225",
+    "title": "003: Secret",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "103223",
+    "title": "002: Drug",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "103226",
+    "title": "001: Ryou the Dragon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

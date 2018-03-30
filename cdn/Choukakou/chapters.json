@@ -1,0 +1,666 @@
+[
+  {
+    "id": "372315",
+    "title": "ch.060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "370714",
+    "title": "vol.006 ch.059",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "059"
+  },
+  {
+    "id": "365271",
+    "title": "vol.006 ch.058",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "058"
+  },
+  {
+    "id": "340198",
+    "title": "vol.006 ch.057",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "057"
+  },
+  {
+    "id": "314289",
+    "title": "056",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "340194",
+    "title": "vol.006 ch.056",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "056"
+  },
+  {
+    "id": "308563",
+    "title": "055",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "340190",
+    "title": "vol.006 ch.055",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "055"
+  },
+  {
+    "id": "273757",
+    "title": "054",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "340187",
+    "title": "vol.006 ch.054",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "054"
+  },
+  {
+    "id": "269221",
+    "title": "053",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "371389",
+    "title": "vol.006 ch.053",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "053"
+  },
+  {
+    "id": "267881",
+    "title": "052",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "266913",
+    "title": "051",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "265058",
+    "title": "050",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "257386",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "252346",
+    "title": "048",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "243346",
+    "title": "047",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "242670",
+    "title": "046",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "242087",
+    "title": "045.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045.002"
+  },
+  {
+    "id": "237310",
+    "title": "045.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045.001"
+  },
+  {
+    "id": "236256",
+    "title": "044.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044.002"
+  },
+  {
+    "id": "232675",
+    "title": "044.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044.001"
+  },
+  {
+    "id": "228656",
+    "title": "043.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043.002"
+  },
+  {
+    "id": "227721",
+    "title": "043.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043.001"
+  },
+  {
+    "id": "226974",
+    "title": "042.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042.002"
+  },
+  {
+    "id": "224326",
+    "title": "042.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042.001"
+  },
+  {
+    "id": "221426",
+    "title": "041.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041.002"
+  },
+  {
+    "id": "219454",
+    "title": "041.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041.001"
+  },
+  {
+    "id": "218093",
+    "title": "040.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.002"
+  },
+  {
+    "id": "216696",
+    "title": "040.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.001"
+  },
+  {
+    "id": "212652",
+    "title": "039.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039.002"
+  },
+  {
+    "id": "211912",
+    "title": "039.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039.001"
+  },
+  {
+    "id": "210611",
+    "title": "038.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038.002"
+  },
+  {
+    "id": "209604",
+    "title": "038.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038.001"
+  },
+  {
+    "id": "208063",
+    "title": "037.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.002"
+  },
+  {
+    "id": "206919",
+    "title": "037.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.001"
+  },
+  {
+    "id": "205718",
+    "title": "036.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036.002"
+  },
+  {
+    "id": "204021",
+    "title": "036.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036.001"
+  },
+  {
+    "id": "202532",
+    "title": "035.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035.002"
+  },
+  {
+    "id": "200911",
+    "title": "035.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035.001"
+  },
+  {
+    "id": "197856",
+    "title": "034.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034.001"
+  },
+  {
+    "id": "196391",
+    "title": "033.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033.002"
+  },
+  {
+    "id": "193968",
+    "title": "033.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033.001"
+  },
+  {
+    "id": "192114",
+    "title": "032.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032.002"
+  },
+  {
+    "id": "191182",
+    "title": "032.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032.001"
+  },
+  {
+    "id": "190087",
+    "title": "031.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031.002"
+  },
+  {
+    "id": "190086",
+    "title": "031.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031.001"
+  },
+  {
+    "id": "186912",
+    "title": "030.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030.002"
+  },
+  {
+    "id": "185848",
+    "title": "030.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030.001"
+  },
+  {
+    "id": "184148",
+    "title": "029.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029.002"
+  },
+  {
+    "id": "182457",
+    "title": "029.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029.001"
+  },
+  {
+    "id": "181211",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "178314",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "175819",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "175138",
+    "title": "025: Rebuilding",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "175099",
+    "title": "024: Inactivity",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "175085",
+    "title": "023: Each individual's emotions",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "175062",
+    "title": "022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "175042",
+    "title": "021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "174992",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "174769",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "174410",
+    "title": "018: Sun's Trial",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "174409",
+    "title": "017: Trade Routes",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "174143",
+    "title": "016: Benefactor",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "174142",
+    "title": "015: Various uncertainties",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "174029",
+    "title": "014: Emotions that are passed on",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "174028",
+    "title": "013: The Old General",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "174027",
+    "title": "012: Rank amongst the Turks",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "174025",
+    "title": "011: Empathy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "174024",
+    "title": "010: The woman with the golden hair",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "172743",
+    "title": "009: Negotiations",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "181074",
+    "title": "008.005: Prelude",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008.005"
+  },
+  {
+    "id": "172742",
+    "title": "008: Surrender",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "172741",
+    "title": "007: Greater Good",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "172692",
+    "title": "006: The Han and the Turks",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "172691",
+    "title": "005: Hidden Wars (part 002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "172687",
+    "title": "004: Hidden Wars (Part 001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "172662",
+    "title": "003: Schemes",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "172587",
+    "title": "002: The \"Deceased' princess",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "172586",
+    "title": "001: The Princess of Promises",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  },
+  {
+    "id": "181122",
+    "title": "000v003: Chang An",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "000"
+  },
+  {
+    "id": "175506",
+    "title": "000: Prelude",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "000"
+  }
+]

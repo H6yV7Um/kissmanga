@@ -1,0 +1,946 @@
+[
+  {
+    "id": "410982",
+    "title": "Ch.115 - A Place to Live (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "115"
+  },
+  {
+    "id": "409753",
+    "title": "Ch.114 - A Place to Live (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "114"
+  },
+  {
+    "id": "408243",
+    "title": "Ch.113 - A Place to Live (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "113"
+  },
+  {
+    "id": "406656",
+    "title": "Ch.112 - A Place to Live (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "112"
+  },
+  {
+    "id": "405166",
+    "title": "Ch.111 - A Place to Live (002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "111"
+  },
+  {
+    "id": "404381",
+    "title": "Ch.110 - A Place to Live (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "110"
+  },
+  {
+    "id": "404294",
+    "title": "Ch.109 - Disapproval",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "109"
+  },
+  {
+    "id": "404293",
+    "title": "Ch.108 - Eye-to-Eye",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "108"
+  },
+  {
+    "id": "401451",
+    "title": "ch.108",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "108"
+  },
+  {
+    "id": "401444",
+    "title": "ch.107",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "107"
+  },
+  {
+    "id": "401446",
+    "title": "ch.106",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "106"
+  },
+  {
+    "id": "401450",
+    "title": "ch.105",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "105"
+  },
+  {
+    "id": "401449",
+    "title": "ch.104",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "104"
+  },
+  {
+    "id": "401447",
+    "title": "ch.103",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "103"
+  },
+  {
+    "id": "401448",
+    "title": "ch.102",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "102"
+  },
+  {
+    "id": "395729",
+    "title": "ch.101",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "101"
+  },
+  {
+    "id": "391696",
+    "title": "ch.100",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "100"
+  },
+  {
+    "id": "391347",
+    "title": "ch.099",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "099"
+  },
+  {
+    "id": "391346",
+    "title": "ch.098",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "098"
+  },
+  {
+    "id": "391345",
+    "title": "ch.097",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "097"
+  },
+  {
+    "id": "391344",
+    "title": "ch.096",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "096"
+  },
+  {
+    "id": "391343",
+    "title": "ch.095",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "095"
+  },
+  {
+    "id": "391342",
+    "title": "ch.094",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "094"
+  },
+  {
+    "id": "391341",
+    "title": "ch.093",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "093"
+  },
+  {
+    "id": "391340",
+    "title": "ch.092",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "391339",
+    "title": "ch.091",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "391338",
+    "title": "ch.090",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "391337",
+    "title": "ch.089",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "391336",
+    "title": "ch.088",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "391335",
+    "title": "ch.086",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "391334",
+    "title": "ch.085",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "391333",
+    "title": "ch.084",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "391332",
+    "title": "ch.083",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "390987",
+    "title": "ch.082.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082.005"
+  },
+  {
+    "id": "391331",
+    "title": "ch.082",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "391330",
+    "title": "ch.081",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "389347",
+    "title": "ch.079",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "389345",
+    "title": "ch.078",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "373440",
+    "title": "Ch.077: For You (009)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "371866",
+    "title": "Ch.076: For You (008)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "371864",
+    "title": "Ch.075: For You (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "370970",
+    "title": "Ch.074: For You (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "370969",
+    "title": "Ch.073: For You (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "369760",
+    "title": "Ch.072: For You (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "368478",
+    "title": "Ch.071: For You (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "368463",
+    "title": "Ch.070: For You (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "367480",
+    "title": "Ch.069: For You (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "366716",
+    "title": "Ch.068: Well Then....",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "366111",
+    "title": "Ch.067: One With Two Hearts (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "366110",
+    "title": "Ch.066: One With Two Hearts (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "365368",
+    "title": "Ch.065: One with Two Hearts (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "364833",
+    "title": "Ch.064: One with Two Hearts (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "364253",
+    "title": "Ch.063: One with Two Hearts (002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "364250",
+    "title": "Ch.062: One with Two Hearts (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "363561",
+    "title": "Ch.061.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061.005"
+  },
+  {
+    "id": "362481",
+    "title": "Ch.061: Wings (016)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "362480",
+    "title": "Ch.060: Wings (015)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "359027",
+    "title": "Ch.059: Wings (014)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "354976",
+    "title": "Ch.058: Wings (013)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "354964",
+    "title": "Ch.057: Wings (012)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "349450",
+    "title": "Ch.056: Wings (011)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "349449",
+    "title": "Ch.055: Wings (010)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "348779",
+    "title": "Ch.054: Wings (009)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "348780",
+    "title": "Ch.053: Wings (008) v002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "348778",
+    "title": "Ch.052: Wings (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "345666",
+    "title": "Ch.051: Wings (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "345019",
+    "title": "Ch.050: Wings (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "343897",
+    "title": "Ch.049: Wings (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "343032",
+    "title": "Ch.048: Wings (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "343031",
+    "title": "Ch.047: Wings (002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "342524",
+    "title": "Ch.046: Wings (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "341171",
+    "title": "Ch.045: At the Grave",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "340069",
+    "title": "Ch.044: Sparring Partner",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "336350",
+    "title": "Ch.043: You Don't Understand",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "335829",
+    "title": "Ch.042: Succession",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "335828",
+    "title": "Ch.041: What a Fool",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "332963",
+    "title": "Ch.040: Play Pretend",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "330110",
+    "title": "Ch.039: I Want to be Friends",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "329665",
+    "title": "Ch.038.005: Intermission",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038.005"
+  },
+  {
+    "id": "329664",
+    "title": "Ch.038: Naive Lord",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "329168",
+    "title": "Ch.037: Pursuit of Haven",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "327749",
+    "title": "Ch.036: Shadow (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "326987",
+    "title": "Ch.035: Shadow (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "311373",
+    "title": "Ch.034: Shadow (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "310010",
+    "title": "Ch.033: Shadow (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "309124",
+    "title": "Ch.032: Shadow (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "309123",
+    "title": "Ch.031: Shadow (002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "308344",
+    "title": "Ch.030: Shadow (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "306585",
+    "title": "Ch.029: Advise",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "304749",
+    "title": "Ch.028: Please Give Me Your Order",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "304748",
+    "title": "Ch.027: Malice",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "300981",
+    "title": "Ch.026: A Flower For You (014)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "300051",
+    "title": "Ch.025: A Flower For You (013)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "296964",
+    "title": "Ch.024: A Flower For You (012)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "287500",
+    "title": "Ch.023: A Flower For You (011)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "277046",
+    "title": "Ch.022: A Flower For You (010)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "276356",
+    "title": "Ch.021: A Flower For You (009)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "275739",
+    "title": "Ch.020: A Flower For You (008)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "275188",
+    "title": "Ch.019: A Flower For You (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "274440",
+    "title": "Ch.018: A Flower For You (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "273611",
+    "title": "Ch.017: A Flower For You (005)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "272934",
+    "title": "Ch.016: A Flower For You (004)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "272120",
+    "title": "Ch.015: A Flower For You (003)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "271423",
+    "title": "Ch.014: A Flower For You (002)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "270628",
+    "title": "Ch.013: A Flower For You (001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "269796",
+    "title": "Ch.012: Dark Footsteps",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "269110",
+    "title": "Ch.011: Talk",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "268369",
+    "title": "Ch.010: Hibachi",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "267809",
+    "title": "Ch.009: Kagome",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "267808",
+    "title": "Ch.008: Easier Than Pushups",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "267120",
+    "title": "Ch.007: Calamity",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "266453",
+    "title": "Ch.006: Unexpected Care",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "265575",
+    "title": "Ch.005: Yokai Leader of Mountain Shinonome (Last Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "264966",
+    "title": "Ch.004: Yokai Leader of Mountain Shinonome (Second Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "264227",
+    "title": "Ch.003: Yokai Leader of Mountain Shinonome",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "263567",
+    "title": "Ch.002.005: [Announcement]",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002.005"
+  },
+  {
+    "id": "263565",
+    "title": "Ch.002: Phantom of The Night (Last Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "263563",
+    "title": "Ch.001: Phantom of The Night (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]
