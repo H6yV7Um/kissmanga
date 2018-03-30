@@ -184,7 +184,7 @@ hakuneko.kissmanga.getMangas( function( error, mangaListWeb ) {
     if( !error && mangaListWeb && mangaListWeb.length > 0 ) {
         saveMangaListWeb( mangaListWeb );
         // process all mangas for this connector
-//        syncMangas( mangaListWeb, updateLimit );
+        syncMangas( mangaListWeb, updateLimit );
     } else {
         console.error( 'Invalid manga list' );
     }
