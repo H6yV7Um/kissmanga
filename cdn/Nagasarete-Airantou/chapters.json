@@ -1,5 +1,13 @@
 [
   {
+    "id": "412477",
+    "title": "Art Book",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
     "id": "409264",
     "title": "Vol. 026 Ch.157 - Could it be…",
     "language": "en",
@@ -624,7 +632,7 @@
     "number": "079"
   },
   {
-    "id": "26164",
+    "id": "26162",
     "title": "078",
     "language": "en",
     "scanlator": "",
@@ -632,7 +640,7 @@
     "number": "078"
   },
   {
-    "id": "26162",
+    "id": "26164",
     "title": "078",
     "language": "en",
     "scanlator": "",
