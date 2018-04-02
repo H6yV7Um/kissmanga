@@ -1,5 +1,13 @@
 [
   {
+    "id": "412604",
+    "title": "Vol. 007 Ch.029.005 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "029.005"
+  },
+  {
     "id": "411898",
     "title": "Vol. 007 Ch.029 -",
     "language": "en",
@@ -184,14 +192,6 @@
     "number": "009"
   },
   {
-    "id": "228955",
-    "title": "Ch.008: Bug.008",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "008"
-  },
-  {
     "id": "199566",
     "title": "Ch.008: Bug.008",
     "language": "en",
@@ -200,7 +200,15 @@
     "number": "008"
   },
   {
-    "id": "197215",
+    "id": "228955",
+    "title": "Ch.008: Bug.008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "228954",
     "title": "Ch.007.005: Cigarette Anthology",
     "language": "en",
     "scanlator": "",
@@ -208,7 +216,7 @@
     "number": "007.005"
   },
   {
-    "id": "228954",
+    "id": "197215",
     "title": "Ch.007.005: Cigarette Anthology",
     "language": "en",
     "scanlator": "",
@@ -248,7 +256,7 @@
     "number": "006"
   },
   {
-    "id": "228952",
+    "id": "186907",
     "title": "Ch.005: Bug.005",
     "language": "en",
     "scanlator": "",
@@ -256,7 +264,7 @@
     "number": "005"
   },
   {
-    "id": "186907",
+    "id": "228952",
     "title": "Ch.005: Bug.005",
     "language": "en",
     "scanlator": "",

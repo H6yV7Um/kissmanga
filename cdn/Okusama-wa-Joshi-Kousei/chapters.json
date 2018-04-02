@@ -1,5 +1,13 @@
 [
   {
+    "id": "412620",
+    "title": "Ch.060 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
     "id": "408624",
     "title": "Ch.059 - I could clearly remember it",
     "language": "en",
@@ -584,14 +592,6 @@
     "number": "006"
   },
   {
-    "id": "351618",
-    "title": "Ch.005",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "005"
-  },
-  {
     "id": "351657",
     "title": "Ch.005",
     "language": "en",
@@ -600,12 +600,12 @@
     "number": "005"
   },
   {
-    "id": "351655",
-    "title": "Ch.004",
+    "id": "351618",
+    "title": "Ch.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "004"
+    "number": "005"
   },
   {
     "id": "351617",
@@ -616,7 +616,15 @@
     "number": "004"
   },
   {
-    "id": "351653",
+    "id": "351655",
+    "title": "Ch.004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "351616",
     "title": "Ch.003",
     "language": "en",
     "scanlator": "",
@@ -624,7 +632,7 @@
     "number": "003"
   },
   {
-    "id": "351616",
+    "id": "351653",
     "title": "Ch.003",
     "language": "en",
     "scanlator": "",
