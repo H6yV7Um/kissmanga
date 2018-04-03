@@ -1,5 +1,13 @@
 [
   {
+    "id": "412880",
+    "title": "Ch.006 - Ancestral Hall Of Zhou",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
     "id": "411156",
     "title": "Ch.005.005 - First sign of extraordinaries (part 002)",
     "language": "en",
@@ -72,14 +80,6 @@
     "number": "003.001"
   },
   {
-    "id": "407452",
-    "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "003.000"
-  },
-  {
     "id": "404077",
     "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
     "language": "en",
@@ -88,7 +88,15 @@
     "number": "003.000"
   },
   {
-    "id": "403346",
+    "id": "407452",
+    "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003.000"
+  },
+  {
+    "id": "407746",
     "title": "Ch.002.005 - The Python Swallows the Dragon (part 002)",
     "language": "en",
     "scanlator": "",
@@ -96,7 +104,7 @@
     "number": "002.005"
   },
   {
-    "id": "407746",
+    "id": "403346",
     "title": "Ch.002.005 - The Python Swallows the Dragon (part 002)",
     "language": "en",
     "scanlator": "",
@@ -128,7 +136,7 @@
     "number": "002"
   },
   {
-    "id": "407745",
+    "id": "402796",
     "title": "Ch.001.005 - The Saint Dragon Of Zhou (Part 002)",
     "language": "en",
     "scanlator": "",
@@ -136,7 +144,7 @@
     "number": "001.005"
   },
   {
-    "id": "402796",
+    "id": "407745",
     "title": "Ch.001.005 - The Saint Dragon Of Zhou (Part 002)",
     "language": "en",
     "scanlator": "",
