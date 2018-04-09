@@ -1,6 +1,6 @@
 [
   {
-    "id": "396676",
+    "id": "414453",
     "title": "vol.025 ch.124",
     "language": "en",
     "scanlator": "",
@@ -8,7 +8,15 @@
     "number": "124"
   },
   {
-    "id": "373289",
+    "id": "414452",
+    "title": "vol.025 ch.124",
+    "language": "en",
+    "scanlator": "",
+    "volume": "025",
+    "number": "124"
+  },
+  {
+    "id": "414450",
     "title": "vol.023 ch.114",
     "language": "en",
     "scanlator": "",
@@ -16,7 +24,15 @@
     "number": "114"
   },
   {
-    "id": "373288",
+    "id": "414451",
+    "title": "vol.023 ch.114",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "114"
+  },
+  {
+    "id": "414449",
     "title": "vol.023 ch.113",
     "language": "en",
     "scanlator": "",
@@ -24,7 +40,15 @@
     "number": "113"
   },
   {
-    "id": "295752",
+    "id": "414448",
+    "title": "vol.023 ch.113",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "113"
+  },
+  {
+    "id": "414447",
     "title": "vol.022 ch.112",
     "language": "en",
     "scanlator": "",
@@ -32,7 +56,15 @@
     "number": "112"
   },
   {
-    "id": "295751",
+    "id": "414446",
+    "title": "vol.022 ch.112",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "112"
+  },
+  {
+    "id": "414445",
     "title": "vol.022 ch.111",
     "language": "en",
     "scanlator": "",
@@ -40,7 +72,15 @@
     "number": "111"
   },
   {
-    "id": "295750",
+    "id": "414444",
+    "title": "vol.022 ch.111",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "111"
+  },
+  {
+    "id": "414442",
     "title": "vol.022 ch.110",
     "language": "en",
     "scanlator": "",
@@ -48,7 +88,15 @@
     "number": "110"
   },
   {
-    "id": "295749",
+    "id": "414443",
+    "title": "vol.022 ch.110",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "110"
+  },
+  {
+    "id": "414440",
     "title": "vol.022 ch.109",
     "language": "en",
     "scanlator": "",
@@ -56,7 +104,15 @@
     "number": "109"
   },
   {
-    "id": "295746",
+    "id": "414441",
+    "title": "vol.022 ch.109",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "109"
+  },
+  {
+    "id": "414439",
     "title": "vol.022 ch.108",
     "language": "en",
     "scanlator": "",
@@ -64,15 +120,7 @@
     "number": "108"
   },
   {
-    "id": "295744",
-    "title": "vol.022 ch.022",
-    "language": "en",
-    "scanlator": "",
-    "volume": "022",
-    "number": "022"
-  },
-  {
-    "id": "295742",
+    "id": "414437",
     "title": "vol.021 ch.106",
     "language": "en",
     "scanlator": "",
@@ -80,7 +128,15 @@
     "number": "106"
   },
   {
-    "id": "295740",
+    "id": "414438",
+    "title": "vol.021 ch.106",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "106"
+  },
+  {
+    "id": "414436",
     "title": "vol.021 ch.105",
     "language": "en",
     "scanlator": "",
@@ -88,23 +144,47 @@
     "number": "105"
   },
   {
-    "id": "295736",
-    "title": "vol.021 ch.104",
+    "id": "414435",
+    "title": "vol.021 ch.105",
     "language": "en",
     "scanlator": "",
     "volume": "021",
+    "number": "105"
+  },
+  {
+    "id": "414433",
+    "title": "vol.020 ch.104",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
     "number": "104"
   },
   {
-    "id": "295732",
-    "title": "vol.021 ch.103",
+    "id": "414434",
+    "title": "vol.020 ch.104",
     "language": "en",
     "scanlator": "",
-    "volume": "021",
+    "volume": "020",
+    "number": "104"
+  },
+  {
+    "id": "414431",
+    "title": "vol.020 ch.103",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
     "number": "103"
   },
   {
-    "id": "295729",
+    "id": "414432",
+    "title": "vol.020 ch.103",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "103"
+  },
+  {
+    "id": "414429",
     "title": "vol.020 ch.100.001",
     "language": "en",
     "scanlator": "",
@@ -112,7 +192,15 @@
     "number": "100.001"
   },
   {
-    "id": "295726",
+    "id": "414430",
+    "title": "vol.020 ch.100.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "100.001"
+  },
+  {
+    "id": "414428",
     "title": "vol.020 ch.100",
     "language": "en",
     "scanlator": "",
@@ -120,7 +208,15 @@
     "number": "100"
   },
   {
-    "id": "295722",
+    "id": "414427",
+    "title": "vol.020 ch.100",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "100"
+  },
+  {
+    "id": "414425",
     "title": "vol.020 ch.099",
     "language": "en",
     "scanlator": "",
@@ -128,7 +224,15 @@
     "number": "099"
   },
   {
-    "id": "295721",
+    "id": "414426",
+    "title": "vol.020 ch.099",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "099"
+  },
+  {
+    "id": "414424",
     "title": "vol.020 ch.098.002",
     "language": "en",
     "scanlator": "",
@@ -136,7 +240,15 @@
     "number": "098.002"
   },
   {
-    "id": "295718",
+    "id": "414423",
+    "title": "vol.020 ch.098.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "098.002"
+  },
+  {
+    "id": "414422",
     "title": "vol.020 ch.098.001",
     "language": "en",
     "scanlator": "",
@@ -144,7 +256,15 @@
     "number": "098.001"
   },
   {
-    "id": "396675",
+    "id": "414421",
+    "title": "vol.020 ch.098.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "098.001"
+  },
+  {
+    "id": "414454",
     "title": "vol.020 ch.098",
     "language": "en",
     "scanlator": "",
@@ -152,7 +272,7 @@
     "number": "098"
   },
   {
-    "id": "295716",
+    "id": "414419",
     "title": "vol.020 ch.020",
     "language": "en",
     "scanlator": "",
@@ -160,7 +280,15 @@
     "number": "020"
   },
   {
-    "id": "396674",
+    "id": "414420",
+    "title": "vol.020 ch.020",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "020"
+  },
+  {
+    "id": "414417",
     "title": "vol.019 ch.097",
     "language": "en",
     "scanlator": "",
@@ -168,7 +296,15 @@
     "number": "097"
   },
   {
-    "id": "396673",
+    "id": "414418",
+    "title": "vol.019 ch.097",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "097"
+  },
+  {
+    "id": "414416",
     "title": "vol.019 ch.096",
     "language": "en",
     "scanlator": "",
@@ -176,7 +312,7 @@
     "number": "096"
   },
   {
-    "id": "396672",
+    "id": "414414",
     "title": "vol.019 ch.095",
     "language": "en",
     "scanlator": "",
@@ -184,7 +320,15 @@
     "number": "095"
   },
   {
-    "id": "396671",
+    "id": "414415",
+    "title": "vol.019 ch.095",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "095"
+  },
+  {
+    "id": "414413",
     "title": "vol.019 ch.094",
     "language": "en",
     "scanlator": "",
@@ -192,7 +336,7 @@
     "number": "094"
   },
   {
-    "id": "396670",
+    "id": "414412",
     "title": "vol.019 ch.093",
     "language": "en",
     "scanlator": "",
@@ -200,7 +344,7 @@
     "number": "093"
   },
   {
-    "id": "396669",
+    "id": "414410",
     "title": "vol.019 ch.092",
     "language": "en",
     "scanlator": "",
@@ -208,15 +352,15 @@
     "number": "092"
   },
   {
-    "id": "295714",
-    "title": "vol.019 ch.091",
+    "id": "414411",
+    "title": "vol.019 ch.092",
     "language": "en",
     "scanlator": "",
     "volume": "019",
-    "number": "091"
+    "number": "092"
   },
   {
-    "id": "295712",
+    "id": "414408",
     "title": "vol.019 ch.019",
     "language": "en",
     "scanlator": "",
@@ -224,7 +368,31 @@
     "number": "019"
   },
   {
-    "id": "295709",
+    "id": "414409",
+    "title": "vol.019 ch.019",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "019"
+  },
+  {
+    "id": "414406",
+    "title": "vol.018 ch.091",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "091"
+  },
+  {
+    "id": "414407",
+    "title": "vol.018 ch.091",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "091"
+  },
+  {
+    "id": "414404",
     "title": "vol.018 ch.090",
     "language": "en",
     "scanlator": "",
@@ -232,7 +400,15 @@
     "number": "090"
   },
   {
-    "id": "295706",
+    "id": "414405",
+    "title": "vol.018 ch.090",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "090"
+  },
+  {
+    "id": "414402",
     "title": "vol.018 ch.089",
     "language": "en",
     "scanlator": "",
@@ -240,7 +416,15 @@
     "number": "089"
   },
   {
-    "id": "295705",
+    "id": "414403",
+    "title": "vol.018 ch.089",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "089"
+  },
+  {
+    "id": "414400",
     "title": "vol.018 ch.088",
     "language": "en",
     "scanlator": "",
@@ -248,7 +432,15 @@
     "number": "088"
   },
   {
-    "id": "295702",
+    "id": "414401",
+    "title": "vol.018 ch.088",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "088"
+  },
+  {
+    "id": "414398",
     "title": "vol.018 ch.087",
     "language": "en",
     "scanlator": "",
@@ -256,7 +448,15 @@
     "number": "087"
   },
   {
-    "id": "295700",
+    "id": "414399",
+    "title": "vol.018 ch.087",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "087"
+  },
+  {
+    "id": "414396",
     "title": "vol.018 ch.086",
     "language": "en",
     "scanlator": "",
@@ -264,7 +464,15 @@
     "number": "086"
   },
   {
-    "id": "295699",
+    "id": "414397",
+    "title": "vol.018 ch.086",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "086"
+  },
+  {
+    "id": "414394",
     "title": "vol.017 ch.085",
     "language": "en",
     "scanlator": "",
@@ -272,7 +480,15 @@
     "number": "085"
   },
   {
-    "id": "295695",
+    "id": "414395",
+    "title": "vol.017 ch.085",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "085"
+  },
+  {
+    "id": "414392",
     "title": "vol.017 ch.084",
     "language": "en",
     "scanlator": "",
@@ -280,7 +496,15 @@
     "number": "084"
   },
   {
-    "id": "295692",
+    "id": "414393",
+    "title": "vol.017 ch.084",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "084"
+  },
+  {
+    "id": "414390",
     "title": "vol.017 ch.083",
     "language": "en",
     "scanlator": "",
@@ -288,7 +512,15 @@
     "number": "083"
   },
   {
-    "id": "295691",
+    "id": "414391",
+    "title": "vol.017 ch.083",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "083"
+  },
+  {
+    "id": "414388",
     "title": "vol.017 ch.082",
     "language": "en",
     "scanlator": "",
@@ -296,7 +528,15 @@
     "number": "082"
   },
   {
-    "id": "295687",
+    "id": "414389",
+    "title": "vol.017 ch.082",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "082"
+  },
+  {
+    "id": "414386",
     "title": "vol.017 ch.081",
     "language": "en",
     "scanlator": "",
@@ -304,7 +544,15 @@
     "number": "081"
   },
   {
-    "id": "295685",
+    "id": "414387",
+    "title": "vol.017 ch.081",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "081"
+  },
+  {
+    "id": "414384",
     "title": "vol.016 ch.080",
     "language": "en",
     "scanlator": "",
@@ -312,7 +560,15 @@
     "number": "080"
   },
   {
-    "id": "295682",
+    "id": "414385",
+    "title": "vol.016 ch.080",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "080"
+  },
+  {
+    "id": "414382",
     "title": "vol.016 ch.079",
     "language": "en",
     "scanlator": "",
@@ -320,7 +576,15 @@
     "number": "079"
   },
   {
-    "id": "295681",
+    "id": "414383",
+    "title": "vol.016 ch.079",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "079"
+  },
+  {
+    "id": "414380",
     "title": "vol.016 ch.078",
     "language": "en",
     "scanlator": "",
@@ -328,7 +592,15 @@
     "number": "078"
   },
   {
-    "id": "295680",
+    "id": "414381",
+    "title": "vol.016 ch.078",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "078"
+  },
+  {
+    "id": "414378",
     "title": "vol.016 ch.077",
     "language": "en",
     "scanlator": "",
@@ -336,7 +608,15 @@
     "number": "077"
   },
   {
-    "id": "295678",
+    "id": "414379",
+    "title": "vol.016 ch.077",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "077"
+  },
+  {
+    "id": "414377",
     "title": "vol.016 ch.076",
     "language": "en",
     "scanlator": "",
@@ -344,7 +624,7 @@
     "number": "076"
   },
   {
-    "id": "295677",
+    "id": "414376",
     "title": "vol.015 ch.075",
     "language": "en",
     "scanlator": "",
@@ -352,7 +632,15 @@
     "number": "075"
   },
   {
-    "id": "295675",
+    "id": "414375",
+    "title": "vol.015 ch.075",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "075"
+  },
+  {
+    "id": "414373",
     "title": "vol.015 ch.074",
     "language": "en",
     "scanlator": "",
@@ -360,7 +648,15 @@
     "number": "074"
   },
   {
-    "id": "295673",
+    "id": "414374",
+    "title": "vol.015 ch.074",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "074"
+  },
+  {
+    "id": "414371",
     "title": "vol.015 ch.073",
     "language": "en",
     "scanlator": "",
@@ -368,7 +664,15 @@
     "number": "073"
   },
   {
-    "id": "295672",
+    "id": "414372",
+    "title": "vol.015 ch.073",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "073"
+  },
+  {
+    "id": "414369",
     "title": "vol.015 ch.072",
     "language": "en",
     "scanlator": "",
@@ -376,7 +680,15 @@
     "number": "072"
   },
   {
-    "id": "295671",
+    "id": "414370",
+    "title": "vol.015 ch.072",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "072"
+  },
+  {
+    "id": "414367",
     "title": "vol.015 ch.071",
     "language": "en",
     "scanlator": "",
@@ -384,7 +696,15 @@
     "number": "071"
   },
   {
-    "id": "295669",
+    "id": "414368",
+    "title": "vol.015 ch.071",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "071"
+  },
+  {
+    "id": "414365",
     "title": "vol.014 ch.070",
     "language": "en",
     "scanlator": "",
@@ -392,7 +712,15 @@
     "number": "070"
   },
   {
-    "id": "295668",
+    "id": "414366",
+    "title": "vol.014 ch.070",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "070"
+  },
+  {
+    "id": "414363",
     "title": "vol.014 ch.069",
     "language": "en",
     "scanlator": "",
@@ -400,7 +728,15 @@
     "number": "069"
   },
   {
-    "id": "295667",
+    "id": "414364",
+    "title": "vol.014 ch.069",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "069"
+  },
+  {
+    "id": "414361",
     "title": "vol.014 ch.068",
     "language": "en",
     "scanlator": "",
@@ -408,7 +744,15 @@
     "number": "068"
   },
   {
-    "id": "295665",
+    "id": "414362",
+    "title": "vol.014 ch.068",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "068"
+  },
+  {
+    "id": "414359",
     "title": "vol.014 ch.067",
     "language": "en",
     "scanlator": "",
@@ -416,7 +760,15 @@
     "number": "067"
   },
   {
-    "id": "295664",
+    "id": "414360",
+    "title": "vol.014 ch.067",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "067"
+  },
+  {
+    "id": "414357",
     "title": "vol.014 ch.066",
     "language": "en",
     "scanlator": "",
@@ -424,15 +776,15 @@
     "number": "066"
   },
   {
-    "id": "295663",
-    "title": "vol.014 ch.014",
+    "id": "414358",
+    "title": "vol.014 ch.066",
     "language": "en",
     "scanlator": "",
     "volume": "014",
-    "number": "014"
+    "number": "066"
   },
   {
-    "id": "295661",
+    "id": "414355",
     "title": "vol.013 ch.065",
     "language": "en",
     "scanlator": "",
@@ -440,7 +792,15 @@
     "number": "065"
   },
   {
-    "id": "295660",
+    "id": "414356",
+    "title": "vol.013 ch.065",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "065"
+  },
+  {
+    "id": "414353",
     "title": "vol.013 ch.064",
     "language": "en",
     "scanlator": "",
@@ -448,7 +808,15 @@
     "number": "064"
   },
   {
-    "id": "295659",
+    "id": "414354",
+    "title": "vol.013 ch.064",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "064"
+  },
+  {
+    "id": "414351",
     "title": "vol.013 ch.063",
     "language": "en",
     "scanlator": "",
@@ -456,7 +824,15 @@
     "number": "063"
   },
   {
-    "id": "295658",
+    "id": "414352",
+    "title": "vol.013 ch.063",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "063"
+  },
+  {
+    "id": "414349",
     "title": "vol.013 ch.062",
     "language": "en",
     "scanlator": "",
@@ -464,7 +840,15 @@
     "number": "062"
   },
   {
-    "id": "295657",
+    "id": "414350",
+    "title": "vol.013 ch.062",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "062"
+  },
+  {
+    "id": "414347",
     "title": "vol.013 ch.061",
     "language": "en",
     "scanlator": "",
@@ -472,7 +856,15 @@
     "number": "061"
   },
   {
-    "id": "295656",
+    "id": "414348",
+    "title": "vol.013 ch.061",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "061"
+  },
+  {
+    "id": "414345",
     "title": "vol.012 ch.060",
     "language": "en",
     "scanlator": "",
@@ -480,7 +872,15 @@
     "number": "060"
   },
   {
-    "id": "295655",
+    "id": "414346",
+    "title": "vol.012 ch.060",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "060"
+  },
+  {
+    "id": "414343",
     "title": "vol.012 ch.059",
     "language": "en",
     "scanlator": "",
@@ -488,7 +888,15 @@
     "number": "059"
   },
   {
-    "id": "295654",
+    "id": "414344",
+    "title": "vol.012 ch.059",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "059"
+  },
+  {
+    "id": "414341",
     "title": "vol.012 ch.058",
     "language": "en",
     "scanlator": "",
@@ -496,7 +904,15 @@
     "number": "058"
   },
   {
-    "id": "295653",
+    "id": "414342",
+    "title": "vol.012 ch.058",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "058"
+  },
+  {
+    "id": "414339",
     "title": "vol.012 ch.057",
     "language": "en",
     "scanlator": "",
@@ -504,7 +920,15 @@
     "number": "057"
   },
   {
-    "id": "295652",
+    "id": "414340",
+    "title": "vol.012 ch.057",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "057"
+  },
+  {
+    "id": "414338",
     "title": "vol.012 ch.056",
     "language": "en",
     "scanlator": "",
@@ -512,7 +936,7 @@
     "number": "056"
   },
   {
-    "id": "295651",
+    "id": "414336",
     "title": "vol.011 ch.055",
     "language": "en",
     "scanlator": "",
@@ -520,7 +944,15 @@
     "number": "055"
   },
   {
-    "id": "295650",
+    "id": "414337",
+    "title": "vol.011 ch.055",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "055"
+  },
+  {
+    "id": "414334",
     "title": "vol.011 ch.054",
     "language": "en",
     "scanlator": "",
@@ -528,7 +960,15 @@
     "number": "054"
   },
   {
-    "id": "295649",
+    "id": "414335",
+    "title": "vol.011 ch.054",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "054"
+  },
+  {
+    "id": "414332",
     "title": "vol.011 ch.053",
     "language": "en",
     "scanlator": "",
@@ -536,7 +976,15 @@
     "number": "053"
   },
   {
-    "id": "295648",
+    "id": "414333",
+    "title": "vol.011 ch.053",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "053"
+  },
+  {
+    "id": "414330",
     "title": "vol.011 ch.052",
     "language": "en",
     "scanlator": "",
@@ -544,7 +992,15 @@
     "number": "052"
   },
   {
-    "id": "295646",
+    "id": "414331",
+    "title": "vol.011 ch.052",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "052"
+  },
+  {
+    "id": "414328",
     "title": "vol.011 ch.051",
     "language": "en",
     "scanlator": "",
@@ -552,7 +1008,15 @@
     "number": "051"
   },
   {
-    "id": "295645",
+    "id": "414329",
+    "title": "vol.011 ch.051",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "051"
+  },
+  {
+    "id": "414327",
     "title": "vol.010 ch.050",
     "language": "en",
     "scanlator": "",
@@ -560,7 +1024,7 @@
     "number": "050"
   },
   {
-    "id": "295643",
+    "id": "414326",
     "title": "vol.010 ch.049",
     "language": "en",
     "scanlator": "",
@@ -568,7 +1032,7 @@
     "number": "049"
   },
   {
-    "id": "295642",
+    "id": "414325",
     "title": "vol.010 ch.048",
     "language": "en",
     "scanlator": "",
@@ -576,7 +1040,7 @@
     "number": "048"
   },
   {
-    "id": "295640",
+    "id": "414324",
     "title": "vol.010 ch.047",
     "language": "en",
     "scanlator": "",
@@ -584,7 +1048,7 @@
     "number": "047"
   },
   {
-    "id": "295639",
+    "id": "414323",
     "title": "vol.010 ch.046",
     "language": "en",
     "scanlator": "",
@@ -592,7 +1056,7 @@
     "number": "046"
   },
   {
-    "id": "295637",
+    "id": "414322",
     "title": "vol.009 ch.045",
     "language": "en",
     "scanlator": "",
@@ -600,7 +1064,7 @@
     "number": "045"
   },
   {
-    "id": "295636",
+    "id": "414321",
     "title": "vol.009 ch.044",
     "language": "en",
     "scanlator": "",
@@ -608,7 +1072,7 @@
     "number": "044"
   },
   {
-    "id": "295635",
+    "id": "414320",
     "title": "vol.009 ch.043",
     "language": "en",
     "scanlator": "",
@@ -616,7 +1080,7 @@
     "number": "043"
   },
   {
-    "id": "295634",
+    "id": "414319",
     "title": "vol.009 ch.042",
     "language": "en",
     "scanlator": "",
@@ -624,7 +1088,7 @@
     "number": "042"
   },
   {
-    "id": "295633",
+    "id": "414318",
     "title": "vol.009 ch.041",
     "language": "en",
     "scanlator": "",
@@ -632,7 +1096,7 @@
     "number": "041"
   },
   {
-    "id": "295632",
+    "id": "414317",
     "title": "vol.008 ch.040",
     "language": "en",
     "scanlator": "",
@@ -640,7 +1104,7 @@
     "number": "040"
   },
   {
-    "id": "295631",
+    "id": "414316",
     "title": "vol.008 ch.039",
     "language": "en",
     "scanlator": "",
@@ -648,7 +1112,7 @@
     "number": "039"
   },
   {
-    "id": "295630",
+    "id": "414315",
     "title": "vol.008 ch.038",
     "language": "en",
     "scanlator": "",
@@ -656,7 +1120,7 @@
     "number": "038"
   },
   {
-    "id": "295629",
+    "id": "414314",
     "title": "vol.008 ch.037",
     "language": "en",
     "scanlator": "",
@@ -664,7 +1128,7 @@
     "number": "037"
   },
   {
-    "id": "295628",
+    "id": "414313",
     "title": "vol.008 ch.036",
     "language": "en",
     "scanlator": "",
@@ -672,7 +1136,7 @@
     "number": "036"
   },
   {
-    "id": "295627",
+    "id": "414312",
     "title": "vol.007 ch.035",
     "language": "en",
     "scanlator": "",
@@ -680,7 +1144,7 @@
     "number": "035"
   },
   {
-    "id": "295626",
+    "id": "414311",
     "title": "vol.007 ch.034",
     "language": "en",
     "scanlator": "",
@@ -688,7 +1152,7 @@
     "number": "034"
   },
   {
-    "id": "295625",
+    "id": "414310",
     "title": "vol.007 ch.033",
     "language": "en",
     "scanlator": "",
@@ -696,7 +1160,7 @@
     "number": "033"
   },
   {
-    "id": "295624",
+    "id": "414309",
     "title": "vol.007 ch.032",
     "language": "en",
     "scanlator": "",
@@ -704,7 +1168,7 @@
     "number": "032"
   },
   {
-    "id": "295623",
+    "id": "414308",
     "title": "vol.007 ch.031",
     "language": "en",
     "scanlator": "",
@@ -712,39 +1176,15 @@
     "number": "031"
   },
   {
-    "id": "295622",
-    "title": "vol.006 ch.000",
-    "language": "en",
-    "scanlator": "",
-    "volume": "006",
-    "number": "000"
-  },
-  {
-    "id": "295621",
-    "title": "vol.005 ch.000",
-    "language": "en",
-    "scanlator": "",
-    "volume": "005",
-    "number": "000"
-  },
-  {
-    "id": "295620",
-    "title": "vol.004 ch.000",
-    "language": "en",
-    "scanlator": "",
-    "volume": "004",
-    "number": "000"
-  },
-  {
-    "id": "295619",
-    "title": "vol.003 ch.000",
+    "id": "414307",
+    "title": "vol.003 ch.014",
     "language": "en",
     "scanlator": "",
     "volume": "003",
-    "number": "000"
+    "number": "014"
   },
   {
-    "id": "295618",
+    "id": "414306",
     "title": "vol.002 ch.010",
     "language": "en",
     "scanlator": "",
@@ -752,7 +1192,7 @@
     "number": "010"
   },
   {
-    "id": "295617",
+    "id": "414305",
     "title": "vol.002 ch.009",
     "language": "en",
     "scanlator": "",
@@ -760,7 +1200,7 @@
     "number": "009"
   },
   {
-    "id": "295616",
+    "id": "414304",
     "title": "vol.002 ch.008",
     "language": "en",
     "scanlator": "",
@@ -768,7 +1208,7 @@
     "number": "008"
   },
   {
-    "id": "295615",
+    "id": "414303",
     "title": "vol.002 ch.007",
     "language": "en",
     "scanlator": "",
@@ -776,7 +1216,7 @@
     "number": "007"
   },
   {
-    "id": "295614",
+    "id": "414302",
     "title": "vol.002 ch.006",
     "language": "en",
     "scanlator": "",
@@ -784,7 +1224,7 @@
     "number": "006"
   },
   {
-    "id": "295613",
+    "id": "414301",
     "title": "vol.001 ch.005",
     "language": "en",
     "scanlator": "",
@@ -792,7 +1232,7 @@
     "number": "005"
   },
   {
-    "id": "295612",
+    "id": "414300",
     "title": "vol.001 ch.004",
     "language": "en",
     "scanlator": "",
@@ -800,7 +1240,7 @@
     "number": "004"
   },
   {
-    "id": "295611",
+    "id": "414299",
     "title": "vol.001 ch.003",
     "language": "en",
     "scanlator": "",
@@ -808,7 +1248,7 @@
     "number": "003"
   },
   {
-    "id": "295610",
+    "id": "414298",
     "title": "vol.001 ch.002",
     "language": "en",
     "scanlator": "",
@@ -816,7 +1256,7 @@
     "number": "002"
   },
   {
-    "id": "295609",
+    "id": "414297",
     "title": "vol.001 ch.001",
     "language": "en",
     "scanlator": "",
