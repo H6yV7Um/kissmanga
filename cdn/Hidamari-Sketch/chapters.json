@@ -1,11 +1,59 @@
 [
   {
+    "id": "415042",
+    "title": "Vol. 010 Ch.137 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "137"
+  },
+  {
+    "id": "415041",
+    "title": "Vol. 010 Ch.136 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "136"
+  },
+  {
+    "id": "415040",
+    "title": "Vol. 010 Ch.135 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "135"
+  },
+  {
+    "id": "415039",
+    "title": "Vol. 010 Ch.134 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "134"
+  },
+  {
+    "id": "375727",
+    "title": "Ch.133: 2017-008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "133"
+  },
+  {
     "id": "376847",
     "title": "133 - Vol 008 2017-008",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "133"
+  },
+  {
+    "id": "367451",
+    "title": "Ch.132: 2017-004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "132"
   },
   {
     "id": "376846",
@@ -16,12 +64,28 @@
     "number": "132"
   },
   {
+    "id": "345025",
+    "title": "Ch.131: 2017-002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "131"
+  },
+  {
     "id": "376845",
     "title": "131 - Vol 008 2017-002",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "131"
+  },
+  {
+    "id": "340385",
+    "title": "Ch.130: 2017-001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "130"
   },
   {
     "id": "376844",
@@ -32,12 +96,28 @@
     "number": "130"
   },
   {
+    "id": "327258",
+    "title": "Ch.129: 2016-011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "129"
+  },
+  {
     "id": "376843",
     "title": "129 - Vol 008 2016-011",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "129"
+  },
+  {
+    "id": "322252",
+    "title": "Ch.128: 2016-001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "128"
   },
   {
     "id": "376842",
@@ -56,12 +136,36 @@
     "number": "127"
   },
   {
+    "id": "311655",
+    "title": "Ch.127 : 2016-009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "127"
+  },
+  {
+    "id": "301038",
+    "title": "Ch.126: 2016-007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "126"
+  },
+  {
     "id": "376840",
     "title": "126 - Vol 008 2016-007",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "126"
+  },
+  {
+    "id": "298373",
+    "title": "Ch.125: 2016-006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "125"
   },
   {
     "id": "376839",
@@ -72,12 +176,28 @@
     "number": "125"
   },
   {
+    "id": "298369",
+    "title": "Ch.124: 2016-004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "124"
+  },
+  {
     "id": "376838",
     "title": "124 - Vol 008 2016-004",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "124"
+  },
+  {
+    "id": "298365",
+    "title": "Ch.123: 2016-002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "123"
   },
   {
     "id": "376837",
@@ -88,12 +208,28 @@
     "number": "123"
   },
   {
+    "id": "298362",
+    "title": "Ch.122: 2016-001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "122"
+  },
+  {
     "id": "376836",
     "title": "122 - Vol 008 2016-001",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "122"
+  },
+  {
+    "id": "298357",
+    "title": "Ch.121: 2015-012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "121"
   },
   {
     "id": "376835",
@@ -112,12 +248,36 @@
     "number": "120"
   },
   {
+    "id": "298351",
+    "title": "Ch.120",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "120"
+  },
+  {
+    "id": "298347",
+    "title": "Ch.119: 2015-010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "119"
+  },
+  {
     "id": "376833",
     "title": "119 - Vol 008 2015-010",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "119"
+  },
+  {
+    "id": "298343",
+    "title": "Ch.118: 2015-008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "118"
   },
   {
     "id": "376832",
@@ -128,12 +288,28 @@
     "number": "118"
   },
   {
+    "id": "298341",
+    "title": "Ch.117: 2015-007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "117"
+  },
+  {
     "id": "376831",
     "title": "117 - Vol 008 2015-007",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "117"
+  },
+  {
+    "id": "298336",
+    "title": "Ch.116: 2015-005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "116"
   },
   {
     "id": "376830",
@@ -144,12 +320,28 @@
     "number": "116"
   },
   {
+    "id": "298334",
+    "title": "Ch.115: 2015-004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "115"
+  },
+  {
     "id": "376829",
     "title": "115 - Vol 008 2015-004",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "115"
+  },
+  {
+    "id": "298330",
+    "title": "Ch.114: 2015-002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "114"
   },
   {
     "id": "376828",
@@ -160,12 +352,28 @@
     "number": "114"
   },
   {
+    "id": "298325",
+    "title": "Ch.113: 2015-001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "113"
+  },
+  {
     "id": "376827",
     "title": "113 - Vol 008 2015-001",
     "language": "en",
     "scanlator": "",
     "volume": "008",
     "number": "113"
+  },
+  {
+    "id": "298320",
+    "title": "Ch.112: 2014-012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "112"
   },
   {
     "id": "376826",
@@ -894,181 +1102,5 @@
     "scanlator": "",
     "volume": "001",
     "number": "000"
-  },
-  {
-    "id": "375727",
-    "title": "Ch.133: 2017-008",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "133"
-  },
-  {
-    "id": "367451",
-    "title": "Ch.132: 2017-004",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "132"
-  },
-  {
-    "id": "345025",
-    "title": "Ch.131: 2017-002",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "131"
-  },
-  {
-    "id": "340385",
-    "title": "Ch.130: 2017-001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "130"
-  },
-  {
-    "id": "327258",
-    "title": "Ch.129: 2016-011",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "129"
-  },
-  {
-    "id": "322252",
-    "title": "Ch.128: 2016-001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "128"
-  },
-  {
-    "id": "311655",
-    "title": "Ch.127 : 2016-009",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "127"
-  },
-  {
-    "id": "301038",
-    "title": "Ch.126: 2016-007",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "126"
-  },
-  {
-    "id": "298373",
-    "title": "Ch.125: 2016-006",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "125"
-  },
-  {
-    "id": "298369",
-    "title": "Ch.124: 2016-004",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "124"
-  },
-  {
-    "id": "298365",
-    "title": "Ch.123: 2016-002",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "123"
-  },
-  {
-    "id": "298362",
-    "title": "Ch.122: 2016-001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "122"
-  },
-  {
-    "id": "298357",
-    "title": "Ch.121: 2015-012",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "121"
-  },
-  {
-    "id": "298351",
-    "title": "Ch.120",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "120"
-  },
-  {
-    "id": "298347",
-    "title": "Ch.119: 2015-010",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "119"
-  },
-  {
-    "id": "298343",
-    "title": "Ch.118: 2015-008",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "118"
-  },
-  {
-    "id": "298341",
-    "title": "Ch.117: 2015-007",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "117"
-  },
-  {
-    "id": "298336",
-    "title": "Ch.116: 2015-005",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "116"
-  },
-  {
-    "id": "298334",
-    "title": "Ch.115: 2015-004",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "115"
-  },
-  {
-    "id": "298330",
-    "title": "Ch.114: 2015-002",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "114"
-  },
-  {
-    "id": "298325",
-    "title": "Ch.113: 2015-001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "113"
-  },
-  {
-    "id": "298320",
-    "title": "Ch.112: 2014-012",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "112"
   }
 ]
