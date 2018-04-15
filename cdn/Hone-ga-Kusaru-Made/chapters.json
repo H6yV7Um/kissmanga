@@ -1,7 +1,103 @@
 [
   {
+    "id": "415498",
+    "title": "070",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "415497",
+    "title": "069",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "415496",
+    "title": "068",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "415495",
+    "title": "067",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "415494",
+    "title": "066",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "415493",
+    "title": "065",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "415492",
+    "title": "064",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "415491",
+    "title": "063",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "415490",
+    "title": "062",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "415489",
+    "title": "061",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "415488",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "415487",
+    "title": "059",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
     "id": "410207",
-    "title": "Night 058",
+    "title": "058",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +105,7 @@
   },
   {
     "id": "410206",
-    "title": "Night 057",
+    "title": "057",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,7 +113,7 @@
   },
   {
     "id": "410205",
-    "title": "Night 056",
+    "title": "056",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -25,7 +121,7 @@
   },
   {
     "id": "410204",
-    "title": "Night 055",
+    "title": "055",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +129,7 @@
   },
   {
     "id": "410203",
-    "title": "Night 054",
+    "title": "054",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +137,7 @@
   },
   {
     "id": "410202",
-    "title": "Night 053",
+    "title": "053",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +145,7 @@
   },
   {
     "id": "410201",
-    "title": "Night 052",
+    "title": "052",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +153,7 @@
   },
   {
     "id": "410200",
-    "title": "Night 051",
+    "title": "051",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +161,7 @@
   },
   {
     "id": "410199",
-    "title": "Night 050",
+    "title": "050",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +169,7 @@
   },
   {
     "id": "410198",
-    "title": "Night 049",
+    "title": "049",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -81,7 +177,7 @@
   },
   {
     "id": "410197",
-    "title": "Night 048",
+    "title": "048",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -89,7 +185,7 @@
   },
   {
     "id": "410196",
-    "title": "Night 047",
+    "title": "047",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -97,7 +193,7 @@
   },
   {
     "id": "409704",
-    "title": "Night 046",
+    "title": "046",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -105,7 +201,7 @@
   },
   {
     "id": "409703",
-    "title": "Night 045",
+    "title": "045",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -113,7 +209,7 @@
   },
   {
     "id": "409701",
-    "title": "Night 044.005",
+    "title": "044.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -121,7 +217,7 @@
   },
   {
     "id": "409700",
-    "title": "Night 044",
+    "title": "044",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -129,7 +225,7 @@
   },
   {
     "id": "409699",
-    "title": "Night 043",
+    "title": "043",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -137,7 +233,7 @@
   },
   {
     "id": "409698",
-    "title": "Night 042",
+    "title": "042",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -145,7 +241,7 @@
   },
   {
     "id": "409697",
-    "title": "Night 041",
+    "title": "041",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -153,7 +249,7 @@
   },
   {
     "id": "409696",
-    "title": "Night 040",
+    "title": "040",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -161,7 +257,7 @@
   },
   {
     "id": "409695",
-    "title": "Night 039",
+    "title": "039",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -169,7 +265,7 @@
   },
   {
     "id": "409694",
-    "title": "Night 038",
+    "title": "038",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -177,7 +273,7 @@
   },
   {
     "id": "409693",
-    "title": "Night 037",
+    "title": "037",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -185,7 +281,7 @@
   },
   {
     "id": "409692",
-    "title": "Night 036",
+    "title": "036",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -193,7 +289,7 @@
   },
   {
     "id": "409691",
-    "title": "Night 035",
+    "title": "035",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -201,7 +297,7 @@
   },
   {
     "id": "409690",
-    "title": "Night 034",
+    "title": "034",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -209,7 +305,7 @@
   },
   {
     "id": "409689",
-    "title": "Night 033",
+    "title": "033",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -217,7 +313,7 @@
   },
   {
     "id": "409688",
-    "title": "Night 032",
+    "title": "032",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -225,7 +321,7 @@
   },
   {
     "id": "409687",
-    "title": "Night 031",
+    "title": "031",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -233,7 +329,7 @@
   },
   {
     "id": "409686",
-    "title": "Night 030",
+    "title": "030",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -241,7 +337,7 @@
   },
   {
     "id": "409685",
-    "title": "Night 029",
+    "title": "029",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -249,7 +345,7 @@
   },
   {
     "id": "409684",
-    "title": "Night 028",
+    "title": "028",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -257,7 +353,7 @@
   },
   {
     "id": "409683",
-    "title": "Night 027.005",
+    "title": "027.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -265,7 +361,7 @@
   },
   {
     "id": "409682",
-    "title": "Night 027",
+    "title": "027",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -273,7 +369,7 @@
   },
   {
     "id": "409681",
-    "title": "Night 026",
+    "title": "026",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -281,7 +377,7 @@
   },
   {
     "id": "409680",
-    "title": "Night 025",
+    "title": "025",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -289,7 +385,7 @@
   },
   {
     "id": "409679",
-    "title": "Night 024",
+    "title": "024",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -297,7 +393,7 @@
   },
   {
     "id": "409677",
-    "title": "Night 023",
+    "title": "023",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -305,7 +401,7 @@
   },
   {
     "id": "409676",
-    "title": "Night 022",
+    "title": "022",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -313,7 +409,7 @@
   },
   {
     "id": "409675",
-    "title": "Night 021",
+    "title": "021",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -321,7 +417,7 @@
   },
   {
     "id": "409674",
-    "title": "Night 020",
+    "title": "020",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -329,7 +425,7 @@
   },
   {
     "id": "409673",
-    "title": "Night 019",
+    "title": "019",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -337,7 +433,7 @@
   },
   {
     "id": "409672",
-    "title": "Night 018",
+    "title": "018",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -345,7 +441,7 @@
   },
   {
     "id": "409671",
-    "title": "Night 017",
+    "title": "017",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -353,7 +449,7 @@
   },
   {
     "id": "409670",
-    "title": "Night 016",
+    "title": "016",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -361,7 +457,7 @@
   },
   {
     "id": "409669",
-    "title": "Night 015",
+    "title": "015",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -369,7 +465,7 @@
   },
   {
     "id": "409668",
-    "title": "Night 014",
+    "title": "014",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -377,7 +473,7 @@
   },
   {
     "id": "409667",
-    "title": "Night 013",
+    "title": "013",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -385,7 +481,7 @@
   },
   {
     "id": "409666",
-    "title": "Night 012",
+    "title": "012",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -393,7 +489,7 @@
   },
   {
     "id": "409665",
-    "title": "Night 011",
+    "title": "011",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -401,7 +497,7 @@
   },
   {
     "id": "409664",
-    "title": "Night 010",
+    "title": "010",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -409,7 +505,7 @@
   },
   {
     "id": "409663",
-    "title": "Night 009",
+    "title": "009",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -417,7 +513,7 @@
   },
   {
     "id": "409662",
-    "title": "Night 008",
+    "title": "008",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -425,7 +521,7 @@
   },
   {
     "id": "409661",
-    "title": "Night 007",
+    "title": "007",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -433,7 +529,7 @@
   },
   {
     "id": "409660",
-    "title": "Night 006",
+    "title": "006",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -441,7 +537,7 @@
   },
   {
     "id": "409659",
-    "title": "Night 005",
+    "title": "005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -449,7 +545,7 @@
   },
   {
     "id": "409658",
-    "title": "Night 004",
+    "title": "004",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -457,7 +553,7 @@
   },
   {
     "id": "409657",
-    "title": "Night 003",
+    "title": "003",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -465,7 +561,7 @@
   },
   {
     "id": "409656",
-    "title": "Night 002",
+    "title": "002",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -473,7 +569,7 @@
   },
   {
     "id": "409655",
-    "title": "Night 001",
+    "title": "001",
     "language": "en",
     "scanlator": "",
     "volume": null,
