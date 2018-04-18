@@ -1,42 +1,50 @@
 [
   {
-    "id": "412477",
-    "title": "Art Book",
+    "id": "416148",
+    "title": "Chapter 159",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": null
+    "number": "159"
+  },
+  {
+    "id": "416147",
+    "title": "Chapter 158",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "158"
   },
   {
     "id": "409264",
-    "title": "Vol. 026 Ch.157 - Could it be…",
+    "title": "Ch.157 - Could it be…",
     "language": "en",
     "scanlator": "",
-    "volume": "026",
+    "volume": null,
     "number": "157"
   },
   {
     "id": "406065",
-    "title": "Vol. 026 Ch.156 - Questioning about “the Eye”",
+    "title": "Ch.156 - Questioning about “the Eye”",
     "language": "en",
     "scanlator": "",
-    "volume": "026",
+    "volume": null,
     "number": "156"
   },
   {
     "id": "403929",
-    "title": "Vol. 026 Ch.155 - Reading the Mind",
+    "title": "Ch.155 - Reading the Mind",
     "language": "en",
     "scanlator": "",
-    "volume": "026",
+    "volume": null,
     "number": "155"
   },
   {
     "id": "402158",
-    "title": "Vol. 026 Ch.154 - Grown a Little",
+    "title": "Ch.154 - Grown a Little",
     "language": "en",
     "scanlator": "",
-    "volume": "026",
+    "volume": null,
     "number": "154"
   },
   {
@@ -49,74 +57,74 @@
   },
   {
     "id": "365830",
-    "title": "Vol.025 Ch.152: Reunion",
+    "title": "Ch.152: Reunion",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "152"
   },
   {
     "id": "364940",
-    "title": "Vol.025 Ch.151: Returning Home",
+    "title": "Ch.151: Returning Home",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "151"
   },
   {
     "id": "359400",
-    "title": "Vol.025 Ch.150: Playing Around",
+    "title": "Ch.150: Playing Around",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "150"
   },
   {
     "id": "341746",
-    "title": "Vol.025 Ch.149: Reborn Anew",
+    "title": "Ch.149: Reborn Anew",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "149"
   },
   {
     "id": "323775",
-    "title": "Vol.025 Ch.148: A Misbehaving Child",
+    "title": "Ch.148: A Misbehaving Child",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "148"
   },
   {
     "id": "322661",
-    "title": "Vol.025 Ch.147: Reaching You",
+    "title": "Ch.147: Reaching You",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "147"
   },
   {
     "id": "312318",
-    "title": "Vol.025 Ch.146: Chase After",
+    "title": "Ch.146: Chase After",
     "language": "en",
     "scanlator": "",
-    "volume": "025",
+    "volume": null,
     "number": "146"
   },
   {
     "id": "262982",
-    "title": "Vol.024 Ch.145",
+    "title": "Ch.145",
     "language": "en",
     "scanlator": "",
-    "volume": "024",
+    "volume": null,
     "number": "145"
   },
   {
     "id": "262981",
-    "title": "Vol.024 Ch.144",
+    "title": "Ch.144",
     "language": "en",
     "scanlator": "",
-    "volume": "024",
+    "volume": null,
     "number": "144"
   },
   {
@@ -1262,5 +1270,13 @@
     "scanlator": "",
     "volume": null,
     "number": "001"
+  },
+  {
+    "id": "412477",
+    "title": "_Art Book",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
   }
 ]
