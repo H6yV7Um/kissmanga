@@ -1,5 +1,13 @@
 [
   {
+    "id": "416818",
+    "title": "[Season 003] Ep. 051 - Your seven years (006)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
     "id": "415788",
     "title": "[Season 003] Ep. 050 - Your seven years (005)",
     "language": "en",
@@ -488,14 +496,6 @@
     "number": null
   },
   {
-    "id": "271158",
-    "title": "[Season 1 + 2] 275 - Loser (008)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
     "id": "373863",
     "title": "[Season 1 + 2] 275 - Loser (008)",
     "language": "en",
@@ -504,8 +504,8 @@
     "number": null
   },
   {
-    "id": "269578",
-    "title": "[Season 1 + 2] 274 - Loser (007)",
+    "id": "271158",
+    "title": "[Season 1 + 2] 275 - Loser (008)",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -513,6 +513,14 @@
   },
   {
     "id": "373862",
+    "title": "[Season 1 + 2] 274 - Loser (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "269578",
     "title": "[Season 1 + 2] 274 - Loser (007)",
     "language": "en",
     "scanlator": "",
