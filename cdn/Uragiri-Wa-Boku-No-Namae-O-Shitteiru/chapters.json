@@ -1,7 +1,103 @@
 [
   {
+    "id": "417363",
+    "title": "Vol. 013 Ch.059 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "059"
+  },
+  {
+    "id": "417362",
+    "title": "Vol. 013 Ch.058 - The Day I Died",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "058"
+  },
+  {
+    "id": "417361",
+    "title": "Vol. 013 Ch.057 - The Direction of Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "057"
+  },
+  {
+    "id": "417360",
+    "title": "Vol. 012 Ch.056 - Every Night",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "056"
+  },
+  {
+    "id": "417359",
+    "title": "Vol. 012 Ch.055.006 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "055.006"
+  },
+  {
+    "id": "417358",
+    "title": "Vol. 012 Ch.055.005 - Special Short:To Aru no Jikenbo",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "055.005"
+  },
+  {
+    "id": "417355",
+    "title": "Vol. 012 Ch.055 - Revival and Choice",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "055"
+  },
+  {
+    "id": "417401",
+    "title": "Vol. 011 Ch.052 - God's Command",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "052"
+  },
+  {
+    "id": "417350",
+    "title": "Vol. 011 Ch.051 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "051"
+  },
+  {
+    "id": "417345",
+    "title": "Vol. 011 Ch.050 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "050"
+  },
+  {
+    "id": "417341",
+    "title": "Vol. 011 Ch.049 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "049"
+  },
+  {
+    "id": "417338",
+    "title": "Vol. 010 Ch.048 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "048"
+  },
+  {
     "id": "351716",
-    "title": "Story 047",
+    "title": "047",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +105,7 @@
   },
   {
     "id": "351714",
-    "title": "Story 046",
+    "title": "046",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,7 +113,7 @@
   },
   {
     "id": "351712",
-    "title": "Story 045",
+    "title": "045",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -25,7 +121,7 @@
   },
   {
     "id": "351710",
-    "title": "Story 044",
+    "title": "044",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +129,7 @@
   },
   {
     "id": "351708",
-    "title": "Story 043",
+    "title": "043",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +137,7 @@
   },
   {
     "id": "351706",
-    "title": "Story 042",
+    "title": "042",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +145,7 @@
   },
   {
     "id": "351704",
-    "title": "Story 041",
+    "title": "041",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +153,7 @@
   },
   {
     "id": "351701",
-    "title": "Story 040",
+    "title": "040",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +161,7 @@
   },
   {
     "id": "351699",
-    "title": "Story 039",
+    "title": "039",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +169,7 @@
   },
   {
     "id": "351697",
-    "title": "Story 038",
+    "title": "038",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -81,7 +177,7 @@
   },
   {
     "id": "351695",
-    "title": "Story 037.005",
+    "title": "037.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -89,7 +185,7 @@
   },
   {
     "id": "351693",
-    "title": "Story 037",
+    "title": "037",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -97,7 +193,7 @@
   },
   {
     "id": "351692",
-    "title": "Story 036",
+    "title": "036",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -105,7 +201,7 @@
   },
   {
     "id": "351690",
-    "title": "Story 035",
+    "title": "035",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -113,7 +209,7 @@
   },
   {
     "id": "351688",
-    "title": "Story 034",
+    "title": "034",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -121,7 +217,7 @@
   },
   {
     "id": "351686",
-    "title": "Story 033",
+    "title": "033",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -129,7 +225,7 @@
   },
   {
     "id": "351684",
-    "title": "Story 032",
+    "title": "032",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -137,7 +233,7 @@
   },
   {
     "id": "351682",
-    "title": "Story 031",
+    "title": "031",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -145,7 +241,7 @@
   },
   {
     "id": "351679",
-    "title": "Story 030",
+    "title": "030",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -153,7 +249,7 @@
   },
   {
     "id": "351677",
-    "title": "Story 029",
+    "title": "029",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -161,7 +257,7 @@
   },
   {
     "id": "351675",
-    "title": "Story 028",
+    "title": "028",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -169,7 +265,7 @@
   },
   {
     "id": "351673",
-    "title": "Story 027",
+    "title": "027",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -177,7 +273,7 @@
   },
   {
     "id": "351672",
-    "title": "Story 026",
+    "title": "026",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -185,7 +281,7 @@
   },
   {
     "id": "351670",
-    "title": "Story 025",
+    "title": "025",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -193,7 +289,7 @@
   },
   {
     "id": "351669",
-    "title": "Story 024",
+    "title": "024",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -201,7 +297,7 @@
   },
   {
     "id": "351668",
-    "title": "Story 023",
+    "title": "023",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -209,7 +305,7 @@
   },
   {
     "id": "351666",
-    "title": "Story 022",
+    "title": "022",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -217,7 +313,7 @@
   },
   {
     "id": "351664",
-    "title": "Story 021.005",
+    "title": "021.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -225,7 +321,7 @@
   },
   {
     "id": "351662",
-    "title": "Story 021",
+    "title": "021",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -233,7 +329,7 @@
   },
   {
     "id": "351660",
-    "title": "Story 020.005",
+    "title": "020.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -241,7 +337,7 @@
   },
   {
     "id": "351658",
-    "title": "Story 020",
+    "title": "020",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -249,7 +345,7 @@
   },
   {
     "id": "351656",
-    "title": "Story 019",
+    "title": "019",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -257,7 +353,7 @@
   },
   {
     "id": "351654",
-    "title": "Story 018",
+    "title": "018",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -265,7 +361,7 @@
   },
   {
     "id": "351652",
-    "title": "Story 017",
+    "title": "017",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -273,7 +369,7 @@
   },
   {
     "id": "351649",
-    "title": "Story 016",
+    "title": "016",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -281,7 +377,7 @@
   },
   {
     "id": "351648",
-    "title": "Story 015",
+    "title": "015",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -289,7 +385,7 @@
   },
   {
     "id": "351646",
-    "title": "Story 014",
+    "title": "014",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -297,7 +393,7 @@
   },
   {
     "id": "351644",
-    "title": "Story 013",
+    "title": "013",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -305,7 +401,7 @@
   },
   {
     "id": "351642",
-    "title": "Story 012",
+    "title": "012",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -313,7 +409,7 @@
   },
   {
     "id": "351640",
-    "title": "Story 011",
+    "title": "011",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -321,7 +417,7 @@
   },
   {
     "id": "351638",
-    "title": "Story 010",
+    "title": "010",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -329,7 +425,7 @@
   },
   {
     "id": "351636",
-    "title": "Story 009",
+    "title": "009",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -337,7 +433,7 @@
   },
   {
     "id": "351635",
-    "title": "Story 008",
+    "title": "008",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -345,7 +441,7 @@
   },
   {
     "id": "351633",
-    "title": "Story 007",
+    "title": "007",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -353,7 +449,7 @@
   },
   {
     "id": "351631",
-    "title": "Story 006",
+    "title": "006",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -361,7 +457,7 @@
   },
   {
     "id": "351628",
-    "title": "Story 005",
+    "title": "005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -369,7 +465,7 @@
   },
   {
     "id": "351626",
-    "title": "Story 004",
+    "title": "004",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -377,7 +473,7 @@
   },
   {
     "id": "351624",
-    "title": "Story 003",
+    "title": "003",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -385,7 +481,7 @@
   },
   {
     "id": "351623",
-    "title": "Story 002",
+    "title": "002",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -393,7 +489,7 @@
   },
   {
     "id": "351621",
-    "title": "Story 001",
+    "title": "001",
     "language": "en",
     "scanlator": "",
     "volume": null,

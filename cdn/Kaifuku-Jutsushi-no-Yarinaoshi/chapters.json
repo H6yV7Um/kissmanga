@@ -1,7 +1,7 @@
 [
   {
     "id": "417153",
-    "title": "Ch.006.002 -",
+    "title": "006.002 -",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +9,7 @@
   },
   {
     "id": "417152",
-    "title": "Ch.006.001 -",
+    "title": "006.001 -",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,15 +17,15 @@
   },
   {
     "id": "417140",
-    "title": "Ch.005.002 -",
+    "title": "005.002 -",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "005.002"
   },
   {
-    "id": "417202",
-    "title": "Chapter 005.001",
+    "id": "417295",
+    "title": "005.001",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +33,7 @@
   },
   {
     "id": "417139",
-    "title": "Ch.004.002 -",
+    "title": "004.002 -",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +41,7 @@
   },
   {
     "id": "417047",
-    "title": "Ch.004.001 - First [Healing]",
+    "title": "004.001 - First [Healing]",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,58 +49,58 @@
   },
   {
     "id": "400203",
-    "title": "Vol.001 Ch.003.002",
+    "title": "003.002",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "003.002"
   },
   {
     "id": "400044",
-    "title": "Vol.001 Ch.003.001",
+    "title": "003.001",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "003.001"
   },
   {
     "id": "395736",
-    "title": "Vol.001 Ch.002.002",
+    "title": "002.002",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "002.002"
   },
   {
     "id": "391208",
-    "title": "Vol.001 Ch.002.001",
+    "title": "002.001",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "002.001"
   },
   {
     "id": "391114",
-    "title": "Vol.001 Ch.001.002",
+    "title": "001.002",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "001.002"
   },
   {
     "id": "389376",
-    "title": "Vol.001 Ch.001.001: Chapter 001.001",
+    "title": "001.001: Chapter 001.001",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "001.001"
   },
   {
     "id": "389375",
-    "title": "Vol.001 Ch.000: Chapter 000",
+    "title": "000: Chapter 000",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
+    "volume": null,
     "number": "000"
   }
 ]
