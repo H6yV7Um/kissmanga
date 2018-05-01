@@ -1,5 +1,13 @@
 [
   {
+    "id": "417921",
+    "title": "[Season 003] Ep. 052 - Your seven years (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
     "id": "416818",
     "title": "[Season 003] Ep. 051 - Your seven years (006)",
     "language": "en",
@@ -496,14 +504,6 @@
     "number": null
   },
   {
-    "id": "373863",
-    "title": "[Season 1 + 2] 275 - Loser (008)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
     "id": "271158",
     "title": "[Season 1 + 2] 275 - Loser (008)",
     "language": "en",
@@ -512,8 +512,8 @@
     "number": null
   },
   {
-    "id": "373862",
-    "title": "[Season 1 + 2] 274 - Loser (007)",
+    "id": "373863",
+    "title": "[Season 1 + 2] 275 - Loser (008)",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -521,6 +521,14 @@
   },
   {
     "id": "269578",
+    "title": "[Season 1 + 2] 274 - Loser (007)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "373862",
     "title": "[Season 1 + 2] 274 - Loser (007)",
     "language": "en",
     "scanlator": "",
@@ -1393,7 +1401,7 @@
   },
   {
     "id": "245158",
-    "title": "[Season 1 + 2] 169 -  Frozen Tears (010)",
+    "title": "[Season 1 + 2] 169 - Frozen Tears (010)",
     "language": "en",
     "scanlator": "",
     "volume": null,

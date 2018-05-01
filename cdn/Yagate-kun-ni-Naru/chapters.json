@@ -1,5 +1,13 @@
 [
   {
+    "id": "417871",
+    "title": "Vol. 006 Ch.031 - Part Two",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "031"
+  },
+  {
     "id": "411991",
     "title": "Vol. 006 Ch.030 - Part One",
     "language": "en",
@@ -288,7 +296,7 @@
     "number": "006"
   },
   {
-    "id": "264394",
+    "id": "261876",
     "title": "Vol.001 Ch.005.006: Toranoana Extra",
     "language": "en",
     "scanlator": "",
@@ -296,7 +304,7 @@
     "number": "005.006"
   },
   {
-    "id": "261876",
+    "id": "264394",
     "title": "Vol.001 Ch.005.006: Toranoana Extra",
     "language": "en",
     "scanlator": "",
@@ -320,14 +328,6 @@
     "number": "005.005"
   },
   {
-    "id": "241222",
-    "title": "Vol.001 Ch.005: My Beloved",
-    "language": "en",
-    "scanlator": "",
-    "volume": "001",
-    "number": "005"
-  },
-  {
     "id": "264311",
     "title": "Vol.001 Ch.005: My Beloved",
     "language": "en",
@@ -336,12 +336,12 @@
     "number": "005"
   },
   {
-    "id": "238404",
-    "title": "Vol.001 Ch.004: Unclear Atmosphere.",
+    "id": "241222",
+    "title": "Vol.001 Ch.005: My Beloved",
     "language": "en",
     "scanlator": "",
     "volume": "001",
-    "number": "004"
+    "number": "005"
   },
   {
     "id": "264309",
@@ -352,7 +352,15 @@
     "number": "004"
   },
   {
-    "id": "264307",
+    "id": "238404",
+    "title": "Vol.001 Ch.004: Unclear Atmosphere.",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "004"
+  },
+  {
+    "id": "237117",
     "title": "Vol.001 Ch.003: My First Experience With Love.",
     "language": "en",
     "scanlator": "",
@@ -360,7 +368,7 @@
     "number": "003"
   },
   {
-    "id": "237117",
+    "id": "264307",
     "title": "Vol.001 Ch.003: My First Experience With Love.",
     "language": "en",
     "scanlator": "",
