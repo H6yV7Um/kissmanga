@@ -1,5 +1,13 @@
 [
   {
+    "id": "418506",
+    "title": "Ch.008 - Seeking The Eight Principles",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
     "id": "415234",
     "title": "Ch.007.005 - Sacred Ground (part 002)",
     "language": "en",
@@ -104,14 +112,6 @@
     "number": "003.001"
   },
   {
-    "id": "407452",
-    "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "003.000"
-  },
-  {
     "id": "404077",
     "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
     "language": "en",
@@ -120,7 +120,15 @@
     "number": "003.000"
   },
   {
-    "id": "407746",
+    "id": "407452",
+    "title": "Ch.003.000 - Yuan Master and the Yuan Imprint (Part 001)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003.000"
+  },
+  {
+    "id": "403346",
     "title": "Ch.002.005 - The Python Swallows the Dragon (part 002)",
     "language": "en",
     "scanlator": "",
@@ -128,7 +136,7 @@
     "number": "002.005"
   },
   {
-    "id": "403346",
+    "id": "407746",
     "title": "Ch.002.005 - The Python Swallows the Dragon (part 002)",
     "language": "en",
     "scanlator": "",
