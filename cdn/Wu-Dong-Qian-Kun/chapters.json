@@ -1,7 +1,7 @@
 [
   {
     "id": "417874",
-    "title": "- 070",
+    "title": "070",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +9,7 @@
   },
   {
     "id": "417259",
-    "title": "- 069",
+    "title": "069",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,7 +17,7 @@
   },
   {
     "id": "416031",
-    "title": "- 068",
+    "title": "068",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -25,7 +25,7 @@
   },
   {
     "id": "415257",
-    "title": "- 067",
+    "title": "067",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +33,7 @@
   },
   {
     "id": "414821",
-    "title": "- 066",
+    "title": "066",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +41,7 @@
   },
   {
     "id": "412037",
-    "title": "- 065",
+    "title": "065",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +49,7 @@
   },
   {
     "id": "403488",
-    "title": "- 064",
+    "title": "064",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +57,7 @@
   },
   {
     "id": "402565",
-    "title": "- 063",
+    "title": "063",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +65,7 @@
   },
   {
     "id": "396418",
-    "title": "- 062",
+    "title": "062",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +73,7 @@
   },
   {
     "id": "396415",
-    "title": "- 061",
+    "title": "061",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -526,6 +526,14 @@
     "scanlator": "",
     "volume": null,
     "number": "005"
+  },
+  {
+    "id": "418887",
+    "title": "Vol. 001 Ch.004 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "004"
   },
   {
     "id": "239567",
