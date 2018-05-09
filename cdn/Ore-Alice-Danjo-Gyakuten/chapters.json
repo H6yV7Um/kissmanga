@@ -1,5 +1,101 @@
 [
   {
+    "id": "419263",
+    "title": "Chapter 014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "419262",
+    "title": "Chapter 013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "419261",
+    "title": "Chapter 012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "419259",
+    "title": "Chapter 011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "419256",
+    "title": "Chapter 010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "419253",
+    "title": "Chapter 009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "419251",
+    "title": "Chapter 008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "419247",
+    "title": "Chapter 007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "419244",
+    "title": "Chapter 006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "419240",
+    "title": "Chapter 005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "419236",
+    "title": "Chapter 004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "419233",
+    "title": "Chapter 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
     "id": "231539",
     "title": "Vol.001 Ch.002",
     "language": "en",
@@ -8,11 +104,27 @@
     "number": "002"
   },
   {
+    "id": "419229",
+    "title": "Chapter 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
     "id": "231538",
     "title": "Vol.001 Ch.001: I'm in wonderland?",
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "001"
+  },
+  {
+    "id": "419225",
+    "title": "Chapter 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
     "number": "001"
   }
 ]
