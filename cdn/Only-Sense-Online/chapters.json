@@ -1,5 +1,13 @@
 [
   {
+    "id": "419363",
+    "title": "Ch.041 - Revival Potion and the Black Bug",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
     "id": "412659",
     "title": "Ch.040 - Desire Sensor and the Flame Prison Squad",
     "language": "en",
@@ -296,14 +304,6 @@
     "number": "008"
   },
   {
-    "id": "395779",
-    "title": "ch.007",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "007"
-  },
-  {
     "id": "339816",
     "title": "ch.007",
     "language": "en",
@@ -312,12 +312,12 @@
     "number": "007"
   },
   {
-    "id": "339814",
-    "title": "ch.006",
+    "id": "395779",
+    "title": "ch.007",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "006"
+    "number": "007"
   },
   {
     "id": "395778",
@@ -328,7 +328,15 @@
     "number": "006"
   },
   {
-    "id": "395777",
+    "id": "339814",
+    "title": "ch.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "339812",
     "title": "ch.005.005",
     "language": "en",
     "scanlator": "",
@@ -336,7 +344,7 @@
     "number": "005.005"
   },
   {
-    "id": "339812",
+    "id": "395777",
     "title": "ch.005.005",
     "language": "en",
     "scanlator": "",
