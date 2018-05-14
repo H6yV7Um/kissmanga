@@ -1,5 +1,13 @@
 [
   {
+    "id": "300754",
+    "title": "Ch.028: Sento Isuzu",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
     "id": "419624",
     "title": "Vol. 003 Ch.012 -",
     "language": "en",
@@ -24,11 +32,11 @@
     "number": "010"
   },
   {
-    "id": "300754",
-    "title": "Ch.009: Sento Isuzu",
+    "id": "419808",
+    "title": "Vol. 002 Ch.009 -",
     "language": "en",
     "scanlator": "",
-    "volume": null,
+    "volume": "002",
     "number": "009"
   },
   {

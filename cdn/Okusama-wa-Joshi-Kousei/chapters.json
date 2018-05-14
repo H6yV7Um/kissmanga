@@ -1,5 +1,13 @@
 [
   {
+    "id": "419885",
+    "title": "Vol. 007 Ch.065 - Sensei... You're so Mean!!",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "065"
+  },
+  {
     "id": "418883",
     "title": "Vol. 007 Ch.064 - I Want to Comfort You",
     "language": "en",
@@ -424,14 +432,6 @@
     "number": "018"
   },
   {
-    "id": "351641",
-    "title": "Ch.017",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "017"
-  },
-  {
     "id": "351687",
     "title": "Ch.017",
     "language": "en",
@@ -440,7 +440,15 @@
     "number": "017"
   },
   {
-    "id": "351639",
+    "id": "351641",
+    "title": "Ch.017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "351685",
     "title": "Ch.016",
     "language": "en",
     "scanlator": "",
@@ -448,7 +456,7 @@
     "number": "016"
   },
   {
-    "id": "351685",
+    "id": "351639",
     "title": "Ch.016",
     "language": "en",
     "scanlator": "",
@@ -472,7 +480,7 @@
     "number": "015"
   },
   {
-    "id": "351681",
+    "id": "351634",
     "title": "Ch.014",
     "language": "en",
     "scanlator": "",
@@ -480,7 +488,7 @@
     "number": "014"
   },
   {
-    "id": "351634",
+    "id": "351681",
     "title": "Ch.014",
     "language": "en",
     "scanlator": "",
@@ -552,14 +560,6 @@
     "number": "011"
   },
   {
-    "id": "351627",
-    "title": "Ch.010",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "010"
-  },
-  {
     "id": "351667",
     "title": "Ch.010",
     "language": "en",
@@ -568,7 +568,15 @@
     "number": "010"
   },
   {
-    "id": "351665",
+    "id": "351627",
+    "title": "Ch.010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "351625",
     "title": "Ch.009",
     "language": "en",
     "scanlator": "",
@@ -576,7 +584,7 @@
     "number": "009"
   },
   {
-    "id": "351625",
+    "id": "351665",
     "title": "Ch.009",
     "language": "en",
     "scanlator": "",
@@ -616,14 +624,6 @@
     "number": "007"
   },
   {
-    "id": "351659",
-    "title": "Ch.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "006"
-  },
-  {
     "id": "351619",
     "title": "Ch.006",
     "language": "en",
@@ -632,12 +632,12 @@
     "number": "006"
   },
   {
-    "id": "351657",
-    "title": "Ch.005",
+    "id": "351659",
+    "title": "Ch.006",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "005"
+    "number": "006"
   },
   {
     "id": "351618",
@@ -648,7 +648,15 @@
     "number": "005"
   },
   {
-    "id": "351655",
+    "id": "351657",
+    "title": "Ch.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "351617",
     "title": "Ch.004",
     "language": "en",
     "scanlator": "",
@@ -656,7 +664,7 @@
     "number": "004"
   },
   {
-    "id": "351617",
+    "id": "351655",
     "title": "Ch.004",
     "language": "en",
     "scanlator": "",
@@ -680,7 +688,7 @@
     "number": "003"
   },
   {
-    "id": "351615",
+    "id": "351651",
     "title": "Ch.002",
     "language": "en",
     "scanlator": "",
@@ -688,7 +696,7 @@
     "number": "002"
   },
   {
-    "id": "351651",
+    "id": "351615",
     "title": "Ch.002",
     "language": "en",
     "scanlator": "",
