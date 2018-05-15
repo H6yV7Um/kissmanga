@@ -1,5 +1,13 @@
 [
   {
+    "id": "419940",
+    "title": "Ch.009 - Dance of the white crane",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
     "id": "389096",
     "title": "Ch.008: The Picture of the Timely Snow as a Birthday Present",
     "language": "en",
@@ -24,14 +32,6 @@
     "number": "006"
   },
   {
-    "id": "376102",
-    "title": "Ch.005: Fei Yanggu",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "005"
-  },
-  {
     "id": "375943",
     "title": "Ch.005: Fei Yanggu",
     "language": "en",
@@ -40,7 +40,15 @@
     "number": "005"
   },
   {
-    "id": "376100",
+    "id": "376102",
+    "title": "Ch.005: Fei Yanggu",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "375835",
     "title": "Ch.004: Thousand Falling Flames Puppet",
     "language": "en",
     "scanlator": "",
@@ -48,7 +56,7 @@
     "number": "004"
   },
   {
-    "id": "375835",
+    "id": "376100",
     "title": "Ch.004: Thousand Falling Flames Puppet",
     "language": "en",
     "scanlator": "",
