@@ -24,6 +24,14 @@
     "number": "085.001"
   },
   {
+    "id": "420141",
+    "title": "Vol. 007 Ch.060 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "060"
+  },
+  {
     "id": "418663",
     "title": "Vol. 007 Ch.059 -",
     "language": "en",
@@ -168,19 +176,19 @@
     "number": "007"
   },
   {
-    "id": "185409",
-    "title": "Vol.001 Ch.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": "001",
-    "number": "006"
-  },
-  {
     "id": "235713",
     "title": "Vol.004 Ch.006",
     "language": "en",
     "scanlator": "",
     "volume": "004",
+    "number": "006"
+  },
+  {
+    "id": "185409",
+    "title": "Vol.001 Ch.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
     "number": "006"
   },
   {
@@ -264,14 +272,6 @@
     "number": "004"
   },
   {
-    "id": "179295",
-    "title": "Vol.001 Ch.003",
-    "language": "en",
-    "scanlator": "",
-    "volume": "001",
-    "number": "003"
-  },
-  {
     "id": "235709",
     "title": "Vol.004 Ch.003",
     "language": "en",
@@ -280,11 +280,11 @@
     "number": "003"
   },
   {
-    "id": "258426",
-    "title": "Vol.005 Ch.003",
+    "id": "179295",
+    "title": "Vol.001 Ch.003",
     "language": "en",
     "scanlator": "",
-    "volume": "005",
+    "volume": "001",
     "number": "003"
   },
   {
@@ -296,12 +296,12 @@
     "number": "003"
   },
   {
-    "id": "235708",
-    "title": "Vol.004 Ch.002",
+    "id": "258426",
+    "title": "Vol.005 Ch.003",
     "language": "en",
     "scanlator": "",
-    "volume": "004",
-    "number": "002"
+    "volume": "005",
+    "number": "003"
   },
   {
     "id": "172360",
@@ -309,6 +309,14 @@
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "002"
+  },
+  {
+    "id": "235708",
+    "title": "Vol.004 Ch.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
     "number": "002"
   },
   {
@@ -328,6 +336,14 @@
     "number": "002"
   },
   {
+    "id": "244665",
+    "title": "Vol.005 Ch.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "001"
+  },
+  {
     "id": "171442",
     "title": "Vol.001 Ch.001",
     "language": "en",
@@ -341,14 +357,6 @@
     "language": "en",
     "scanlator": "",
     "volume": "004",
-    "number": "001"
-  },
-  {
-    "id": "244665",
-    "title": "Vol.005 Ch.001",
-    "language": "en",
-    "scanlator": "",
-    "volume": "005",
     "number": "001"
   },
   {
