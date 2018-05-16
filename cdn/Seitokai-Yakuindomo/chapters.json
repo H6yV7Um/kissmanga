@@ -1,5 +1,21 @@
 [
   {
+    "id": "420260",
+    "title": "Vol. 017 Ch.472 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "472"
+  },
+  {
+    "id": "420254",
+    "title": "Vol. 017 Ch.471 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "471"
+  },
+  {
     "id": "417211",
     "title": "Vol. 017 Ch.470 -",
     "language": "en",
@@ -3600,14 +3616,6 @@
     "number": "035"
   },
   {
-    "id": "128218",
-    "title": "034",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "034"
-  },
-  {
     "id": "94888",
     "title": "034",
     "language": "en",
@@ -3616,12 +3624,12 @@
     "number": "034"
   },
   {
-    "id": "128215",
-    "title": "033",
+    "id": "128218",
+    "title": "034",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "033"
+    "number": "034"
   },
   {
     "id": "94887",
@@ -3632,7 +3640,15 @@
     "number": "033"
   },
   {
-    "id": "128213",
+    "id": "128215",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "94886",
     "title": "032",
     "language": "en",
     "scanlator": "",
@@ -3640,7 +3656,7 @@
     "number": "032"
   },
   {
-    "id": "94886",
+    "id": "128213",
     "title": "032",
     "language": "en",
     "scanlator": "",
@@ -3776,14 +3792,6 @@
     "number": "016"
   },
   {
-    "id": "94869",
-    "title": "015",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "015"
-  },
-  {
     "id": "128212",
     "title": "015",
     "language": "en",
@@ -3792,12 +3800,12 @@
     "number": "015"
   },
   {
-    "id": "128209",
-    "title": "014",
+    "id": "94869",
+    "title": "015",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "014"
+    "number": "015"
   },
   {
     "id": "94868",
@@ -3808,12 +3816,12 @@
     "number": "014"
   },
   {
-    "id": "94867",
-    "title": "013",
+    "id": "128209",
+    "title": "014",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "013"
+    "number": "014"
   },
   {
     "id": "128206",
@@ -3824,7 +3832,15 @@
     "number": "013"
   },
   {
-    "id": "94866",
+    "id": "94867",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "128205",
     "title": "012",
     "language": "en",
     "scanlator": "",
@@ -3832,7 +3848,7 @@
     "number": "012"
   },
   {
-    "id": "128205",
+    "id": "94866",
     "title": "012",
     "language": "en",
     "scanlator": "",
@@ -3856,14 +3872,6 @@
     "number": "011"
   },
   {
-    "id": "94864",
-    "title": "010",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "010"
-  },
-  {
     "id": "128203",
     "title": "010",
     "language": "en",
@@ -3872,7 +3880,15 @@
     "number": "010"
   },
   {
-    "id": "94863",
+    "id": "94864",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "128201",
     "title": "009",
     "language": "en",
     "scanlator": "",
@@ -3880,7 +3896,7 @@
     "number": "009"
   },
   {
-    "id": "128201",
+    "id": "94863",
     "title": "009",
     "language": "en",
     "scanlator": "",
@@ -3936,7 +3952,7 @@
     "number": "006"
   },
   {
-    "id": "94859",
+    "id": "128192",
     "title": "005",
     "language": "en",
     "scanlator": "",
@@ -3944,7 +3960,7 @@
     "number": "005"
   },
   {
-    "id": "128192",
+    "id": "94859",
     "title": "005",
     "language": "en",
     "scanlator": "",
