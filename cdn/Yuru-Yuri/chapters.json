@@ -16,6 +16,14 @@
     "number": null
   },
   {
+    "id": "420409",
+    "title": "Chapter 120: Ship in the Night Café",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "120"
+  },
+  {
     "id": "419564",
     "title": "Chapter 119: A Gift From Yui",
     "language": "en",
@@ -128,19 +136,19 @@
     "number": "108"
   },
   {
-    "id": "362846",
-    "title": "ch.107",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "107"
-  },
-  {
     "id": "365014",
     "title": "vol.014 ch.107",
     "language": "en",
     "scanlator": "",
     "volume": "014",
+    "number": "107"
+  },
+  {
+    "id": "362846",
+    "title": "ch.107",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
     "number": "107"
   },
   {
