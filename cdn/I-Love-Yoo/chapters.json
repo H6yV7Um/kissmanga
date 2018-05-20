@@ -1,59 +1,11 @@
 [
   {
-    "id": "404157",
-    "title": "Kousuke's Corner-003",
+    "id": "420443",
+    "title": "Episode 053",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "003"
-  },
-  {
-    "id": "386904",
-    "title": "Kousuke's Corner-002 + update",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
-    "id": "386911",
-    "title": "Kousuke's Corner-002 + new parts updated",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
-    "id": "387796",
-    "title": "Kousuke's Corner-002 (New ep coming tonight)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
-    "id": "386898",
-    "title": "Kousuke's Corner-002",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "002"
-  },
-  {
-    "id": "386374",
-    "title": "Kousuke's Corner-001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "001"
-  },
-  {
-    "id": "419596",
-    "title": "I LOVE YOO Notice",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
+    "number": "053"
   },
   {
     "id": "418456",
@@ -72,28 +24,12 @@
     "number": "051"
   },
   {
-    "id": "417432",
-    "title": "Episode 050 (Next ep in 015 minutes)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "050"
-  },
-  {
     "id": "416439",
     "title": "Episode 050",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "050"
-  },
-  {
-    "id": "416435",
-    "title": "Episode 049 (next ep in 020 minutes)",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "049"
   },
   {
     "id": "415355",
@@ -518,6 +454,54 @@
     "scanlator": "",
     "volume": null,
     "number": null
+  },
+  {
+    "id": "404157",
+    "title": "_Kousuke's Corner-003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "386904",
+    "title": "_Kousuke's Corner-002 + update",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "386911",
+    "title": "_Kousuke's Corner-002 + new parts updated",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "387796",
+    "title": "_Kousuke's Corner-002 (New ep coming tonight)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "386898",
+    "title": "_Kousuke's Corner-002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "386374",
+    "title": "_Kousuke's Corner-001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
   },
   {
     "id": "406235",

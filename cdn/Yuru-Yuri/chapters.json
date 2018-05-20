@@ -1,21 +1,5 @@
 [
   {
-    "id": "415551",
-    "title": "Volume 009 Omake: Mirakurun",
-    "language": "en",
-    "scanlator": "",
-    "volume": "009",
-    "number": null
-  },
-  {
-    "id": "418440",
-    "title": "Ayano-chan's Friend",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": null
-  },
-  {
     "id": "420409",
     "title": "Chapter 120: Ship in the Night Café",
     "language": "en",
@@ -30,6 +14,14 @@
     "scanlator": "",
     "volume": null,
     "number": "119"
+  },
+  {
+    "id": "418440",
+    "title": "Chapter 118.5 Ayano-chan's Friend",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "118.5"
   },
   {
     "id": "418152",
@@ -48,16 +40,16 @@
     "number": "117"
   },
   {
-    "id": "412623",
-    "title": "Chapter 116: If We Were In Highschool",
+    "id": "415551",
+    "title": "Chapter 116.5: Volume 009 Omake: Mirakurun",
     "language": "en",
     "scanlator": "",
-    "volume": null,
-    "number": "116"
+    "volume": "009",
+    "number": "116.5"
   },
   {
-    "id": "412621",
-    "title": "Chapter 116: (April Fool's)",
+    "id": "412623",
+    "title": "Chapter 116: If We Were In Highschool",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -136,19 +128,19 @@
     "number": "108"
   },
   {
-    "id": "365014",
-    "title": "vol.014 ch.107",
-    "language": "en",
-    "scanlator": "",
-    "volume": "014",
-    "number": "107"
-  },
-  {
     "id": "362846",
     "title": "ch.107",
     "language": "en",
     "scanlator": "",
     "volume": null,
+    "number": "107"
+  },
+  {
+    "id": "365014",
+    "title": "vol.014 ch.107",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
     "number": "107"
   },
   {

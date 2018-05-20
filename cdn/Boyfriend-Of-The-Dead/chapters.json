@@ -1,7 +1,143 @@
 [
   {
+    "id": "420789",
+    "title": "Intermission #005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "420794",
+    "title": "Ep. 084 - Zombies",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "420795",
+    "title": "Ep. 083 - Dead End",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "420793",
+    "title": "Ep. 082 - Not Important",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "420786",
+    "title": "Ep. 081 - Kill Him",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "420787",
+    "title": "Ep. 080 - Cornered",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "420782",
+    "title": "Ep. 079 - Danger, N",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "420783",
+    "title": "Ep. 078 - Zombie Walk",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "420781",
+    "title": "Ep. 077 - Hope You Don't Mind",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "420780",
+    "title": "Ep. 076 - Silly You",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "420777",
+    "title": "Ep. 075 - Stand Off",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "420776",
+    "title": "Ep. 074 - Reanimated Human Corpses",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "420774",
+    "title": "Ep. 073 - Calm before the Storm",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "420773",
+    "title": "Ep. 072.5: Intermission #004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072.5"
+  },
+  {
+    "id": "420772",
+    "title": "Ep. 072 - Fine Lad",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "420771",
+    "title": "Ep. 071 - Human Trap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "420770",
+    "title": "Ep. 070 - When Your Text is Ignored (Continue reading from (Old naming) ch.073)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
     "id": "410613",
-    "title": "ch.073",
+    "title": "_(Old naming) ch.073",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +145,7 @@
   },
   {
     "id": "409829",
-    "title": "ch.072",
+    "title": "_(Old naming) ch.072",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,7 +153,7 @@
   },
   {
     "id": "409062",
-    "title": "ch.071",
+    "title": "_(Old naming) ch.071",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -25,7 +161,7 @@
   },
   {
     "id": "407906",
-    "title": "ch.070",
+    "title": "_(Old naming) ch.070",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +169,7 @@
   },
   {
     "id": "407252",
-    "title": "ch.069",
+    "title": "_(Old naming) ch.069",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +177,7 @@
   },
   {
     "id": "406282",
-    "title": "ch.068",
+    "title": "_(Old naming) ch.068",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +185,7 @@
   },
   {
     "id": "405822",
-    "title": "ch.067",
+    "title": "_(Old naming) ch.067",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +193,7 @@
   },
   {
     "id": "405179",
-    "title": "ch.066",
+    "title": "_(Old naming) ch.066",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +201,7 @@
   },
   {
     "id": "404609",
-    "title": "ch.065",
+    "title": "_(Old naming) ch.065",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +209,7 @@
   },
   {
     "id": "404325",
-    "title": "ch.064",
+    "title": "_(Old naming) ch.064",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -81,7 +217,7 @@
   },
   {
     "id": "403695",
-    "title": "ch.063",
+    "title": "_(Old naming) ch.063",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -89,7 +225,7 @@
   },
   {
     "id": "403221",
-    "title": "ch.062",
+    "title": "_(Old naming) ch.062",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -97,7 +233,7 @@
   },
   {
     "id": "402699",
-    "title": "ch.061",
+    "title": "_(Old naming) ch.061",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -105,7 +241,7 @@
   },
   {
     "id": "402447",
-    "title": "ch.060",
+    "title": "_(Old naming) ch.060",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -113,7 +249,7 @@
   },
   {
     "id": "400265",
-    "title": "ch.059",
+    "title": "_(Old naming) ch.059",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -121,7 +257,7 @@
   },
   {
     "id": "400276",
-    "title": "ch.058",
+    "title": "_(Old naming) ch.058",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -129,7 +265,7 @@
   },
   {
     "id": "400279",
-    "title": "ch.057",
+    "title": "_(Old naming) ch.057",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -137,7 +273,7 @@
   },
   {
     "id": "398374",
-    "title": "ch.056",
+    "title": "_(Old naming) ch.056",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -145,7 +281,7 @@
   },
   {
     "id": "400328",
-    "title": "ch.055",
+    "title": "_(Old naming) ch.055",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -153,7 +289,7 @@
   },
   {
     "id": "397546",
-    "title": "ch.054",
+    "title": "_(Old naming) ch.054",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -161,7 +297,7 @@
   },
   {
     "id": "397142",
-    "title": "ch.053",
+    "title": "_(Old naming) ch.053",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -169,7 +305,7 @@
   },
   {
     "id": "396588",
-    "title": "ch.052",
+    "title": "_(Old naming) ch.052",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -177,7 +313,7 @@
   },
   {
     "id": "395829",
-    "title": "ch.051",
+    "title": "_(Old naming) ch.051",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -185,7 +321,7 @@
   },
   {
     "id": "395607",
-    "title": "ch.050",
+    "title": "_(Old naming) ch.050",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -193,7 +329,7 @@
   },
   {
     "id": "394324",
-    "title": "ch.049",
+    "title": "_(Old naming) ch.049",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -201,7 +337,7 @@
   },
   {
     "id": "394308",
-    "title": "ch.048",
+    "title": "_(Old naming) ch.048",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -209,7 +345,7 @@
   },
   {
     "id": "392833",
-    "title": "ch.046",
+    "title": "_(Old naming) ch.046",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -217,7 +353,7 @@
   },
   {
     "id": "392409",
-    "title": "ch.045",
+    "title": "_(Old naming) ch.045",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -225,7 +361,7 @@
   },
   {
     "id": "392393",
-    "title": "ch.044",
+    "title": "_(Old naming) ch.044",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -233,7 +369,7 @@
   },
   {
     "id": "391329",
-    "title": "ch.043",
+    "title": "_(Old naming) ch.043",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -241,7 +377,7 @@
   },
   {
     "id": "391075",
-    "title": "ch.042",
+    "title": "_(Old naming) ch.042",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -249,7 +385,7 @@
   },
   {
     "id": "390728",
-    "title": "ch.041",
+    "title": "_(Old naming) ch.041",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -257,7 +393,7 @@
   },
   {
     "id": "390473",
-    "title": "ch.040",
+    "title": "_(Old naming) ch.040",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -265,7 +401,7 @@
   },
   {
     "id": "390131",
-    "title": "ch.039",
+    "title": "_(Old naming) ch.039",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -273,7 +409,7 @@
   },
   {
     "id": "389801",
-    "title": "ch.038",
+    "title": "_(Old naming) ch.038",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -281,7 +417,7 @@
   },
   {
     "id": "389475",
-    "title": "ch.037",
+    "title": "_(Old naming) ch.037",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -289,7 +425,7 @@
   },
   {
     "id": "389136",
-    "title": "ch.036",
+    "title": "_(Old naming) ch.036",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -297,7 +433,7 @@
   },
   {
     "id": "388772",
-    "title": "ch.035",
+    "title": "_(Old naming) ch.035",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -305,7 +441,7 @@
   },
   {
     "id": "388334",
-    "title": "ch.034",
+    "title": "_(Old naming) ch.034",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -313,7 +449,7 @@
   },
   {
     "id": "387824",
-    "title": "ch.033",
+    "title": "_(Old naming) ch.033",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -321,7 +457,7 @@
   },
   {
     "id": "387293",
-    "title": "ch.032",
+    "title": "_(Old naming) ch.032",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -329,7 +465,7 @@
   },
   {
     "id": "386912",
-    "title": "ch.031",
+    "title": "_(Old naming) ch.031",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -337,7 +473,7 @@
   },
   {
     "id": "386609",
-    "title": "ch.030",
+    "title": "_(Old naming) ch.030",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -345,7 +481,7 @@
   },
   {
     "id": "385993",
-    "title": "ch.029",
+    "title": "_(Old naming) ch.029",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -353,7 +489,7 @@
   },
   {
     "id": "385992",
-    "title": "ch.028",
+    "title": "_(Old naming) ch.028",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -361,7 +497,7 @@
   },
   {
     "id": "385991",
-    "title": "ch.027",
+    "title": "_(Old naming) ch.027",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -369,7 +505,7 @@
   },
   {
     "id": "385990",
-    "title": "ch.026",
+    "title": "_(Old naming) ch.026",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -377,7 +513,7 @@
   },
   {
     "id": "384617",
-    "title": "ch.025",
+    "title": "_(Old naming) ch.025",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -385,7 +521,7 @@
   },
   {
     "id": "384305",
-    "title": "ch.024",
+    "title": "_(Old naming) ch.024",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -393,7 +529,7 @@
   },
   {
     "id": "383857",
-    "title": "ch.023",
+    "title": "_(Old naming) ch.023",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -401,7 +537,7 @@
   },
   {
     "id": "383741",
-    "title": "ch.022",
+    "title": "_(Old naming) ch.022",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -409,7 +545,7 @@
   },
   {
     "id": "383179",
-    "title": "ch.021",
+    "title": "_(Old naming) ch.021",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -417,7 +553,7 @@
   },
   {
     "id": "383119",
-    "title": "ch.020",
+    "title": "_(Old naming) ch.020",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -425,7 +561,7 @@
   },
   {
     "id": "381585",
-    "title": "ch.019",
+    "title": "_(Old naming) ch.019",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -433,7 +569,7 @@
   },
   {
     "id": "379992",
-    "title": "ch.018",
+    "title": "_(Old naming) ch.018",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -441,7 +577,7 @@
   },
   {
     "id": "379794",
-    "title": "ch.017",
+    "title": "_(Old naming) ch.017",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -449,7 +585,7 @@
   },
   {
     "id": "379420",
-    "title": "ch.016",
+    "title": "_(Old naming) ch.016",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -457,7 +593,7 @@
   },
   {
     "id": "379027",
-    "title": "ch.015",
+    "title": "_(Old naming) ch.015",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -465,7 +601,7 @@
   },
   {
     "id": "378858",
-    "title": "ch.014",
+    "title": "_(Old naming) ch.014",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -473,7 +609,7 @@
   },
   {
     "id": "378207",
-    "title": "ch.013",
+    "title": "_(Old naming) ch.013",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -481,7 +617,7 @@
   },
   {
     "id": "377933",
-    "title": "ch.012",
+    "title": "_(Old naming) ch.012",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -489,7 +625,7 @@
   },
   {
     "id": "376717",
-    "title": "ch.011",
+    "title": "_(Old naming) ch.011",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -497,7 +633,7 @@
   },
   {
     "id": "376300",
-    "title": "ch.010",
+    "title": "_(Old naming) ch.010",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -505,7 +641,7 @@
   },
   {
     "id": "375885",
-    "title": "ch.009",
+    "title": "_(Old naming) ch.009",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -513,7 +649,7 @@
   },
   {
     "id": "375606",
-    "title": "ch.008",
+    "title": "_(Old naming) ch.008",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -521,7 +657,7 @@
   },
   {
     "id": "374816",
-    "title": "ch.007",
+    "title": "_(Old naming) ch.007",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -529,7 +665,7 @@
   },
   {
     "id": "374510",
-    "title": "ch.006",
+    "title": "_(Old naming) ch.006",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -537,7 +673,7 @@
   },
   {
     "id": "374200",
-    "title": "ch.005",
+    "title": "_(Old naming) ch.005",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -545,7 +681,7 @@
   },
   {
     "id": "374199",
-    "title": "ch.004",
+    "title": "_(Old naming) ch.004",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -553,7 +689,7 @@
   },
   {
     "id": "374197",
-    "title": "ch.003",
+    "title": "_(Old naming) ch.003",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -561,7 +697,7 @@
   },
   {
     "id": "374196",
-    "title": "ch.002",
+    "title": "_(Old naming) ch.002",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -569,7 +705,7 @@
   },
   {
     "id": "374195",
-    "title": "ch.001",
+    "title": "_(Old naming) ch.001",
     "language": "en",
     "scanlator": "",
     "volume": null,
