@@ -1,5 +1,13 @@
 [
   {
+    "id": "421315",
+    "title": "Entree 246",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "246"
+  },
+  {
     "id": "419942",
     "title": "Entree 245",
     "language": "en",
@@ -1008,7 +1016,7 @@
     "number": "131"
   },
   {
-    "id": "268132",
+    "id": "257291",
     "title": "130",
     "language": "en",
     "scanlator": "",
@@ -1016,7 +1024,7 @@
     "number": "130"
   },
   {
-    "id": "257291",
+    "id": "268132",
     "title": "130",
     "language": "en",
     "scanlator": "",
@@ -1656,7 +1664,7 @@
     "number": "073"
   },
   {
-    "id": "257363",
+    "id": "39423",
     "title": "072",
     "language": "en",
     "scanlator": "",
@@ -1664,7 +1672,7 @@
     "number": "072"
   },
   {
-    "id": "39423",
+    "id": "257363",
     "title": "072",
     "language": "en",
     "scanlator": "",
@@ -1704,14 +1712,6 @@
     "number": "070"
   },
   {
-    "id": "257360",
-    "title": "069",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "069"
-  },
-  {
     "id": "39411",
     "title": "069",
     "language": "en",
@@ -1720,7 +1720,15 @@
     "number": "069"
   },
   {
-    "id": "39410",
+    "id": "257360",
+    "title": "069",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "257359",
     "title": "068",
     "language": "en",
     "scanlator": "",
@@ -1728,7 +1736,7 @@
     "number": "068"
   },
   {
-    "id": "257359",
+    "id": "39410",
     "title": "068",
     "language": "en",
     "scanlator": "",
@@ -1768,14 +1776,6 @@
     "number": "066"
   },
   {
-    "id": "39395",
-    "title": "065",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "065"
-  },
-  {
     "id": "257356",
     "title": "065",
     "language": "en",
@@ -1784,12 +1784,12 @@
     "number": "065"
   },
   {
-    "id": "39391",
-    "title": "064",
+    "id": "39395",
+    "title": "065",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "064"
+    "number": "065"
   },
   {
     "id": "257355",
@@ -1800,12 +1800,12 @@
     "number": "064"
   },
   {
-    "id": "39387",
-    "title": "063",
+    "id": "39391",
+    "title": "064",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "063"
+    "number": "064"
   },
   {
     "id": "257354",
@@ -1816,12 +1816,12 @@
     "number": "063"
   },
   {
-    "id": "257353",
-    "title": "062",
+    "id": "39387",
+    "title": "063",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "062"
+    "number": "063"
   },
   {
     "id": "39381",
@@ -1832,7 +1832,15 @@
     "number": "062"
   },
   {
-    "id": "257352",
+    "id": "257353",
+    "title": "062",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "39379",
     "title": "061",
     "language": "en",
     "scanlator": "",
@@ -1840,7 +1848,7 @@
     "number": "061"
   },
   {
-    "id": "39379",
+    "id": "257352",
     "title": "061",
     "language": "en",
     "scanlator": "",
@@ -1936,14 +1944,6 @@
     "number": "057"
   },
   {
-    "id": "257348",
-    "title": "056",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "056"
-  },
-  {
     "id": "39353",
     "title": "056",
     "language": "en",
@@ -1952,12 +1952,12 @@
     "number": "056"
   },
   {
-    "id": "257347",
-    "title": "055",
+    "id": "257348",
+    "title": "056",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "055"
+    "number": "056"
   },
   {
     "id": "39352",
@@ -1968,7 +1968,15 @@
     "number": "055"
   },
   {
-    "id": "39348",
+    "id": "257347",
+    "title": "055",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "257346",
     "title": "054",
     "language": "en",
     "scanlator": "",
@@ -1976,7 +1984,7 @@
     "number": "054"
   },
   {
-    "id": "257346",
+    "id": "39348",
     "title": "054",
     "language": "en",
     "scanlator": "",
@@ -2000,7 +2008,7 @@
     "number": "053"
   },
   {
-    "id": "257344",
+    "id": "39341",
     "title": "052",
     "language": "en",
     "scanlator": "",
@@ -2008,7 +2016,7 @@
     "number": "052"
   },
   {
-    "id": "39341",
+    "id": "257344",
     "title": "052",
     "language": "en",
     "scanlator": "",
@@ -2032,14 +2040,6 @@
     "number": "051"
   },
   {
-    "id": "39335",
-    "title": "050",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "050"
-  },
-  {
     "id": "257342",
     "title": "050",
     "language": "en",
@@ -2048,12 +2048,12 @@
     "number": "050"
   },
   {
-    "id": "257341",
-    "title": "049",
+    "id": "39335",
+    "title": "050",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "049"
+    "number": "050"
   },
   {
     "id": "39332",
@@ -2064,7 +2064,15 @@
     "number": "049"
   },
   {
-    "id": "39328",
+    "id": "257341",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "257340",
     "title": "048",
     "language": "en",
     "scanlator": "",
@@ -2072,7 +2080,7 @@
     "number": "048"
   },
   {
-    "id": "257340",
+    "id": "39328",
     "title": "048",
     "language": "en",
     "scanlator": "",
@@ -2096,7 +2104,7 @@
     "number": "047"
   },
   {
-    "id": "257338",
+    "id": "39323",
     "title": "046",
     "language": "en",
     "scanlator": "",
@@ -2104,7 +2112,7 @@
     "number": "046"
   },
   {
-    "id": "39323",
+    "id": "257338",
     "title": "046",
     "language": "en",
     "scanlator": "",
@@ -2144,14 +2152,6 @@
     "number": "044"
   },
   {
-    "id": "39310",
-    "title": "043",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "043"
-  },
-  {
     "id": "257335",
     "title": "043",
     "language": "en",
@@ -2160,7 +2160,15 @@
     "number": "043"
   },
   {
-    "id": "257334",
+    "id": "39310",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "39308",
     "title": "042",
     "language": "en",
     "scanlator": "",
@@ -2168,7 +2176,7 @@
     "number": "042"
   },
   {
-    "id": "39308",
+    "id": "257334",
     "title": "042",
     "language": "en",
     "scanlator": "",
@@ -2192,7 +2200,7 @@
     "number": "041"
   },
   {
-    "id": "257331",
+    "id": "39301",
     "title": "040",
     "language": "en",
     "scanlator": "",
@@ -2200,7 +2208,7 @@
     "number": "040"
   },
   {
-    "id": "39301",
+    "id": "257331",
     "title": "040",
     "language": "en",
     "scanlator": "",
@@ -2272,14 +2280,6 @@
     "number": "036"
   },
   {
-    "id": "257325",
-    "title": "035",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "035"
-  },
-  {
     "id": "39281",
     "title": "035",
     "language": "en",
@@ -2288,7 +2288,15 @@
     "number": "035"
   },
   {
-    "id": "257324",
+    "id": "257325",
+    "title": "035",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "39276",
     "title": "034",
     "language": "en",
     "scanlator": "",
@@ -2296,7 +2304,7 @@
     "number": "034"
   },
   {
-    "id": "39276",
+    "id": "257324",
     "title": "034",
     "language": "en",
     "scanlator": "",
@@ -2320,7 +2328,7 @@
     "number": "033"
   },
   {
-    "id": "39270",
+    "id": "257322",
     "title": "032",
     "language": "en",
     "scanlator": "",
@@ -2328,7 +2336,7 @@
     "number": "032"
   },
   {
-    "id": "257322",
+    "id": "39270",
     "title": "032",
     "language": "en",
     "scanlator": "",
