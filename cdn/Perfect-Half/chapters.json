@@ -1,5 +1,13 @@
 [
   {
+    "id": "421571",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
     "id": "416235",
     "title": "058",
     "language": "en",
@@ -46,70 +54,6 @@
     "scanlator": "",
     "volume": null,
     "number": "053"
-  },
-  {
-    "id": "417416",
-    "title": "018",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "018"
-  },
-  {
-    "id": "416575",
-    "title": "017",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "017"
-  },
-  {
-    "id": "414830",
-    "title": "016",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "016"
-  },
-  {
-    "id": "413057",
-    "title": "015",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "015"
-  },
-  {
-    "id": "412347",
-    "title": "014",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "014"
-  },
-  {
-    "id": "410907",
-    "title": "013",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "013"
-  },
-  {
-    "id": "410471",
-    "title": "012",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "012"
-  },
-  {
-    "id": "408263",
-    "title": "011",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "011"
   },
   {
     "id": "400262",
@@ -176,8 +120,72 @@
     "number": "026"
   },
   {
+    "id": "417416",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "416575",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "414830",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "413057",
+    "title": "015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "412347",
+    "title": "014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "410907",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "410471",
+    "title": "012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
     "id": "403699",
     "title": "011-025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "408263",
+    "title": "011",
     "language": "en",
     "scanlator": "",
     "volume": null,
