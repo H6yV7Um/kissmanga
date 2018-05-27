@@ -1,7 +1,15 @@
 [
   {
+    "id": "422187",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
     "id": "244907",
-    "title": "Ch.007",
+    "title": "007",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,18 +17,18 @@
   },
   {
     "id": "209045",
-    "title": "Vol.002 Ch.006",
+    "title": "006",
     "language": "en",
     "scanlator": "",
-    "volume": "002",
+    "volume": null,
     "number": "006"
   },
   {
     "id": "196659",
-    "title": "Vol.002 Ch.005",
+    "title": "005",
     "language": "en",
     "scanlator": "",
-    "volume": "002",
+    "volume": null,
     "number": "005"
   },
   {

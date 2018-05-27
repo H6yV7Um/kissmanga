@@ -1,21 +1,5 @@
 [
   {
-    "id": "243246",
-    "title": "002",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "002"
-  },
-  {
-    "id": "243245",
-    "title": "001",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "001"
-  },
-  {
     "id": "422081",
     "title": "Ch.008 -",
     "language": "en",
@@ -62,5 +46,21 @@
     "scanlator": "",
     "volume": null,
     "number": "003"
+  },
+  {
+    "id": "243246",
+    "title": "002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "243245",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
   }
 ]
