@@ -24,6 +24,14 @@
     "number": "085.001"
   },
   {
+    "id": "422874",
+    "title": "Vol. 007 Ch.061 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "061"
+  },
+  {
     "id": "420141",
     "title": "Vol. 007 Ch.060 -",
     "language": "en",
@@ -144,14 +152,6 @@
     "number": "008"
   },
   {
-    "id": "240378",
-    "title": "Vol.004 Ch.007",
-    "language": "en",
-    "scanlator": "",
-    "volume": "004",
-    "number": "007"
-  },
-  {
     "id": "188090",
     "title": "Vol.001 Ch.007",
     "language": "en",
@@ -160,11 +160,11 @@
     "number": "007"
   },
   {
-    "id": "384029",
-    "title": "Vol.006 Ch.007",
+    "id": "240378",
+    "title": "Vol.004 Ch.007",
     "language": "en",
     "scanlator": "",
-    "volume": "006",
+    "volume": "004",
     "number": "007"
   },
   {
@@ -176,12 +176,12 @@
     "number": "007"
   },
   {
-    "id": "235713",
-    "title": "Vol.004 Ch.006",
+    "id": "384029",
+    "title": "Vol.006 Ch.007",
     "language": "en",
     "scanlator": "",
-    "volume": "004",
-    "number": "006"
+    "volume": "006",
+    "number": "007"
   },
   {
     "id": "185409",
@@ -192,11 +192,11 @@
     "number": "006"
   },
   {
-    "id": "273220",
-    "title": "Vol.005 Ch.006",
+    "id": "235713",
+    "title": "Vol.004 Ch.006",
     "language": "en",
     "scanlator": "",
-    "volume": "005",
+    "volume": "004",
     "number": "006"
   },
   {
@@ -208,12 +208,12 @@
     "number": "006"
   },
   {
-    "id": "235707",
-    "title": "Vol.004 Ch.005",
+    "id": "273220",
+    "title": "Vol.005 Ch.006",
     "language": "en",
     "scanlator": "",
-    "volume": "004",
-    "number": "005"
+    "volume": "005",
+    "number": "006"
   },
   {
     "id": "185325",
@@ -221,6 +221,14 @@
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "005"
+  },
+  {
+    "id": "235707",
+    "title": "Vol.004 Ch.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
     "number": "005"
   },
   {
@@ -256,14 +264,6 @@
     "number": "004"
   },
   {
-    "id": "348888",
-    "title": "Vol.006 Ch.004",
-    "language": "en",
-    "scanlator": "",
-    "volume": "006",
-    "number": "004"
-  },
-  {
     "id": "264806",
     "title": "Vol.005 Ch.004",
     "language": "en",
@@ -272,12 +272,12 @@
     "number": "004"
   },
   {
-    "id": "235709",
-    "title": "Vol.004 Ch.003",
+    "id": "348888",
+    "title": "Vol.006 Ch.004",
     "language": "en",
     "scanlator": "",
-    "volume": "004",
-    "number": "003"
+    "volume": "006",
+    "number": "004"
   },
   {
     "id": "179295",
@@ -288,11 +288,11 @@
     "number": "003"
   },
   {
-    "id": "347581",
-    "title": "Vol.006 Ch.003",
+    "id": "235709",
+    "title": "Vol.004 Ch.003",
     "language": "en",
     "scanlator": "",
-    "volume": "006",
+    "volume": "004",
     "number": "003"
   },
   {
@@ -304,12 +304,12 @@
     "number": "003"
   },
   {
-    "id": "172360",
-    "title": "Vol.001 Ch.002",
+    "id": "347581",
+    "title": "Vol.006 Ch.003",
     "language": "en",
     "scanlator": "",
-    "volume": "001",
-    "number": "002"
+    "volume": "006",
+    "number": "003"
   },
   {
     "id": "235708",
@@ -317,6 +317,14 @@
     "language": "en",
     "scanlator": "",
     "volume": "004",
+    "number": "002"
+  },
+  {
+    "id": "172360",
+    "title": "Vol.001 Ch.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
     "number": "002"
   },
   {
