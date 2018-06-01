@@ -1,5 +1,13 @@
 [
   {
+    "id": "423089",
+    "title": "Vol. 009 Ch.035 - Sleey John Estes in Love, Part 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "035"
+  },
+  {
     "id": "421046",
     "title": "Vol. 009 Ch.034 - Flying Duncan, part 002",
     "language": "en",
@@ -80,16 +88,16 @@
     "number": "027"
   },
   {
-    "id": "75288",
-    "title": "027",
+    "id": "364162",
+    "title": "Ch.027",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "027"
   },
   {
-    "id": "364162",
-    "title": "Ch.027",
+    "id": "75288",
+    "title": "027",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -104,16 +112,16 @@
     "number": "026"
   },
   {
-    "id": "363311",
-    "title": "Ch.026",
+    "id": "75258",
+    "title": "026",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "026"
   },
   {
-    "id": "75258",
-    "title": "026",
+    "id": "363311",
+    "title": "Ch.026",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -176,16 +184,16 @@
     "number": "023"
   },
   {
-    "id": "75228",
-    "title": "023",
+    "id": "358891",
+    "title": "Ch.023",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "023"
   },
   {
-    "id": "358891",
-    "title": "Ch.023",
+    "id": "75228",
+    "title": "023",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -224,16 +232,16 @@
     "number": "021"
   },
   {
-    "id": "75195",
-    "title": "021",
+    "id": "349391",
+    "title": "Ch.021",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "021"
   },
   {
-    "id": "349391",
-    "title": "Ch.021",
+    "id": "75195",
+    "title": "021",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -248,16 +256,16 @@
     "number": "020"
   },
   {
-    "id": "348594",
-    "title": "Ch.020",
+    "id": "75186",
+    "title": "020",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "020"
   },
   {
-    "id": "75186",
-    "title": "020",
+    "id": "348594",
+    "title": "Ch.020",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -272,16 +280,16 @@
     "number": "019"
   },
   {
-    "id": "75177",
-    "title": "019",
+    "id": "347759",
+    "title": "Ch.019",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "019"
   },
   {
-    "id": "347759",
-    "title": "Ch.019",
+    "id": "75177",
+    "title": "019",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -360,14 +368,6 @@
     "number": "015"
   },
   {
-    "id": "344941",
-    "title": "Ch.015",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "015"
-  },
-  {
     "id": "75123",
     "title": "015",
     "language": "en",
@@ -376,12 +376,12 @@
     "number": "015"
   },
   {
-    "id": "75117",
-    "title": "014",
+    "id": "344941",
+    "title": "Ch.015",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "014"
+    "number": "015"
   },
   {
     "id": "343699",
@@ -392,12 +392,12 @@
     "number": "014"
   },
   {
-    "id": "75108",
-    "title": "013",
+    "id": "75117",
+    "title": "014",
     "language": "en",
     "scanlator": "",
     "volume": null,
-    "number": "013"
+    "number": "014"
   },
   {
     "id": "342958",
@@ -408,16 +408,24 @@
     "number": "013"
   },
   {
-    "id": "75106",
-    "title": "012",
+    "id": "75108",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "342322",
+    "title": "Ch.012",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "012"
   },
   {
-    "id": "342322",
-    "title": "Ch.012",
+    "id": "75106",
+    "title": "012",
     "language": "en",
     "scanlator": "",
     "volume": null,

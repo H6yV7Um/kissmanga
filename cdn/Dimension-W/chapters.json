@@ -1,7 +1,71 @@
 [
   {
+    "id": "423120",
+    "title": "077",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "423121",
+    "title": "076",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "423122",
+    "title": "075",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "423123",
+    "title": "074",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "423124",
+    "title": "073",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "423125",
+    "title": "072",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "423126",
+    "title": "071",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "423127",
+    "title": "070",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
     "id": "410703",
-    "title": "File. 069",
+    "title": "069",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,39 +73,39 @@
   },
   {
     "id": "418140",
-    "title": "File. 069",
+    "title": "069",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "069"
   },
   {
-    "id": "417379",
-    "title": "File. 068",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "068"
-  },
-  {
     "id": "410702",
-    "title": "File. 068",
+    "title": "068",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "068"
   },
   {
-    "id": "416732",
-    "title": "File. 067",
+    "id": "417379",
+    "title": "068",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "410701",
+    "title": "067",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "067"
   },
   {
-    "id": "410701",
-    "title": "File. 067",
+    "id": "416732",
+    "title": "067",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +113,7 @@
   },
   {
     "id": "410700",
-    "title": "File. 066",
+    "title": "066",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +121,7 @@
   },
   {
     "id": "416190",
-    "title": "File. 066",
+    "title": "066",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +129,7 @@
   },
   {
     "id": "410699",
-    "title": "File. 065",
+    "title": "065",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +137,7 @@
   },
   {
     "id": "410698",
-    "title": "File. 064",
+    "title": "064",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -81,7 +145,7 @@
   },
   {
     "id": "410697",
-    "title": "File. 063",
+    "title": "063",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -89,7 +153,7 @@
   },
   {
     "id": "410570",
-    "title": "File. 062",
+    "title": "062",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -97,7 +161,7 @@
   },
   {
     "id": "410569",
-    "title": "File. 061",
+    "title": "061",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -105,7 +169,7 @@
   },
   {
     "id": "410568",
-    "title": "File. 060",
+    "title": "060",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -113,7 +177,7 @@
   },
   {
     "id": "410567",
-    "title": "File. 059",
+    "title": "059",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -121,7 +185,7 @@
   },
   {
     "id": "410566",
-    "title": "File. 058",
+    "title": "058",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -129,7 +193,7 @@
   },
   {
     "id": "410565",
-    "title": "File. 057",
+    "title": "057",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -137,7 +201,7 @@
   },
   {
     "id": "410564",
-    "title": "File. 056",
+    "title": "056",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -145,7 +209,7 @@
   },
   {
     "id": "410562",
-    "title": "File. 055",
+    "title": "055",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -153,7 +217,7 @@
   },
   {
     "id": "410561",
-    "title": "File. 054",
+    "title": "054",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -161,7 +225,7 @@
   },
   {
     "id": "410559",
-    "title": "File. 053",
+    "title": "053",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -169,7 +233,7 @@
   },
   {
     "id": "410557",
-    "title": "File. 052",
+    "title": "052",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -177,7 +241,7 @@
   },
   {
     "id": "410556",
-    "title": "File. 051",
+    "title": "051",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -185,7 +249,7 @@
   },
   {
     "id": "410555",
-    "title": "File. 050",
+    "title": "050",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -193,7 +257,7 @@
   },
   {
     "id": "410553",
-    "title": "File. 049",
+    "title": "049",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -201,7 +265,7 @@
   },
   {
     "id": "410552",
-    "title": "File. 048",
+    "title": "048",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -209,7 +273,7 @@
   },
   {
     "id": "410550",
-    "title": "File. 047",
+    "title": "047",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -217,7 +281,7 @@
   },
   {
     "id": "410548",
-    "title": "File. 046",
+    "title": "046",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -225,7 +289,7 @@
   },
   {
     "id": "410546",
-    "title": "File. 045",
+    "title": "045",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -233,7 +297,7 @@
   },
   {
     "id": "410544",
-    "title": "File. 044",
+    "title": "044",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -241,7 +305,7 @@
   },
   {
     "id": "410543",
-    "title": "File. 043",
+    "title": "043",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -249,7 +313,7 @@
   },
   {
     "id": "410542",
-    "title": "File. 042",
+    "title": "042",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -257,7 +321,7 @@
   },
   {
     "id": "410541",
-    "title": "File. 041",
+    "title": "041",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -265,7 +329,7 @@
   },
   {
     "id": "410540",
-    "title": "File. 040",
+    "title": "040",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -273,7 +337,7 @@
   },
   {
     "id": "410539",
-    "title": "File. 039",
+    "title": "039",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -281,23 +345,23 @@
   },
   {
     "id": "410538",
-    "title": "File. 038",
+    "title": "038",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "038"
   },
   {
-    "id": "410536",
-    "title": "File. 037",
+    "id": "404299",
+    "title": "037: United",
     "language": "en",
     "scanlator": "",
     "volume": null,
     "number": "037"
   },
   {
-    "id": "404299",
-    "title": "037: United",
+    "id": "410536",
+    "title": "037",
     "language": "en",
     "scanlator": "",
     "volume": null,

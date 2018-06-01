@@ -344,6 +344,14 @@
     "number": "023"
   },
   {
+    "id": "423026",
+    "title": "022.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022.001"
+  },
+  {
     "id": "240450",
     "title": "Vol.006 Ch.022: Nacchan, the Red-Nosed Reindeer",
     "language": "en",
@@ -392,20 +400,20 @@
     "number": "019"
   },
   {
-    "id": "232909",
-    "title": "Vol.006 Ch.018.003: Forehead vs. Lips",
-    "language": "en",
-    "scanlator": "",
-    "volume": "006",
-    "number": "018.003"
-  },
-  {
     "id": "232327",
     "title": "Vol.005 Ch.018.005",
     "language": "en",
     "scanlator": "",
     "volume": "005",
     "number": "018.005"
+  },
+  {
+    "id": "232909",
+    "title": "Vol.006 Ch.018.003: Forehead vs. Lips",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "018.003"
   },
   {
     "id": "232420",
@@ -664,35 +672,19 @@
     "number": "004.005"
   },
   {
-    "id": "237997",
-    "title": "Vol.002 Ch.004",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "004"
-  },
-  {
-    "id": "208702",
-    "title": "Vol.002 Ch.003",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "003"
-  },
-  {
-    "id": "176450",
-    "title": "Vol.002 Ch.001",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "001"
-  },
-  {
     "id": "149104",
     "title": "Vol.001 Ch.004",
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "004"
+  },
+  {
+    "id": "237997",
+    "title": "Vol.002 Ch.004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "004"
   },
   {
@@ -704,12 +696,28 @@
     "number": "003"
   },
   {
+    "id": "208702",
+    "title": "Vol.002 Ch.003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "003"
+  },
+  {
     "id": "147877",
     "title": "Vol.001 Ch.002",
     "language": "en",
     "scanlator": "",
     "volume": "001",
     "number": "002"
+  },
+  {
+    "id": "176450",
+    "title": "Vol.002 Ch.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "001"
   },
   {
     "id": "135513",

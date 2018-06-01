@@ -1,5 +1,29 @@
 [
   {
+    "id": "423071",
+    "title": "Chapter 021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "423069",
+    "title": "Chapter 020.001: Special Chapter",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020.001"
+  },
+  {
+    "id": "423068",
+    "title": "Chapter 020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
     "id": "263026",
     "title": "Vol.001 Ch.007.005: Daily Life of Vampires",
     "language": "en",
@@ -16,19 +40,19 @@
     "number": "007"
   },
   {
-    "id": "327760",
-    "title": "Vol.002 Ch.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "006"
-  },
-  {
     "id": "258988",
     "title": "Vol.001 Ch.006",
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "006"
+  },
+  {
+    "id": "327760",
+    "title": "Vol.002 Ch.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "006"
   },
   {
@@ -64,19 +88,19 @@
     "number": "004"
   },
   {
-    "id": "327770",
-    "title": "Vol.003 Ch.004",
-    "language": "en",
-    "scanlator": "",
-    "volume": "003",
-    "number": "004"
-  },
-  {
     "id": "266042",
     "title": "Vol.002 Ch.004",
     "language": "en",
     "scanlator": "",
     "volume": "002",
+    "number": "004"
+  },
+  {
+    "id": "327770",
+    "title": "Vol.003 Ch.004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
     "number": "004"
   },
   {
@@ -88,19 +112,19 @@
     "number": "003"
   },
   {
-    "id": "266041",
-    "title": "Vol.002 Ch.003",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "003"
-  },
-  {
     "id": "327768",
     "title": "Vol.003 Ch.003",
     "language": "en",
     "scanlator": "",
     "volume": "003",
+    "number": "003"
+  },
+  {
+    "id": "266041",
+    "title": "Vol.002 Ch.003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "003"
   },
   {
@@ -112,19 +136,19 @@
     "number": "002"
   },
   {
-    "id": "327764",
-    "title": "Vol.003 Ch.002",
-    "language": "en",
-    "scanlator": "",
-    "volume": "003",
-    "number": "002"
-  },
-  {
     "id": "264578",
     "title": "Vol.002 Ch.002",
     "language": "en",
     "scanlator": "",
     "volume": "002",
+    "number": "002"
+  },
+  {
+    "id": "327764",
+    "title": "Vol.003 Ch.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
     "number": "002"
   },
   {
@@ -144,19 +168,19 @@
     "number": "001"
   },
   {
-    "id": "264576",
-    "title": "Vol.002 Ch.001",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "001"
-  },
-  {
     "id": "327762",
     "title": "Vol.003 Ch.001",
     "language": "en",
     "scanlator": "",
     "volume": "003",
+    "number": "001"
+  },
+  {
+    "id": "264576",
+    "title": "Vol.002 Ch.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "001"
   }
 ]
