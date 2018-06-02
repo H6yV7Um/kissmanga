@@ -1,5 +1,37 @@
 [
   {
+    "id": "423220",
+    "title": "Vol. 003 Ch.036 - A bamboo spear is stronger than a bamboo plane",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "036"
+  },
+  {
+    "id": "423219",
+    "title": "Vol. 003 Ch.035 - The Frog Staring at Jyashin",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "035"
+  },
+  {
+    "id": "423218",
+    "title": "Vol. 003 Ch.034 - Orochimaru is the Best",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "034"
+  },
+  {
+    "id": "423217",
+    "title": "Vol. 003 Ch.033 - The Strange Pie-Tossing (Snake) Girl",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "033"
+  },
+  {
     "id": "341715",
     "title": "Vol.003 Ch.032: Summer Monsters",
     "language": "en",
@@ -270,5 +302,13 @@
     "scanlator": "",
     "volume": null,
     "number": "001"
+  },
+  {
+    "id": "423216",
+    "title": "Vol. 001 Ch.000 - Summoning",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "000"
   }
 ]

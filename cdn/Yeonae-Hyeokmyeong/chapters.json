@@ -1,7 +1,31 @@
 [
   {
+    "id": "423291",
+    "title": "ch.043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "423289",
+    "title": "ch.042",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "423288",
+    "title": "ch.041",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
     "id": "407223",
-    "title": "Chapter 040",
+    "title": "040",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -9,7 +33,7 @@
   },
   {
     "id": "404040",
-    "title": "Chapter 039",
+    "title": "039",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -17,7 +41,7 @@
   },
   {
     "id": "400072",
-    "title": "Chapter 038",
+    "title": "038",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -25,7 +49,7 @@
   },
   {
     "id": "400073",
-    "title": "Chapter 037",
+    "title": "037",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -33,7 +57,7 @@
   },
   {
     "id": "400074",
-    "title": "Chapter 036",
+    "title": "036",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -41,7 +65,7 @@
   },
   {
     "id": "400075",
-    "title": "Chapter 035",
+    "title": "035",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -49,7 +73,7 @@
   },
   {
     "id": "400076",
-    "title": "Chapter 034",
+    "title": "034",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -57,7 +81,7 @@
   },
   {
     "id": "389372",
-    "title": "Ch.033: School Holiday",
+    "title": "033: School Holiday",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -65,7 +89,7 @@
   },
   {
     "id": "389313",
-    "title": "Ch.032: Unexpected (002)",
+    "title": "032: Unexpected (002)",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -73,7 +97,7 @@
   },
   {
     "id": "389224",
-    "title": "Ch.031: The Unexpected",
+    "title": "031: The Unexpected",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -81,7 +105,7 @@
   },
   {
     "id": "387725",
-    "title": "Ch.030: Date",
+    "title": "030: Date",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -89,7 +113,7 @@
   },
   {
     "id": "386796",
-    "title": "Ch.029: If you speak nicely, they will look down on you part 003",
+    "title": "029: If you speak nicely, they will look down on you part 003",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -97,7 +121,7 @@
   },
   {
     "id": "385198",
-    "title": "Ch.028: They will look down on you if you speak nicely to them - part 002",
+    "title": "028: They will look down on you if you speak nicely to them - part 002",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -105,7 +129,7 @@
   },
   {
     "id": "384365",
-    "title": "Ch.027: They will look down on you if you speak nicely to them - part 001",
+    "title": "027: They will look down on you if you speak nicely to them - part 001",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -113,7 +137,7 @@
   },
   {
     "id": "384364",
-    "title": "Ch.026: The Speed of Light",
+    "title": "026: The Speed of Light",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -121,7 +145,7 @@
   },
   {
     "id": "384362",
-    "title": "Ch.025: Outing",
+    "title": "025: Outing",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -129,7 +153,7 @@
   },
   {
     "id": "384360",
-    "title": "Ch.024: Carelessness",
+    "title": "024: Carelessness",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -137,7 +161,7 @@
   },
   {
     "id": "384358",
-    "title": "Ch.023: Trapped in a prison called school and waiting for the release called graduation",
+    "title": "023: Trapped in a prison called school and waiting for the release called graduation",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -145,7 +169,7 @@
   },
   {
     "id": "384356",
-    "title": "Ch.022: The Grades Decrease If You Fall In Love",
+    "title": "022: The Grades Decrease If You Fall In Love",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -153,7 +177,7 @@
   },
   {
     "id": "384354",
-    "title": "Ch.021: Emperor Tae Moo! Emperor Tae Moo!",
+    "title": "021: Emperor Tae Moo! Emperor Tae Moo!",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -161,7 +185,7 @@
   },
   {
     "id": "384352",
-    "title": "Ch.020: It Would Be A Spoiler If I wrote The Title",
+    "title": "020: It Would Be A Spoiler If I wrote The Title",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -169,7 +193,7 @@
   },
   {
     "id": "384350",
-    "title": "Ch.019: Digital Bounce",
+    "title": "019: Digital Bounce",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -177,7 +201,7 @@
   },
   {
     "id": "384348",
-    "title": "Ch.018: Analogue Confession",
+    "title": "018: Analogue Confession",
     "language": "en",
     "scanlator": "",
     "volume": null,
@@ -185,7 +209,7 @@
   },
   {
     "id": "384347",
-    "title": "Ch.017: Don't Show Me Sympathy (002)",
+    "title": "017: Don't Show Me Sympathy (002)",
     "language": "en",
     "scanlator": "",
     "volume": null,
