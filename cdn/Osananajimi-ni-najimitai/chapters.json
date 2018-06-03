@@ -1,5 +1,13 @@
 [
   {
+    "id": "423489",
+    "title": "Osananajimi ni Najimitai 005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
     "id": "410797",
     "title": "Osananajimi ni Najimitai 004",
     "language": "en",
@@ -136,7 +144,7 @@
     "number": "000.009"
   },
   {
-    "id": "403097",
+    "id": "403082",
     "title": "Osananajimi ni Najimitai 000.008",
     "language": "en",
     "scanlator": "",
@@ -144,7 +152,7 @@
     "number": "000.008"
   },
   {
-    "id": "403082",
+    "id": "403097",
     "title": "Osananajimi ni Najimitai 000.008",
     "language": "en",
     "scanlator": "",
@@ -168,14 +176,6 @@
     "number": "000.007"
   },
   {
-    "id": "403080",
-    "title": "Osananajimi ni Najimitai 000.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": null,
-    "number": "000.006"
-  },
-  {
     "id": "403095",
     "title": "Osananajimi ni Najimitai 000.006",
     "language": "en",
@@ -184,7 +184,15 @@
     "number": "000.006"
   },
   {
-    "id": "403079",
+    "id": "403080",
+    "title": "Osananajimi ni Najimitai 000.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "000.006"
+  },
+  {
+    "id": "403094",
     "title": "Osananajimi ni Najimitai 000.005",
     "language": "en",
     "scanlator": "",
@@ -192,7 +200,7 @@
     "number": "000.005"
   },
   {
-    "id": "403094",
+    "id": "403079",
     "title": "Osananajimi ni Najimitai 000.005",
     "language": "en",
     "scanlator": "",
