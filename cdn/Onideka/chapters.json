@@ -1,5 +1,29 @@
 [
   {
+    "id": "423883",
+    "title": "Ch.026 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "423665",
+    "title": "Ch.025 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "423664",
+    "title": "Ch.024 -",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
     "id": "383704",
     "title": "Vol.005 Ch.023: Who Is Your \"Boyfriend,\" Kiryuin?",
     "language": "en",
@@ -120,22 +144,6 @@
     "number": "008"
   },
   {
-    "id": "329505",
-    "title": "Vol.002 Ch.007",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "007"
-  },
-  {
-    "id": "329504",
-    "title": "Vol.002 Ch.006",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "006"
-  },
-  {
     "id": "323036",
     "title": "Vol.001 Ch.007",
     "language": "en",
@@ -144,11 +152,27 @@
     "number": "007"
   },
   {
+    "id": "329505",
+    "title": "Vol.002 Ch.007",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "007"
+  },
+  {
     "id": "312362",
     "title": "Vol.001 Ch.006",
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "006"
+  },
+  {
+    "id": "329504",
+    "title": "Vol.002 Ch.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "006"
   },
   {
