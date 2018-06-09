@@ -1,5 +1,13 @@
 [
   {
+    "id": "424430",
+    "title": "Vol. 014 Ch.053 - The Goddess Melts on a Chilly Autumn Night",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "053"
+  },
+  {
     "id": "418712",
     "title": "Vol. 014 Ch.052 - Graduation and Eloping are Just Around the Corner",
     "language": "en",
@@ -672,19 +680,19 @@
     "number": "004.005"
   },
   {
-    "id": "149104",
-    "title": "Vol.001 Ch.004",
-    "language": "en",
-    "scanlator": "",
-    "volume": "001",
-    "number": "004"
-  },
-  {
     "id": "237997",
     "title": "Vol.002 Ch.004",
     "language": "en",
     "scanlator": "",
     "volume": "002",
+    "number": "004"
+  },
+  {
+    "id": "149104",
+    "title": "Vol.001 Ch.004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
     "number": "004"
   },
   {
@@ -712,19 +720,19 @@
     "number": "002"
   },
   {
-    "id": "176450",
-    "title": "Vol.002 Ch.001",
-    "language": "en",
-    "scanlator": "",
-    "volume": "002",
-    "number": "001"
-  },
-  {
     "id": "135513",
     "title": "Vol.001 Ch.001",
     "language": "en",
     "scanlator": "",
     "volume": "001",
+    "number": "001"
+  },
+  {
+    "id": "176450",
+    "title": "Vol.002 Ch.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
     "number": "001"
   },
   {
