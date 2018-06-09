@@ -1,0 +1,826 @@
+[
+  {
+    "id": "335875",
+    "title": "Vol.013 Ch.097.005: Extra Ending Pages",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "097.005"
+  },
+  {
+    "id": "335871",
+    "title": "Vol.013 Ch.097: Epilogue",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "097"
+  },
+  {
+    "id": "335817",
+    "title": "Vol.013 Ch.096: The bitter yet tender lies of the world",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "096"
+  },
+  {
+    "id": "240252",
+    "title": "Ch.095: Finding Atonement",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "095"
+  },
+  {
+    "id": "239833",
+    "title": "Ch.094: Wishes and Curses",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "094"
+  },
+  {
+    "id": "205971",
+    "title": "Ch.093: Penetrator",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "093"
+  },
+  {
+    "id": "201213",
+    "title": "Ch.092: That Kyuuki's name is...",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "198911",
+    "title": "Ch.091: Wish",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "198168",
+    "title": "Ch.090: Linkage",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "197580",
+    "title": "Ch.089: Reborn",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "194825",
+    "title": "Ch.088: Find Me",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "188356",
+    "title": "Ch.087: A Future Entrusted",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "183421",
+    "title": "086: The Mournful Howl of Death",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "181921",
+    "title": "085: Fanal Countdown",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "169935",
+    "title": "084: Summer Homework",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "158164",
+    "title": "083: On the Player's Shoulders",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "155770",
+    "title": "082: Fun and Games",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "152413",
+    "title": "081: The Eve of Battle",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "150623",
+    "title": "080: Mother",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "147536",
+    "title": "079: His Memories",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "136567",
+    "title": "078: Letter",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "132191",
+    "title": "077",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "125011",
+    "title": "076: In a Dream",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "124046",
+    "title": "075: The Vow",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "115136",
+    "title": "074: The Destroyer's Roar [LQ]",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "110993",
+    "title": "073: Give Me Your Hand...",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "110903",
+    "title": "072: Declaration by Infection",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "96879",
+    "title": "071: Suraga",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "90255",
+    "title": "070: Bonds Stirring",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "90252",
+    "title": "069: Withering Memories",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "154176",
+    "title": "068: The Chains of Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "71489",
+    "title": "068: The Chains of Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "154174",
+    "title": "067: The World is Connected...",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "61639",
+    "title": "067: The World is Connected...",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "61623",
+    "title": "066: Jinki Users That Don't Fight",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "154173",
+    "title": "066: Jinki Users That Don't Fight",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "61613",
+    "title": "065: The Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "181868",
+    "title": "065: The Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "19372",
+    "title": "064",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "19358",
+    "title": "063",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "19347",
+    "title": "062",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "19334",
+    "title": "061",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "19324",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "19311",
+    "title": "059",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "19304",
+    "title": "058",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "19286",
+    "title": "057",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "19274",
+    "title": "056",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "19261",
+    "title": "055",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "19251",
+    "title": "054",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "19237",
+    "title": "053",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "19232",
+    "title": "052",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "19214",
+    "title": "051",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "19191",
+    "title": "050",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "19171",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "19146",
+    "title": "048",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "19131",
+    "title": "047",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "19119",
+    "title": "046",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "19103",
+    "title": "045",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "19094",
+    "title": "044",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "19073",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "19051",
+    "title": "042",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "19039",
+    "title": "041",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "19024",
+    "title": "040.1",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.1"
+  },
+  {
+    "id": "19021",
+    "title": "040",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "19006",
+    "title": "039",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "18994",
+    "title": "038",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "18981",
+    "title": "037",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "18966",
+    "title": "036",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "18951",
+    "title": "035",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "18939",
+    "title": "034",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "18927",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "18912",
+    "title": "032",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "18899",
+    "title": "031",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "18881",
+    "title": "030",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "18865",
+    "title": "029",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "18851",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "18839",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "18823",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "18804",
+    "title": "025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "18770",
+    "title": "024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "18760",
+    "title": "023",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "18749",
+    "title": "022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "18738",
+    "title": "021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "18726",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "18716",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "18703",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "18691",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "18675",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "15459",
+    "title": "015 Heroes Don't Smile Anymore",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "15451",
+    "title": "014 From Hand to Hand",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "15440",
+    "title": "013 That's the Policy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "15432",
+    "title": "012 Borderline",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "15424",
+    "title": "011 Creeping Messenger of Death",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "15418",
+    "title": "010 Wolfboy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "15405",
+    "title": "009 Monster",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "15396",
+    "title": "008 Cloaked in the Night, Slipping Away",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "15385",
+    "title": "007 Dignity Scatters",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "15376",
+    "title": "006 Death and",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "15366",
+    "title": "005 Kanshu",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "15359",
+    "title": "004 A Helping Hand",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "15350",
+    "title": "003 World in her Eyes",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "15339",
+    "title": "002 Cocoon",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "15331",
+    "title": "001 Birth in the Moonlight",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

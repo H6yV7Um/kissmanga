@@ -1,0 +1,954 @@
+[
+  {
+    "id": "346199",
+    "title": "118 - Vol 021 Final chapter: Beyond the Night (END)",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "118"
+  },
+  {
+    "id": "344588",
+    "title": "117 - Vol 021 The End, Part II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "117"
+  },
+  {
+    "id": "342912",
+    "title": "116 - Vol 021 The End, Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "116"
+  },
+  {
+    "id": "341056",
+    "title": "115",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "115"
+  },
+  {
+    "id": "336232",
+    "title": "114 - Vol 021 Decisive Battle, Part VI",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "114"
+  },
+  {
+    "id": "330536",
+    "title": "113 - Vol 021 Decisive Battle, Part V",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "113"
+  },
+  {
+    "id": "329556",
+    "title": "112 - Vol 021 Decisive Battle, Part IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "112"
+  },
+  {
+    "id": "327548",
+    "title": "111 - Vol 021 Decisive Battle, Part III",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "111"
+  },
+  {
+    "id": "325579",
+    "title": "110 - Vol 021 Decisive Battle, Part II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "110"
+  },
+  {
+    "id": "323642",
+    "title": "109 - Vol 021 Decisive Battle, Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "109"
+  },
+  {
+    "id": "322155",
+    "title": "108 - Vol 021 Red and White, Part III",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "108"
+  },
+  {
+    "id": "315997",
+    "title": "107 - Vol 021 Red and White, Part II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "107"
+  },
+  {
+    "id": "310830",
+    "title": "106 - Vol 021 Red and White, Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "106"
+  },
+  {
+    "id": "308990",
+    "title": "105 - Vol 021 Opening Shots, Part II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "105"
+  },
+  {
+    "id": "306013",
+    "title": "104 - Vol 021 Opening Shots, Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "104"
+  },
+  {
+    "id": "300665",
+    "title": "103 - Vol 021 The Gathering, Part III",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "103"
+  },
+  {
+    "id": "292463",
+    "title": "102 - Vol 021 The Gathering, Part II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "102"
+  },
+  {
+    "id": "276919",
+    "title": "101 - Vol 021 The Gathering, Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "101"
+  },
+  {
+    "id": "275644",
+    "title": "100 - Vol 021 The Theosis Project",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "100"
+  },
+  {
+    "id": "274231",
+    "title": "099 - Vol 017 The Queen's Carnival",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "099"
+  },
+  {
+    "id": "272733",
+    "title": "098 - Vol 017 The White Steel Awakens",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "098"
+  },
+  {
+    "id": "271203",
+    "title": "097 - Vol 017 World-Destroying Conflagration",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "097"
+  },
+  {
+    "id": "269668",
+    "title": "096 - Vol 017 The Rebel Maiden",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "096"
+  },
+  {
+    "id": "268239",
+    "title": "095 - Vol 017 Divergence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "095"
+  },
+  {
+    "id": "266971",
+    "title": "094 - Vol 017 The Voice of the Deep",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "094"
+  },
+  {
+    "id": "265390",
+    "title": "093 - Vol 017 The Girls' Crusade",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "093"
+  },
+  {
+    "id": "263998",
+    "title": "092 - Vol 017 The Man Called Melosz",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "092"
+  },
+  {
+    "id": "262673",
+    "title": "091 - Vol 017 Prelude to the End",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "091"
+  },
+  {
+    "id": "261376",
+    "title": "090 - Vol 017 The Miracle on St. Peter's Square",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "090"
+  },
+  {
+    "id": "259315",
+    "title": "089 - Vol 017 All Roads Lead to Rome",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "089"
+  },
+  {
+    "id": "257176",
+    "title": "088 - Vol 017 The Magdalene's Russian Jaunt",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "088"
+  },
+  {
+    "id": "255934",
+    "title": "087 - Vol 017 Fool's Paradise",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "087"
+  },
+  {
+    "id": "254067",
+    "title": "086 - Vol 017 The Truth About the Tsaritsyn",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "086"
+  },
+  {
+    "id": "251269",
+    "title": "085 - Vol 017 The David of Resurrection",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "085"
+  },
+  {
+    "id": "245022",
+    "title": "084 - Vol 017 Collapse",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "084"
+  },
+  {
+    "id": "243714",
+    "title": "083 - Vol 017 From Gehenna",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "083"
+  },
+  {
+    "id": "242424",
+    "title": "082 - Vol 017 Atomis Reunion",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "082"
+  },
+  {
+    "id": "241117",
+    "title": "081 - Vol 017 The Resurrected",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "081"
+  },
+  {
+    "id": "239941",
+    "title": "080 - Vol 017 The Tungsten Man",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "080"
+  },
+  {
+    "id": "238539",
+    "title": "079 - Vol 017 Hostilities",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "079"
+  },
+  {
+    "id": "237119",
+    "title": "078 - Vol 016 Where the Wind Blows",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "078"
+  },
+  {
+    "id": "235883",
+    "title": "077 - Vol 016 Innocence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "077"
+  },
+  {
+    "id": "234331",
+    "title": "076 - Vol 015 The Way Forward",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "076"
+  },
+  {
+    "id": "232886",
+    "title": "075 - Vol 015 The Lamentation of Blood",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "075"
+  },
+  {
+    "id": "231340",
+    "title": "074 - Vol 015 The Empty Birdcage",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "074"
+  },
+  {
+    "id": "229750",
+    "title": "073 - Vol 015 Reviver",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "073"
+  },
+  {
+    "id": "228596",
+    "title": "072 - Vol 015 The Two Sides of Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "072"
+  },
+  {
+    "id": "227405",
+    "title": "071 - Vol 015 What Power Is",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "071"
+  },
+  {
+    "id": "226287",
+    "title": "070 - Vol 015 The Empress Rises",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "070"
+  },
+  {
+    "id": "224736",
+    "title": "069 - Vol 015 The Corner of Reunions",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "069"
+  },
+  {
+    "id": "223149",
+    "title": "068 - Vol 015 The Labyrinth of Memories",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "068"
+  },
+  {
+    "id": "221851",
+    "title": "067 - Vol 013 Reasons to Fight",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "067"
+  },
+  {
+    "id": "220799",
+    "title": "066 - Vol 013 The Celebration of the Panagia's Day of Birth",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "066"
+  },
+  {
+    "id": "219826",
+    "title": "065 - Vol 013 The Descendant of Bethania",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "065"
+  },
+  {
+    "id": "218679",
+    "title": "064 - Vol 013 Tsujido Miyuri's Fear",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "064"
+  },
+  {
+    "id": "217418",
+    "title": "063 - Vol 013 Something to Fight For",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "063"
+  },
+  {
+    "id": "216058",
+    "title": "062 - Vol 013 Waves of Convergence",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "062"
+  },
+  {
+    "id": "215118",
+    "title": "061 - Vol 013 Lies of the Noah",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "061"
+  },
+  {
+    "id": "213592",
+    "title": "060 Vol 013 Ashes and Diamonds",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "060"
+  },
+  {
+    "id": "212228",
+    "title": "059 - Vol 013 Schrödinger's Sasha",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "059"
+  },
+  {
+    "id": "211078",
+    "title": "058 - Vol 013 Bullet Scars",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "058"
+  },
+  {
+    "id": "209938",
+    "title": "057 - Vol 008 Brother & Sister",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "057"
+  },
+  {
+    "id": "208939",
+    "title": "056 - Vol 008 The Shadow of the Executioner",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "056"
+  },
+  {
+    "id": "208085",
+    "title": "055 - Vol 008 Double Trap",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "055"
+  },
+  {
+    "id": "207084",
+    "title": "054 - Vol 008 High School of the Puppets",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "054"
+  },
+  {
+    "id": "206211",
+    "title": "053 - Vol 008 Infection",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "053"
+  },
+  {
+    "id": "204979",
+    "title": "052 - Vol 008 The Naked Truth",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "052"
+  },
+  {
+    "id": "204463",
+    "title": "051 - Vol 008 The Beautiful Challenger",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "051"
+  },
+  {
+    "id": "191262",
+    "title": "050 - Vol 008 Tsujidou Miyuri's Sighs",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "050"
+  },
+  {
+    "id": "189346",
+    "title": "049 - Vol 008 The Boy Carrying the Crest",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "049"
+  },
+  {
+    "id": "189339",
+    "title": "048 - Vol 008 At the Academy Again",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "048"
+  },
+  {
+    "id": "189352",
+    "title": "047 - Vol 008 Portrait of the Empress II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "047"
+  },
+  {
+    "id": "189350",
+    "title": "046 - Vol 008 Auf Dem Scharzwald",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "046"
+  },
+  {
+    "id": "197119",
+    "title": "045 - Vol 008 Farewell, my...",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "045"
+  },
+  {
+    "id": "164856",
+    "title": "045",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "163172",
+    "title": "044",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "163173",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "146444",
+    "title": "042",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "142612",
+    "title": "041",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "139980",
+    "title": "040",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "140220",
+    "title": "039",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "140219",
+    "title": "038",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "140216",
+    "title": "037",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "124384",
+    "title": "036",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "124383",
+    "title": "035",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "124461",
+    "title": "034",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "124382",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "124381",
+    "title": "032",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "124380",
+    "title": "031",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "124379",
+    "title": "030",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "124378",
+    "title": "029",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "124377",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "124376",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "124375",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "124374",
+    "title": "025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "124373",
+    "title": "024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "124372",
+    "title": "023",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "124371",
+    "title": "022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "124370",
+    "title": "021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "124369",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "124367",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "124366",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "124365",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "124364",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "124363",
+    "title": "015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "124460",
+    "title": "014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "124359",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "124355",
+    "title": "012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "124354",
+    "title": "011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "124353",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "124352",
+    "title": "009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "124349",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "124347",
+    "title": "007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "124344",
+    "title": "006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "124343",
+    "title": "005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "124342",
+    "title": "004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "140430",
+    "title": "003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "124340",
+    "title": "002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "124338",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

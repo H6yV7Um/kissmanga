@@ -1,0 +1,818 @@
+[
+  {
+    "id": "341578",
+    "title": "Vol.010 Ch.101: Trick Fraud IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "101"
+  },
+  {
+    "id": "268899",
+    "title": "Vol.010 Ch.100: Trick Fraud III",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "100"
+  },
+  {
+    "id": "255628",
+    "title": "Vol.010 Ch.099: Trick Fraud II",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "099"
+  },
+  {
+    "id": "240209",
+    "title": "098: Trick Fraud I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "098"
+  },
+  {
+    "id": "230351",
+    "title": "097: Accomplice Fraud (End Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "097"
+  },
+  {
+    "id": "230350",
+    "title": "096: Accomplice Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "096"
+  },
+  {
+    "id": "230349",
+    "title": "095: Accomplice Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "095"
+  },
+  {
+    "id": "230348",
+    "title": "094: Accounting Fraud Scam V",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "094"
+  },
+  {
+    "id": "230347",
+    "title": "093: Accounting Fraud Scam IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "093"
+  },
+  {
+    "id": "205611",
+    "title": "092: Accounting Fraud Scam III",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "200082",
+    "title": "091: Accounting Fraud Scam II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "191319",
+    "title": "090: Accounting Fraud Scam",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "189647",
+    "title": "089: Fund-Raiser Fraud (Final Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "189498",
+    "title": "088: Fund-Raiser Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "189497",
+    "title": "087: Fund-Raiser Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "181249",
+    "title": "086",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "179711",
+    "title": "085",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "177969",
+    "title": "084",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "189193",
+    "title": "083",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "175202",
+    "title": "082",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "173451",
+    "title": "081",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "172729",
+    "title": "080: Real Estate Fraud II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "171396",
+    "title": "079: Real Estate Faud I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "169336",
+    "title": "078: Identity Theft Fraud (End)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "167639",
+    "title": "077: Identity Theft Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "165869",
+    "title": "076: Identity Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "163437",
+    "title": "075: Home Industry Fraud (Ending Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "163188",
+    "title": "074: Home Industry Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "160929",
+    "title": "073",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "158540",
+    "title": "072: Internet Fraud V",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "156750",
+    "title": "071: Internet Fraud IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "155682",
+    "title": "070: Internet Fraud Part 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "153379",
+    "title": "069: Internet Fraud II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "145148",
+    "title": "068",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "125727",
+    "title": "067: Art Gallery Fraud (Final Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "124715",
+    "title": "066: Art Gallery Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "121462",
+    "title": "065: Art Gallery Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "119979",
+    "title": "064.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064.005"
+  },
+  {
+    "id": "119674",
+    "title": "064: Franchise Business Startup Fraud VI",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "119079",
+    "title": "063: Franchise Business Startup Fraud V",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "118284",
+    "title": "062: Franchise Business Startup Fraud IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "117715",
+    "title": "061: Franchise Business Startup Fraud III",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "117360",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "116015",
+    "title": "059",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "115479",
+    "title": "058",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "114907",
+    "title": "057",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "113541",
+    "title": "056",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "113008",
+    "title": "055 Travel Agency Fraud I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "112208",
+    "title": "054",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "111778",
+    "title": "053",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "111361",
+    "title": "052",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "111042",
+    "title": "051",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "110736",
+    "title": "050",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "110278",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "109718",
+    "title": "048",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "109211",
+    "title": "047",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "108684",
+    "title": "046",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "107262",
+    "title": "045",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "106315",
+    "title": "044",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "71496",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "53545",
+    "title": "042: Broken Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "24178",
+    "title": "041: Broker Fraud",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "24175",
+    "title": "040: Mutual Aid Association Fraud V",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "24166",
+    "title": "039: Mutual Aid Association Fraud IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "24159",
+    "title": "038: Mutual Aid Association Fraud III",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "24150",
+    "title": "037: Mutual Aid Association Fraud II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "24144",
+    "title": "036: Mutual Aid Association Fraud I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "24136",
+    "title": "035: Psychic Fraud (Last Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "24129",
+    "title": "034",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "24122",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "24114",
+    "title": "032: Part-Time Job Fraud (Last Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "24106",
+    "title": "031: Part-Time Job Fraud (middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "24100",
+    "title": "030: Part-Time Job Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "24089",
+    "title": "029: Marriage Fraud V",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "24082",
+    "title": "028: Marriage Fraud IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "24075",
+    "title": "027: Marriage Fraud III",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "24066",
+    "title": "026: Marriage Fraud II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "24059",
+    "title": "025: Marriage Fraud I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "24049",
+    "title": "024: Qualification Fraud Part Three",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "24041",
+    "title": "023: Qualification Fraud Part Two",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "24032",
+    "title": "022: Qualification Fraud Part One",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "24024",
+    "title": "021: Rent Fraud (Final Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "24018",
+    "title": "020: Rent Fraud (Middle Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "24009",
+    "title": "019: Rent Fraud (First Part)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "24000",
+    "title": "018: The Venture Business Acquisition Swindle - V [Final Part]",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "22600",
+    "title": "017: The Venture Business Acquisition Swindle - IV",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "22591",
+    "title": "016: Business Venture Acquisition Swindle - III",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "22583",
+    "title": "015: Business Venture Acquisition Swindle - II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "22576",
+    "title": "014: Business Venture Acquisition Swindle - I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "22570",
+    "title": "013: Job Recruiting Con - End Part",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "22564",
+    "title": "012: Job Recruiting Con - Middle Part",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "22559",
+    "title": "011: Job Recruiting Con - First Part",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "71050",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "71048",
+    "title": "009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "71049",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "71046",
+    "title": "007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "71045",
+    "title": "006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "71044",
+    "title": "005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "22553",
+    "title": "004: Cosmetics Fraud 2",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "22546",
+    "title": "003: Cosmetics Fraud 1",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "22539",
+    "title": "002: Financing Company Fraud 2",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "22528",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

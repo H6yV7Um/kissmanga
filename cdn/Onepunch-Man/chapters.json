@@ -1,0 +1,994 @@
+[
+  {
+    "id": "417438",
+    "title": "Punch 091",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "091"
+  },
+  {
+    "id": "422515",
+    "title": "Ch.092 - Manhole",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "092"
+  },
+  {
+    "id": "414992",
+    "title": "090 - Because I'm a Monster",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "090"
+  },
+  {
+    "id": "412100",
+    "title": "089 - Hot Pot",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "089"
+  },
+  {
+    "id": "404719",
+    "title": "088",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "088"
+  },
+  {
+    "id": "402832",
+    "title": "087: Monster Side",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "087"
+  },
+  {
+    "id": "400589",
+    "title": "086 - Hideout",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "086"
+  },
+  {
+    "id": "397029",
+    "title": "085 - Is it because I'm the Caped Baldy?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "085"
+  },
+  {
+    "id": "393511",
+    "title": "084 - Escalation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "084"
+  },
+  {
+    "id": "389534",
+    "title": "083 - The Hard Road Uphill",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "083"
+  },
+  {
+    "id": "387068",
+    "title": "082 - All-out",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "082"
+  },
+  {
+    "id": "385291",
+    "title": "081 - Obstinacy",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "081"
+  },
+  {
+    "id": "379838",
+    "title": "080 - Surrounded",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "080"
+  },
+  {
+    "id": "377070",
+    "title": "079 - What It Means To Be Cheap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "079"
+  },
+  {
+    "id": "375070",
+    "title": "078 - They who run in the shadows",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "078"
+  },
+  {
+    "id": "371458",
+    "title": "077 - Bored As Usual",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "077"
+  },
+  {
+    "id": "369500",
+    "title": "076 - Stagnation and Growth",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "076"
+  },
+  {
+    "id": "367210",
+    "title": "075 - Foul Play",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "075"
+  },
+  {
+    "id": "365805",
+    "title": "074.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074.002"
+  },
+  {
+    "id": "364208",
+    "title": "074 - Depths of Despair",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "074"
+  },
+  {
+    "id": "364192",
+    "title": "073.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073.002"
+  },
+  {
+    "id": "360597",
+    "title": "073 - Resistance of the Strong",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "073"
+  },
+  {
+    "id": "360596",
+    "title": "072.003 One-Shot",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072.003"
+  },
+  {
+    "id": "360595",
+    "title": "072.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072.002"
+  },
+  {
+    "id": "371450",
+    "title": "072 - Monster Transformation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "072"
+  },
+  {
+    "id": "406817",
+    "title": "071.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071.005"
+  },
+  {
+    "id": "371449",
+    "title": "071 - This is Real Martial Arts!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071"
+  },
+  {
+    "id": "371448",
+    "title": "070.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070.002"
+  },
+  {
+    "id": "371447",
+    "title": "070 - Being Strong is Fun",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070"
+  },
+  {
+    "id": "369932",
+    "title": "069.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069.005"
+  },
+  {
+    "id": "369931",
+    "title": "069.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069.001"
+  },
+  {
+    "id": "371444",
+    "title": "069 - Monster Cells",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "369930",
+    "title": "069",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069"
+  },
+  {
+    "id": "371442",
+    "title": "068.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068.002"
+  },
+  {
+    "id": "371441",
+    "title": "068 - Great Battle Power",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "371440",
+    "title": "067 - Exceeding the Norm",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "371437",
+    "title": "066 - The Strong",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "371436",
+    "title": "065.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065.002"
+  },
+  {
+    "id": "369926",
+    "title": "065.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065.001"
+  },
+  {
+    "id": "371434",
+    "title": "065 - Sisters",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "371433",
+    "title": "064 - Part 004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "371431",
+    "title": "063 - Limit",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "371427",
+    "title": "062 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "369923",
+    "title": "061.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061.005"
+  },
+  {
+    "id": "417819",
+    "title": "061 - Contest and Combat",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "369922",
+    "title": "061",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "417818",
+    "title": "060.002 - Part 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060.002"
+  },
+  {
+    "id": "417817",
+    "title": "060.001 - The Reason I Seek",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060.001"
+  },
+  {
+    "id": "369921",
+    "title": "060",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "369920",
+    "title": "059",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "369919",
+    "title": "058",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "369918",
+    "title": "057",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "369917",
+    "title": "056",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "369916",
+    "title": "055.007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055.007"
+  },
+  {
+    "id": "369915",
+    "title": "055.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055.006"
+  },
+  {
+    "id": "369914",
+    "title": "055.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055.005"
+  },
+  {
+    "id": "369913",
+    "title": "055",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "369912",
+    "title": "054",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "369911",
+    "title": "053",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "369910",
+    "title": "052",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "369909",
+    "title": "051",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "369908",
+    "title": "050",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "369907",
+    "title": "049",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "369906",
+    "title": "048",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "369905",
+    "title": "047.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047.005"
+  },
+  {
+    "id": "369904",
+    "title": "047",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "369903",
+    "title": "046",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "369902",
+    "title": "045",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "369901",
+    "title": "044",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "369900",
+    "title": "043",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "369899",
+    "title": "042",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "369897",
+    "title": "041",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "369896",
+    "title": "040.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.006"
+  },
+  {
+    "id": "369895",
+    "title": "040.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.005"
+  },
+  {
+    "id": "369894",
+    "title": "040",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "369893",
+    "title": "039",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "369892",
+    "title": "038",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "369891",
+    "title": "037.007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.007"
+  },
+  {
+    "id": "369890",
+    "title": "037.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.006"
+  },
+  {
+    "id": "369889",
+    "title": "037.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.005"
+  },
+  {
+    "id": "369888",
+    "title": "037",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "369887",
+    "title": "036",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "369886",
+    "title": "035",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "369885",
+    "title": "034.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034.005"
+  },
+  {
+    "id": "369884",
+    "title": "034",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "369883",
+    "title": "033",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "369882",
+    "title": "032",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "369881",
+    "title": "031",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "369880",
+    "title": "030",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "369879",
+    "title": "029.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029.005"
+  },
+  {
+    "id": "369878",
+    "title": "029",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "369877",
+    "title": "028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "369876",
+    "title": "027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "369875",
+    "title": "026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "369874",
+    "title": "025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "369873",
+    "title": "024.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024.005"
+  },
+  {
+    "id": "369872",
+    "title": "024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "369871",
+    "title": "023",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "369870",
+    "title": "022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "369869",
+    "title": "021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "369868",
+    "title": "020.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020.006"
+  },
+  {
+    "id": "369867",
+    "title": "020.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020.005"
+  },
+  {
+    "id": "369866",
+    "title": "020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "369864",
+    "title": "019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "369863",
+    "title": "018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "369862",
+    "title": "017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "369861",
+    "title": "016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "369860",
+    "title": "015.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015.005"
+  },
+  {
+    "id": "369859",
+    "title": "015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "369858",
+    "title": "014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "369857",
+    "title": "013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "369856",
+    "title": "012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "369855",
+    "title": "011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "369854",
+    "title": "010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "369853",
+    "title": "009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "369852",
+    "title": "008.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008.005"
+  },
+  {
+    "id": "369851",
+    "title": "008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "369850",
+    "title": "007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "369849",
+    "title": "006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "369848",
+    "title": "005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "369847",
+    "title": "004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "369846",
+    "title": "003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "369845",
+    "title": "002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "369844",
+    "title": "001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]

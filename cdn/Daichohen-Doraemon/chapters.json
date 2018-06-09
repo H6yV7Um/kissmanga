@@ -1,0 +1,938 @@
+[
+  {
+    "id": "80044",
+    "title": "Vol 024_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "006"
+  },
+  {
+    "id": "80043",
+    "title": "Vol 024_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "005"
+  },
+  {
+    "id": "80042",
+    "title": "Vol 024_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "004"
+  },
+  {
+    "id": "80041",
+    "title": "Vol 024_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "003"
+  },
+  {
+    "id": "80040",
+    "title": "Vol 024_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "002"
+  },
+  {
+    "id": "80039",
+    "title": "Vol 024_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "024",
+    "number": "001"
+  },
+  {
+    "id": "80038",
+    "title": "Vol 023_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "006"
+  },
+  {
+    "id": "80037",
+    "title": "Vol 023_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "005"
+  },
+  {
+    "id": "80036",
+    "title": "Vol 023_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "004"
+  },
+  {
+    "id": "80035",
+    "title": "Vol 023_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "003"
+  },
+  {
+    "id": "80034",
+    "title": "Vol 023_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "002"
+  },
+  {
+    "id": "80033",
+    "title": "Vol 023_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "023",
+    "number": "001"
+  },
+  {
+    "id": "80032",
+    "title": "Vol 022_007",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "007"
+  },
+  {
+    "id": "80031",
+    "title": "Vol 022_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "006"
+  },
+  {
+    "id": "80030",
+    "title": "Vol 022_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "005"
+  },
+  {
+    "id": "79939",
+    "title": "Vol 022_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "004"
+  },
+  {
+    "id": "79935",
+    "title": "Vol 022_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "003"
+  },
+  {
+    "id": "79933",
+    "title": "Vol 022_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "002"
+  },
+  {
+    "id": "79931",
+    "title": "Vol 022_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "022",
+    "number": "001"
+  },
+  {
+    "id": "79929",
+    "title": "Vol 021_007",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "007"
+  },
+  {
+    "id": "79927",
+    "title": "Vol 021_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "006"
+  },
+  {
+    "id": "79924",
+    "title": "Vol 021_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "005"
+  },
+  {
+    "id": "79923",
+    "title": "Vol 021_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "004"
+  },
+  {
+    "id": "79921",
+    "title": "Vol 021_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "003"
+  },
+  {
+    "id": "79919",
+    "title": "Vol 021_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "002"
+  },
+  {
+    "id": "79917",
+    "title": "Vol 021_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "021",
+    "number": "001"
+  },
+  {
+    "id": "79914",
+    "title": "Vol 020_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "003"
+  },
+  {
+    "id": "79839",
+    "title": "Vol 020_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "002"
+  },
+  {
+    "id": "73525",
+    "title": "Vol 020_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "020",
+    "number": "001"
+  },
+  {
+    "id": "73520",
+    "title": "Vol 019_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "005"
+  },
+  {
+    "id": "73517",
+    "title": "Vol 019_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "004"
+  },
+  {
+    "id": "73508",
+    "title": "Vol 019_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "003"
+  },
+  {
+    "id": "73503",
+    "title": "Vol 019_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "002"
+  },
+  {
+    "id": "73497",
+    "title": "Vol 019_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "019",
+    "number": "001"
+  },
+  {
+    "id": "73490",
+    "title": "Vol 018_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "005"
+  },
+  {
+    "id": "73484",
+    "title": "Vol 018_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "004"
+  },
+  {
+    "id": "73476",
+    "title": "Vol 018_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "003"
+  },
+  {
+    "id": "73470",
+    "title": "Vol 018_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "002"
+  },
+  {
+    "id": "73462",
+    "title": "Vol 018_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "018",
+    "number": "001"
+  },
+  {
+    "id": "73457",
+    "title": "Vol 017_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "005"
+  },
+  {
+    "id": "73453",
+    "title": "Vol 017_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "004"
+  },
+  {
+    "id": "73448",
+    "title": "Vol 017_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "003"
+  },
+  {
+    "id": "73445",
+    "title": "Vol 017_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "002"
+  },
+  {
+    "id": "73438",
+    "title": "Vol 017_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "017",
+    "number": "001"
+  },
+  {
+    "id": "73435",
+    "title": "Vol 016_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "004"
+  },
+  {
+    "id": "73210",
+    "title": "Vol 016_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "003"
+  },
+  {
+    "id": "73209",
+    "title": "Vol 016_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "002"
+  },
+  {
+    "id": "73207",
+    "title": "Vol 016_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "016",
+    "number": "001"
+  },
+  {
+    "id": "73204",
+    "title": "Vol 015_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "002"
+  },
+  {
+    "id": "73202",
+    "title": "Vol 015_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "015",
+    "number": "001"
+  },
+  {
+    "id": "73199",
+    "title": "Vol 014_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "006"
+  },
+  {
+    "id": "73197",
+    "title": "Vol 014_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "005"
+  },
+  {
+    "id": "73195",
+    "title": "Vol 014_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "004"
+  },
+  {
+    "id": "73193",
+    "title": "Vol 014_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "003"
+  },
+  {
+    "id": "73190",
+    "title": "Vol 014_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "002"
+  },
+  {
+    "id": "73186",
+    "title": "Vol 014_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "014",
+    "number": "001"
+  },
+  {
+    "id": "73181",
+    "title": "Vol 013_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "005"
+  },
+  {
+    "id": "73176",
+    "title": "Vol 013_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "004"
+  },
+  {
+    "id": "73170",
+    "title": "Vol 013_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "003"
+  },
+  {
+    "id": "73162",
+    "title": "Vol 013_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "002"
+  },
+  {
+    "id": "73158",
+    "title": "Vol 013_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "013",
+    "number": "001"
+  },
+  {
+    "id": "73149",
+    "title": "Vol 012_006",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "006"
+  },
+  {
+    "id": "73143",
+    "title": "Vol 012_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "005"
+  },
+  {
+    "id": "73135",
+    "title": "Vol 012_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "004"
+  },
+  {
+    "id": "73129",
+    "title": "Vol 012_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "003"
+  },
+  {
+    "id": "73120",
+    "title": "Vol 012_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "002"
+  },
+  {
+    "id": "73106",
+    "title": "Vol 012_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "012",
+    "number": "001"
+  },
+  {
+    "id": "73092",
+    "title": "Vol 011_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "005"
+  },
+  {
+    "id": "73085",
+    "title": "Vol 011_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "004"
+  },
+  {
+    "id": "72440",
+    "title": "Vol 011_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "003"
+  },
+  {
+    "id": "72433",
+    "title": "Vol 011_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "002"
+  },
+  {
+    "id": "72423",
+    "title": "Vol 011_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "011",
+    "number": "001"
+  },
+  {
+    "id": "72412",
+    "title": "Vol 010_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "004"
+  },
+  {
+    "id": "72401",
+    "title": "Vol 010_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "003"
+  },
+  {
+    "id": "72393",
+    "title": "Vol 010_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "002"
+  },
+  {
+    "id": "72380",
+    "title": "Vol 010_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "010",
+    "number": "001"
+  },
+  {
+    "id": "72370",
+    "title": "Vol 009_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "005"
+  },
+  {
+    "id": "72357",
+    "title": "Vol 009_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "004"
+  },
+  {
+    "id": "72352",
+    "title": "Vol 009_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "003"
+  },
+  {
+    "id": "72348",
+    "title": "Vol 009_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "002"
+  },
+  {
+    "id": "72345",
+    "title": "Vol 009_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "009",
+    "number": "001"
+  },
+  {
+    "id": "72341",
+    "title": "Vol 008_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "005"
+  },
+  {
+    "id": "72340",
+    "title": "Vol 008_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "004"
+  },
+  {
+    "id": "72339",
+    "title": "Vol 008_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "003"
+  },
+  {
+    "id": "72338",
+    "title": "Vol 008_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "002"
+  },
+  {
+    "id": "72335",
+    "title": "Vol 008_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "008",
+    "number": "001"
+  },
+  {
+    "id": "72333",
+    "title": "Vol 007_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "005"
+  },
+  {
+    "id": "72332",
+    "title": "Vol 007_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "004"
+  },
+  {
+    "id": "72330",
+    "title": "Vol 007_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "003"
+  },
+  {
+    "id": "72329",
+    "title": "Vol 007_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "002"
+  },
+  {
+    "id": "72328",
+    "title": "Vol 007_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "007",
+    "number": "001"
+  },
+  {
+    "id": "72327",
+    "title": "Vol 006_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "005"
+  },
+  {
+    "id": "72326",
+    "title": "Vol 006_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "004"
+  },
+  {
+    "id": "72325",
+    "title": "Vol 006_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "003"
+  },
+  {
+    "id": "72324",
+    "title": "Vol 006_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "002"
+  },
+  {
+    "id": "72323",
+    "title": "Vol 006_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "006",
+    "number": "001"
+  },
+  {
+    "id": "72321",
+    "title": "Vol 005_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "005"
+  },
+  {
+    "id": "72320",
+    "title": "Vol 005_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "004"
+  },
+  {
+    "id": "72317",
+    "title": "Vol 005_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "003"
+  },
+  {
+    "id": "72314",
+    "title": "Vol 005_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "002"
+  },
+  {
+    "id": "72310",
+    "title": "Vol 005_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "005",
+    "number": "001"
+  },
+  {
+    "id": "72306",
+    "title": "Vol 004_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "005"
+  },
+  {
+    "id": "72304",
+    "title": "Vol 004_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "004"
+  },
+  {
+    "id": "72302",
+    "title": "Vol 004_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "003"
+  },
+  {
+    "id": "72299",
+    "title": "Vol 004_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "002"
+  },
+  {
+    "id": "72295",
+    "title": "Vol 004_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "004",
+    "number": "001"
+  },
+  {
+    "id": "72290",
+    "title": "Vol 003_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "003",
+    "number": "005"
+  },
+  {
+    "id": "72286",
+    "title": "Vol 002_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "005"
+  },
+  {
+    "id": "72281",
+    "title": "Vol 002_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "004"
+  },
+  {
+    "id": "72280",
+    "title": "Vol 002_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "003"
+  },
+  {
+    "id": "72279",
+    "title": "Vol 002_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "002"
+  },
+  {
+    "id": "72277",
+    "title": "Vol 002_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "002",
+    "number": "001"
+  },
+  {
+    "id": "72272",
+    "title": "Vol 001_005",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "005"
+  },
+  {
+    "id": "72267",
+    "title": "Vol 001_004",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "004"
+  },
+  {
+    "id": "72261",
+    "title": "Vol 001_003",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "003"
+  },
+  {
+    "id": "72252",
+    "title": "Vol 001_002",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "002"
+  },
+  {
+    "id": "72237",
+    "title": "Vol 001_001",
+    "language": "en",
+    "scanlator": "",
+    "volume": "001",
+    "number": "001"
+  }
+]

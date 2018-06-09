@@ -1,0 +1,826 @@
+[
+  {
+    "id": "211669",
+    "title": "Ch.SP003: 2010 Christmas Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "217429",
+    "title": "Ch.SideStory001: Telephone",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  },
+  {
+    "id": "206568",
+    "title": "Ch.Extra: Telephone",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": null
+  },
+  {
+    "id": "340073",
+    "title": "Ch.EX 010: Moveable Power",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "340072",
+    "title": "Ch.EX 009: First Day of Weekly Duty",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "330344",
+    "title": "Ch.EX 008: Interrupted Memory I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "321257",
+    "title": "Ch.EX 007: Palm Up, Palm Down I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "316050",
+    "title": "Ch.EX 006: A Day in Her Majesty's Life",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "308506",
+    "title": "Ch.EX 005: The Park Expeditionary Force",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "304762",
+    "title": "Ch.EX 004: Valiant Eight I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "274477",
+    "title": "Ch.EX 003: Desolate House by the Campus I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "304771",
+    "title": "Ch.EX 002: Becoming an Adult I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "256774",
+    "title": "Ch.EX 001: Teachers' Day Part I",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  },
+  {
+    "id": "253720",
+    "title": "Ch.EX 000: Rainstorm",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "000"
+  },
+  {
+    "id": "237573",
+    "title": "Ch.068: See You (Part I)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068"
+  },
+  {
+    "id": "234043",
+    "title": "Ch.067: Ming",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067"
+  },
+  {
+    "id": "233478",
+    "title": "Ch.066: Disappeared Hope",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066"
+  },
+  {
+    "id": "232785",
+    "title": "Ch.065: Standoff",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065"
+  },
+  {
+    "id": "231438",
+    "title": "Ch.064: Last Stage",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064"
+  },
+  {
+    "id": "229195",
+    "title": "Ch.063: Fight For Ling",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063"
+  },
+  {
+    "id": "227907",
+    "title": "Ch.062: Plot Twist",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062"
+  },
+  {
+    "id": "227398",
+    "title": "Ch.061: Afternoon's Smoke of War",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061"
+  },
+  {
+    "id": "225014",
+    "title": "Ch.060: Fake Got Real",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060"
+  },
+  {
+    "id": "223909",
+    "title": "Ch.059: Misunderstanding",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059"
+  },
+  {
+    "id": "222832",
+    "title": "Ch.058: Kidnap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058"
+  },
+  {
+    "id": "221986",
+    "title": "Ch.057: Imprisonment",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057"
+  },
+  {
+    "id": "221747",
+    "title": "Ch.056: Substitution",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056"
+  },
+  {
+    "id": "221226",
+    "title": "Ch.055: Vacillation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055"
+  },
+  {
+    "id": "220868",
+    "title": "Ch.054: Early Morning",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054"
+  },
+  {
+    "id": "220282",
+    "title": "Ch.053: Skirmish",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053"
+  },
+  {
+    "id": "219514",
+    "title": "Ch.052: Chaos Eve 005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052"
+  },
+  {
+    "id": "219220",
+    "title": "Ch.051: Chaos Eve 004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051"
+  },
+  {
+    "id": "218504",
+    "title": "Ch.050: Chaos Eve 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050"
+  },
+  {
+    "id": "217980",
+    "title": "Ch.049: Chaos Eve 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049"
+  },
+  {
+    "id": "217677",
+    "title": "Ch.048: Chaos Eve 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048"
+  },
+  {
+    "id": "217431",
+    "title": "Ch.047: Handle",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047"
+  },
+  {
+    "id": "217430",
+    "title": "Ch.046.008: A Letter to My Wife",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046.008"
+  },
+  {
+    "id": "217208",
+    "title": "Ch.046.005: Inheritance",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046.005"
+  },
+  {
+    "id": "216720",
+    "title": "Ch.046: End of History",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046"
+  },
+  {
+    "id": "216449",
+    "title": "Ch.045: Lost Patience",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045"
+  },
+  {
+    "id": "216279",
+    "title": "Ch.044: Prewar",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044"
+  },
+  {
+    "id": "216188",
+    "title": "Ch.043: Scourge",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "216200",
+    "title": "Ch.043 (v002): Scourge",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043"
+  },
+  {
+    "id": "216053",
+    "title": "Ch.042: Transfer Student",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042"
+  },
+  {
+    "id": "215877",
+    "title": "Ch.041: Turbulence",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041"
+  },
+  {
+    "id": "215876",
+    "title": "Ch.040: Solution",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040"
+  },
+  {
+    "id": "215356",
+    "title": "Ch.039: Robbery",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039"
+  },
+  {
+    "id": "215190",
+    "title": "Ch.038: Meaning(Fear)less",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038"
+  },
+  {
+    "id": "215119",
+    "title": "Ch.037: Drunk Fight",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037"
+  },
+  {
+    "id": "214438",
+    "title": "Ch.036: Powerless Leaving",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036"
+  },
+  {
+    "id": "214041",
+    "title": "Ch.035: A Night in the Mountains",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035"
+  },
+  {
+    "id": "213855",
+    "title": "Ch.034: Disappearance (Part I)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "225023",
+    "title": "Ch.034 (Part 002): Disappearance (Part II)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "225022",
+    "title": "Ch.034 (Part 001): Disappearance (Part I)",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034"
+  },
+  {
+    "id": "213728",
+    "title": "Ch.033: Cangqiong River",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033"
+  },
+  {
+    "id": "213206",
+    "title": "Ch.032.005: A Tragic Day",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032.005"
+  },
+  {
+    "id": "212993",
+    "title": "Ch.032: A Country House",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032"
+  },
+  {
+    "id": "212682",
+    "title": "Ch.031: Wild Lad",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "212305",
+    "title": "Ch.030: National Day's Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "211829",
+    "title": "Ch.029: Month Begins",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029"
+  },
+  {
+    "id": "217425",
+    "title": "Ch.028.005: Special 003 - 2010 Christmas Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028.005"
+  },
+  {
+    "id": "211668",
+    "title": "Ch.028: Night of Leisure",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "210573",
+    "title": "Ch.027: Epilogue II",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "210220",
+    "title": "Ch.026: 100 Metres",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "209973",
+    "title": "Ch.025: Silent Expedition",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "209972",
+    "title": "Ch.024: Bother of Injuries",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "209793",
+    "title": "Ch.023: Endless Troubles",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "209610",
+    "title": "Ch.022: A Little Trap",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "208996",
+    "title": "Ch.021: Lost Combat Capability",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "208638",
+    "title": "Ch.020: Ying's Request",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "208380",
+    "title": "Ch.019: Shock",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "208033",
+    "title": "Ch.018: Fragile Willpower",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "208030",
+    "title": "Ch.017: Tiny Direction",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "217424",
+    "title": "Ch.016.005: Side Story 001 - Telephone",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016.005"
+  },
+  {
+    "id": "217423",
+    "title": "Ch.016.003: 004-koma - Lesson 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016.003"
+  },
+  {
+    "id": "217422",
+    "title": "Ch.016.002: 004-koma - Lesson 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016.002"
+  },
+  {
+    "id": "217421",
+    "title": "Ch.016.001: 004-koma - Lesson 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016.001"
+  },
+  {
+    "id": "204857",
+    "title": "Ch.016: Punishment Preview Ver",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "204213",
+    "title": "Ch.015: Free Activity",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "203918",
+    "title": "Ch.014: Bath",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "204212",
+    "title": "Ch.014 (v002): Bath",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "203779",
+    "title": "Ch.013.SP002: Christmas Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013."
+  },
+  {
+    "id": "217420",
+    "title": "Ch.013.005: Special 002 - Christmas Eve",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013.005"
+  },
+  {
+    "id": "203706",
+    "title": "Ch.013: Humiliation",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "203583",
+    "title": "Ch.012: A New Week",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "203525",
+    "title": "Ch.011: Epilogue",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "203517",
+    "title": "Ch.010.SP001 : Confession '009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010."
+  },
+  {
+    "id": "217419",
+    "title": "Ch.010.005: Special 001 - Confession '009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010.005"
+  },
+  {
+    "id": "203467",
+    "title": "Ch.010: Break",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "203399",
+    "title": "Ch.009: Loser",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "203324",
+    "title": "Ch.008: 1992",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "203311",
+    "title": "Ch.007: Incoming Rainstorm",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "203255",
+    "title": "Ch.006: Traitor",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "202915",
+    "title": "Ch.005: Her Majesty's Elder Brother",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "206030",
+    "title": "Ch.004-koma: Lesson 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "217428",
+    "title": "Ch.004-koma 003: Lesson 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "217427",
+    "title": "Ch.004-koma 002: Lesson 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "217426",
+    "title": "Ch.004-koma 001: Lesson 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "202843",
+    "title": "004: Queen?",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "202840",
+    "title": "003: Eunuch Ming!",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "202802",
+    "title": "002: Vice Health Commissioner",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "202799",
+    "title": "001: Enthronement",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  },
+  {
+    "id": "205161",
+    "title": "Ch.000: 004-koma Lesson 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "000"
+  }
+]

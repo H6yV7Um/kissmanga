@@ -1,0 +1,946 @@
+[
+  {
+    "id": "408509",
+    "title": "071.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "071.001"
+  },
+  {
+    "id": "406852",
+    "title": "070.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070.002"
+  },
+  {
+    "id": "405383",
+    "title": "070.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "070.001"
+  },
+  {
+    "id": "404501",
+    "title": "069.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069.002"
+  },
+  {
+    "id": "401002",
+    "title": "Chapter 069.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "069.001"
+  },
+  {
+    "id": "401001",
+    "title": "Chapter 068.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068.002"
+  },
+  {
+    "id": "401000",
+    "title": "Chapter 068.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "068.001"
+  },
+  {
+    "id": "400999",
+    "title": "Chapter 067.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067.002"
+  },
+  {
+    "id": "400998",
+    "title": "Chapter 067.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "067.001"
+  },
+  {
+    "id": "400997",
+    "title": "Chapter 066.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066.002"
+  },
+  {
+    "id": "400996",
+    "title": "Chapter 066.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "066.001"
+  },
+  {
+    "id": "400995",
+    "title": "Chapter 065.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065.002"
+  },
+  {
+    "id": "400994",
+    "title": "Chapter 065.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "065.001"
+  },
+  {
+    "id": "400970",
+    "title": "Chapter 064.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064.002"
+  },
+  {
+    "id": "387950",
+    "title": "Chapter 064.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "064.001"
+  },
+  {
+    "id": "387949",
+    "title": "Chapter 063.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063.002"
+  },
+  {
+    "id": "387948",
+    "title": "Chapter 063.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "063.001"
+  },
+  {
+    "id": "387947",
+    "title": "Chapter 062.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062.002"
+  },
+  {
+    "id": "387946",
+    "title": "Chapter 062.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "062.001"
+  },
+  {
+    "id": "387945",
+    "title": "Chapter 061.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061.002"
+  },
+  {
+    "id": "387944",
+    "title": "Chapter 061.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "061.001"
+  },
+  {
+    "id": "387943",
+    "title": "Chapter 060.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060.002"
+  },
+  {
+    "id": "387942",
+    "title": "Chapter 060.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "060.001"
+  },
+  {
+    "id": "387941",
+    "title": "Chapter 059.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059.002"
+  },
+  {
+    "id": "387940",
+    "title": "Chapter 059.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "059.001"
+  },
+  {
+    "id": "387939",
+    "title": "Chapter 058.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058.002"
+  },
+  {
+    "id": "370476",
+    "title": "Chapter 058.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "058.001"
+  },
+  {
+    "id": "370475",
+    "title": "Chapter 057.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057.002"
+  },
+  {
+    "id": "370474",
+    "title": "Chapter 057.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "057.001"
+  },
+  {
+    "id": "370473",
+    "title": "Chapter 056.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056.002"
+  },
+  {
+    "id": "370472",
+    "title": "Chapter 056.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "056.001"
+  },
+  {
+    "id": "370471",
+    "title": "Chapter 055.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055.002"
+  },
+  {
+    "id": "370470",
+    "title": "Chapter 055.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "055.001"
+  },
+  {
+    "id": "370469",
+    "title": "Chapter 054.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054.002"
+  },
+  {
+    "id": "370468",
+    "title": "Chapter 054.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "054.001"
+  },
+  {
+    "id": "370467",
+    "title": "Chapter 053.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053.002"
+  },
+  {
+    "id": "370466",
+    "title": "Chapter 053.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "053.001"
+  },
+  {
+    "id": "370465",
+    "title": "Chapter 052.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052.002"
+  },
+  {
+    "id": "370464",
+    "title": "Chapter 052.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "052.001"
+  },
+  {
+    "id": "370463",
+    "title": "Chapter 051.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051.002"
+  },
+  {
+    "id": "370462",
+    "title": "Chapter 051.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "051.001"
+  },
+  {
+    "id": "370461",
+    "title": "Chapter 050.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050.002"
+  },
+  {
+    "id": "370460",
+    "title": "Chapter 050.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "050.001"
+  },
+  {
+    "id": "370459",
+    "title": "Chapter 049.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049.002"
+  },
+  {
+    "id": "370458",
+    "title": "Chapter 049.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "049.001"
+  },
+  {
+    "id": "370457",
+    "title": "Chapter 048.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048.002"
+  },
+  {
+    "id": "370456",
+    "title": "Chapter 048.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "048.001"
+  },
+  {
+    "id": "370455",
+    "title": "Chapter 047.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047.002"
+  },
+  {
+    "id": "370454",
+    "title": "Chapter 047.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "047.001"
+  },
+  {
+    "id": "370453",
+    "title": "Chapter 046.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046.002"
+  },
+  {
+    "id": "370452",
+    "title": "Chapter 046.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "046.001"
+  },
+  {
+    "id": "370451",
+    "title": "Chapter 045.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045.002"
+  },
+  {
+    "id": "370450",
+    "title": "Chapter 045.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "045.001"
+  },
+  {
+    "id": "370449",
+    "title": "Chapter 044.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044.002"
+  },
+  {
+    "id": "370448",
+    "title": "Chapter 044.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "044.001"
+  },
+  {
+    "id": "370447",
+    "title": "Chapter 043.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043.002"
+  },
+  {
+    "id": "370446",
+    "title": "Chapter 043.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "043.001"
+  },
+  {
+    "id": "370445",
+    "title": "Chapter 042.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042.002"
+  },
+  {
+    "id": "370444",
+    "title": "Chapter 042.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "042.001"
+  },
+  {
+    "id": "370443",
+    "title": "Chapter 041.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041.002"
+  },
+  {
+    "id": "370442",
+    "title": "Chapter 041.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "041.001"
+  },
+  {
+    "id": "370441",
+    "title": "Chapter 040.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.002"
+  },
+  {
+    "id": "370440",
+    "title": "Chapter 040.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "040.001"
+  },
+  {
+    "id": "370439",
+    "title": "Chapter 039.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039.002"
+  },
+  {
+    "id": "370438",
+    "title": "Chapter 039.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "039.001"
+  },
+  {
+    "id": "370437",
+    "title": "Chapter 038.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038.002"
+  },
+  {
+    "id": "370436",
+    "title": "Chapter 038.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "038.001"
+  },
+  {
+    "id": "370435",
+    "title": "Chapter 037.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.002"
+  },
+  {
+    "id": "370434",
+    "title": "Chapter 037.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "037.001"
+  },
+  {
+    "id": "370433",
+    "title": "Chapter 036.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036.002"
+  },
+  {
+    "id": "370432",
+    "title": "Chapter 036.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "036.001"
+  },
+  {
+    "id": "370431",
+    "title": "Chapter 035.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035.002"
+  },
+  {
+    "id": "370430",
+    "title": "Chapter 035.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "035.001"
+  },
+  {
+    "id": "370429",
+    "title": "Chapter 034.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034.002"
+  },
+  {
+    "id": "370428",
+    "title": "Chapter 034.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "034.001"
+  },
+  {
+    "id": "370427",
+    "title": "Chapter 033.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033.002"
+  },
+  {
+    "id": "370426",
+    "title": "Chapter 033.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "033.001"
+  },
+  {
+    "id": "370425",
+    "title": "Chapter 032.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032.002"
+  },
+  {
+    "id": "370424",
+    "title": "Chapter 032.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "032.001"
+  },
+  {
+    "id": "370423",
+    "title": "Chapter 031.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031.002"
+  },
+  {
+    "id": "370422",
+    "title": "Chapter 031",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "031"
+  },
+  {
+    "id": "370421",
+    "title": "Chapter 030.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030.002"
+  },
+  {
+    "id": "370420",
+    "title": "Chapter 030.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030.001"
+  },
+  {
+    "id": "370419",
+    "title": "Chapter 030",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "030"
+  },
+  {
+    "id": "370418",
+    "title": "Chapter 029.002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029.002"
+  },
+  {
+    "id": "370417",
+    "title": "Chapter 029.001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "029.001"
+  },
+  {
+    "id": "370416",
+    "title": "Chapter 028.007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028.007"
+  },
+  {
+    "id": "370415",
+    "title": "Chapter 028.006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028.006"
+  },
+  {
+    "id": "370414",
+    "title": "Chapter 028.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028.005"
+  },
+  {
+    "id": "370413",
+    "title": "Chapter 028",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "028"
+  },
+  {
+    "id": "370412",
+    "title": "Chapter 027.005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027.005"
+  },
+  {
+    "id": "370411",
+    "title": "Chapter 027",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "027"
+  },
+  {
+    "id": "370410",
+    "title": "Chapter 026",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "026"
+  },
+  {
+    "id": "370409",
+    "title": "Chapter 025",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "025"
+  },
+  {
+    "id": "370408",
+    "title": "Chapter 024",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "024"
+  },
+  {
+    "id": "370407",
+    "title": "Chapter 023",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "023"
+  },
+  {
+    "id": "370406",
+    "title": "Chapter 022",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "022"
+  },
+  {
+    "id": "370405",
+    "title": "Chapter 021",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "021"
+  },
+  {
+    "id": "370404",
+    "title": "Chapter 020",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "020"
+  },
+  {
+    "id": "370403",
+    "title": "Chapter 019",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "019"
+  },
+  {
+    "id": "370402",
+    "title": "Chapter 018",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "018"
+  },
+  {
+    "id": "370401",
+    "title": "Chapter 017",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "017"
+  },
+  {
+    "id": "370400",
+    "title": "Chapter 016",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "016"
+  },
+  {
+    "id": "370399",
+    "title": "Chapter 015",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "015"
+  },
+  {
+    "id": "370398",
+    "title": "Chapter 014",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "014"
+  },
+  {
+    "id": "370397",
+    "title": "Chapter 013",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "013"
+  },
+  {
+    "id": "370396",
+    "title": "Chapter 012",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "012"
+  },
+  {
+    "id": "370395",
+    "title": "Chapter 011",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "011"
+  },
+  {
+    "id": "370394",
+    "title": "Chapter 010",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "010"
+  },
+  {
+    "id": "370393",
+    "title": "Chapter 009",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "009"
+  },
+  {
+    "id": "370392",
+    "title": "Chapter 008",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "008"
+  },
+  {
+    "id": "370391",
+    "title": "Chapter 007",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "007"
+  },
+  {
+    "id": "370390",
+    "title": "Chapter 006",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "006"
+  },
+  {
+    "id": "370389",
+    "title": "Chapter 005",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "005"
+  },
+  {
+    "id": "370388",
+    "title": "Chapter 004",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "004"
+  },
+  {
+    "id": "370387",
+    "title": "Chapter 003",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "003"
+  },
+  {
+    "id": "370386",
+    "title": "Chapter 002",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "002"
+  },
+  {
+    "id": "370385",
+    "title": "Chapter 001",
+    "language": "en",
+    "scanlator": "",
+    "volume": null,
+    "number": "001"
+  }
+]
